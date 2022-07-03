@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true
+}

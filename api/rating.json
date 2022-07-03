@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4574334",
+  "title": "Stranger Things",
+  "fullTitle": "Stranger Things (TV Series 2016– )",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "34.8%",
+      "votes": "353862"
+    },
+    {
+      "rating": "9",
+      "percent": "29.5%",
+      "votes": "299730"
+    },
+    {
+      "rating": "8",
+      "percent": "20.7%",
+      "votes": "210110"
+    },
+    {
+      "rating": "7",
+      "percent": "8.7%",
+      "votes": "88410"
+    },
+    {
+      "rating": "6",
+      "percent": "2.9%",
+      "votes": "29809"
+    },
+    {
+      "rating": "5",
+      "percent": "1.2%",
+      "votes": "12050"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "5666"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "3918"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "2801"
+    },
+    {
+      "rating": "1",
+      "percent": "1.0%",
+      "votes": "10154"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.7",
+      "votes": "1016510"
+    },
+    "agesUnder18": {
+      "rating": "8.6",
+      "votes": "1231"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "153514"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "277716"
+    },
+    "agesOver45": {
+      "rating": "8.5",
+      "votes": "78334"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.7",
+      "votes": "430917"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "731"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "104935"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "206495"
+    },
+    "agesOver45": {
+      "rating": "8.5",
+      "votes": "57810"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.8",
+      "votes": "136841"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "279"
+    },
+    "ages18To29": {
+      "rating": "8.9",
+      "votes": "37728"
+    },
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "61788"
+    },
+    "agesOver45": {
+      "rating": "8.7",
+      "votes": "17666"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.1",
+    "votes": "604"
+  },
+  "usUsers": {
+    "rating": "8.8",
+    "votes": "99527"
+  },
+  "nonUSUsers": {
+    "rating": "8.6",
+    "votes": "269146"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,4826 @@
+{
+  "jsonGraph": {
+    "mylist": {
+      "0": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "60020686"
+        ]
+      },
+      "1": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "60034572"
+        ]
+      },
+      "2": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70117295"
+        ]
+      },
+      "3": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80018988"
+        ]
+      },
+      "4": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80057281"
+        ]
+      },
+      "5": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81228573"
+        ]
+      },
+      "6": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81058649"
+        ]
+      },
+      "7": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81318943"
+        ]
+      },
+      "8": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81511410"
+        ]
+      },
+      "9": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70305930"
+        ]
+      },
+      "10": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70155551"
+        ]
+      },
+      "11": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81050064"
+        ]
+      },
+      "12": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80117291"
+        ]
+      },
+      "13": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81442047"
+        ]
+      },
+      "14": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70281532"
+        ]
+      },
+      "15": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81161575"
+        ]
+      },
+      "16": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81144534"
+        ]
+      },
+      "17": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80179798"
+        ]
+      },
+      "18": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80027563"
+        ]
+      },
+      "19": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81145640"
+        ]
+      },
+      "20": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81435684"
+        ]
+      },
+      "21": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70087537"
+        ]
+      },
+      "22": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80223989"
+        ]
+      },
+      "23": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80192098"
+        ]
+      },
+      "24": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80189221"
+        ]
+      },
+      "25": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81503460"
+        ]
+      },
+      "26": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81236338"
+        ]
+      },
+      "27": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80008434"
+        ]
+      },
+      "28": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80114225"
+        ]
+      },
+      "29": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81054847"
+        ]
+      },
+      "30": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80104198"
+        ]
+      },
+      "31": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80205560"
+        ]
+      },
+      "32": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80156387"
+        ]
+      },
+      "33": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70213514"
+        ]
+      },
+      "34": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70283264"
+        ]
+      },
+      "35": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81345945"
+        ]
+      },
+      "36": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80084447"
+        ]
+      },
+      "37": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80211991"
+        ]
+      },
+      "38": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81009646"
+        ]
+      },
+      "39": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81043571"
+        ]
+      },
+      "40": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80027042"
+        ]
+      },
+      "41": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81012510"
+        ]
+      },
+      "42": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80218200"
+        ]
+      },
+      "43": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80043576"
+        ]
+      },
+      "44": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70142436"
+        ]
+      },
+      "45": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80198505"
+        ]
+      },
+      "46": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "80238357"
+        ]
+      },
+      "47": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "70044590"
+        ]
+      },
+      "48": {
+        "$type": "ref",
+        "value": [
+          "videos",
+          "81266992"
+        ]
+      },
+      "listId": {
+        "$type": "atom",
+        "value": null
+      },
+      "name": {
+        "$type": "atom",
+        "value": null
+      },
+      "requestId": {
+        "$type": "atom",
+        "value": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244"
+      },
+      "trackIds": {
+        "$type": "atom",
+        "$size": 102,
+        "value": {
+          "trackId_jaw": 254814401,
+          "trackId": 254761469,
+          "trackId_jawEpisode": 254794450,
+          "trackId_jawTrailer": 254777360
+        }
+      }
+    },
+    "videos": {
+      "60020686": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 31",
+            "availabilityStartTime": 1648746000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 60020686,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 60020686,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 31",
+              "availabilityStartTime": 1648746000000
+            },
+            "videoId": 60020686,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2001,
+            "numSeasonsLabel": null,
+            "title": "Shrek",
+            "titleMaturity": {
+              "level": 41
+            },
+            "infoDensityRuntime": 5429,
+            "boxArt": {
+              "videoId": 60020686,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUo5rp96CNuW41_NLHpZhsBQUzUY0fyOfx5NpujpuFNegrj2McSyr9JcUfPGWrGnLET1u39m34-0sGe7B79uQ1ZB26wPRQYmhzg.webp?r=c17",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|48534060-a825-11e5-9ff8-12313d184896|en|l5x"
+            }
+          }
+        }
+      },
+      "60034572": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 31",
+            "availabilityStartTime": 1648746000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 60034572,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 60034572,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 31",
+              "availabilityStartTime": 1648746000000
+            },
+            "videoId": 60034572,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2004,
+            "numSeasonsLabel": null,
+            "title": "Shrek 2",
+            "titleMaturity": {
+              "level": 41
+            },
+            "infoDensityRuntime": 5569,
+            "boxArt": {
+              "videoId": 60034572,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcNpNOXauEB-7I2tN6qiLmW3Qqc90OOAkGHcl8sFMFUM386s8cXT-55YAuTEQr3tItpXRyH3HKnxO0icoiJqSFDcLOsuhHUi91k.webp?r=55c",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|f8532e60-a827-11e5-b894-22000aaa184d|en|l5x"
+            }
+          }
+        }
+      },
+      "70044590": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "August 31",
+            "availabilityStartTime": 1630429200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70044590,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70044590,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "August 31",
+              "availabilityStartTime": 1630429200000
+            },
+            "videoId": 70044590,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2006,
+            "numSeasonsLabel": null,
+            "title": "Ultraviolet",
+            "titleMaturity": {
+              "level": 80
+            },
+            "infoDensityRuntime": 5253,
+            "boxArt": {
+              "videoId": 70044590,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXgWJiw_qjyWdO8_aC0yVX7wo1fJu8CAqG8XFMiIl_GANmOMpse9xZD9BBKQ2t9I6eUG47h75xZE0bsoV2NrWKv2LXvJ2UGzqII.webp?r=584",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|0a5084e2-9867-11e4-a1ee-9bac66e36b14|en"
+            }
+          }
+        }
+      },
+      "70087537": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "February 15",
+            "availabilityStartTime": 1644944400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70087537,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70087537,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "February 15",
+              "availabilityStartTime": 1644944400000
+            },
+            "videoId": 70087537,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2008,
+            "numSeasonsLabel": null,
+            "title": "The Incredible Hulk",
+            "titleMaturity": {
+              "level": 80
+            },
+            "infoDensityRuntime": 6731,
+            "boxArt": {
+              "videoId": 70087537,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWpdA9Wd3mvf5q2FagOq_BcgN9DNjm9SBWlP5QhKbaDSic14_VCJ6plqZlvX-2qbiBUgYXhsun06IkaBL6pz1J9Tyn0Lzemk8dM.webp?r=2dc",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|d6acc790-f956-11e6-a546-0ecd81b18c52|en|l5x"
+            }
+          }
+        }
+      },
+      "70117295": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 11",
+            "availabilityStartTime": 1649696400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70117295,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70117295,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 11",
+              "availabilityStartTime": 1649696400000
+            },
+            "videoId": 70117295,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2010,
+            "numSeasonsLabel": null,
+            "title": "Shrek Forever After",
+            "titleMaturity": {
+              "level": 41
+            },
+            "infoDensityRuntime": 5704,
+            "boxArt": {
+              "videoId": 70117295,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTVBEyDHCsDLPR1K2N1ec08k7R8hfJMsmJHe-G_ItO5xJReLSsAkDJ4sHf71wtUMDMatBS_ANDrFbsMG7myRGdm0Bsas7VcKTOE.webp?r=5b5",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|2e946c80-a82a-11e5-8f48-22000a9503b8|en|l5x"
+            }
+          }
+        }
+      },
+      "70142436": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "December 14",
+            "availabilityStartTime": 1576342800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 70142436,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 65
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 70142436,
+              "id": 81030825,
+              "start": 0,
+              "computeId": "browse|81030825|en-US|_DEF_"
+            },
+            "id": 70142436,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "substances",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "December 14",
+              "availabilityStartTime": 1576342800000
+            },
+            "videoId": 70142436,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2012,
+            "numSeasonsLabel": "5 Seasons",
+            "title": "Merlin",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 5,
+            "episodeCount": 65,
+            "boxArt": {
+              "videoId": 70142436,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSxYkavPBO54K1LarOIRiEdrOpdyIah-nSIvgISKPi4bmS9j94qi5jm05YPLyCf2Vp1GiRdQIMzIYyNx3s0_WswJcdMcVIzxYD0.webp?r=f09",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|4ceb5d91-d3a7-11e4-be77-2596b06afb42|en|l5x|70248002"
+            }
+          }
+        }
+      },
+      "70155551": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "December 6",
+            "availabilityStartTime": 1607274000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 70155551,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 64
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 70155551,
+              "id": 81362238,
+              "start": 0,
+              "computeId": "browse|81362238|VN:en|l5x"
+            },
+            "id": 70155551,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "language",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "December 6",
+              "availabilityStartTime": 1607274000000
+            },
+            "videoId": 70155551,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "Hell's Kitchen",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 4,
+            "episodeCount": 64,
+            "boxArt": {
+              "videoId": 70155551,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbTaUNcwaItOzchuik4pk0JLnxJ3TjYC3-7_gLqvV5duX-KrkehixPGg2soB0WFbMyHlfoh-CIS8G_UJgsAxXwT01Ytqk5wSU_s.webp?r=27d",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|a22bced0-fc08-11eb-9ba5-0a4805769c59|en"
+            }
+          }
+        }
+      },
+      "70213514": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 31",
+            "availabilityStartTime": 1648746000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70213514,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70213514,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 31",
+              "availabilityStartTime": 1648746000000
+            },
+            "videoId": 70213514,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2012,
+            "numSeasonsLabel": null,
+            "title": "The Dark Knight Rises",
+            "titleMaturity": {
+              "level": 80
+            },
+            "infoDensityRuntime": 9868,
+            "boxArt": {
+              "videoId": 70213514,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeYXKDCD0La9hr4XdldXpNnqJxfp7p4ayWfns1BWBFxRcfddT0enDL1YJ5sHVpGfVfTozeKlxDINUrENfNWqlVH_whQcaQRaLyI.webp?r=181",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|c269f006-4aca-11e5-be8b-f5f89dc5f65c|en|l5x"
+            }
+          }
+        }
+      },
+      "70281532": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "August 31",
+            "availabilityStartTime": 1630429200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70281532,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70281532,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": []
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "August 31",
+              "availabilityStartTime": 1630429200000
+            },
+            "videoId": 70281532,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2013,
+            "numSeasonsLabel": null,
+            "title": "The Hobbit: The Desolation of Smaug",
+            "titleMaturity": {
+              "level": 110
+            },
+            "infoDensityRuntime": 9665,
+            "boxArt": {
+              "videoId": 70281532,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ9HBm62boQXsNrM7qMNQlvsNNE-9DuY8JP-2s9bvqdS3IdWn_zgp-5ER2DsTEa7k_aHvJBg17jdbspNeI1mYzH27dggX1iq0V4.webp?r=e09",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|9d3144e0-0186-11ec-a92a-0af164c15df3|en"
+            }
+          }
+        }
+      },
+      "70283264": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "January 5",
+            "availabilityStartTime": 1452013200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 70283264,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 100
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 70283264,
+              "id": 81006814,
+              "start": 0,
+              "computeId": "browse|81006814|en-US|_DEF_"
+            },
+            "id": 70283264,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, suicide, self-harm",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  },
+                  {
+                    "id": 7804,
+                    "levelDescription": null,
+                    "reasonDescription": "self-harm"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "January 5",
+              "availabilityStartTime": 1452013200000
+            },
+            "videoId": 70283264,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2020,
+            "numSeasonsLabel": "7 Seasons",
+            "title": "The 100",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 7,
+            "episodeCount": 100,
+            "boxArt": {
+              "videoId": 70283264,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaY6xghT1yTfefGb69cXfbmRsG0Hi3itbOh3IwAahtjvNtrgiOrBKXn8zVmcyqy3kV8Lj_8-OnNMWpRgw6MlvzswuLbHxSblLC4.webp?r=dcd",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|db588200-c57f-11e9-b109-12646a868666|en|l5x|81243482"
+            }
+          }
+        }
+      },
+      "70305930": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 10",
+            "availabilityStartTime": 1649610000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 70305930,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 70305930,
+            "type": "movie",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": []
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 10",
+              "availabilityStartTime": 1649610000000
+            },
+            "videoId": 70305930,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2014,
+            "numSeasonsLabel": null,
+            "title": "The Hobbit: The Battle of the Five Armies",
+            "titleMaturity": {
+              "level": 110
+            },
+            "infoDensityRuntime": 8657,
+            "boxArt": {
+              "videoId": 70305930,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQH2Q2mkyuptI8isjd1fIqd435Rn_UnLmXBlGWzSn3mCrmrsXuUP0HoDFq3C1KlCy42j80Lx2hyGSXB3D3tCf-JSGT6aQM4GxR8.webp?r=6ba",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|06cb33e0-0b12-11ec-8c19-1236f3926ec7|en|l5x"
+            }
+          }
+        }
+      },
+      "80008434": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 8",
+            "availabilityStartTime": 1460134800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80008434,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 68
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80008434,
+              "id": 81058931,
+              "start": 0,
+              "computeId": "browse|81058931|VN:en|l5x"
+            },
+            "id": 80008434,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 8",
+              "availabilityStartTime": 1460134800000
+            },
+            "videoId": 80008434,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2018,
+            "numSeasonsLabel": "5 Seasons",
+            "title": "Z Nation",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 5,
+            "episodeCount": 68,
+            "boxArt": {
+              "videoId": 80008434,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWKe360sniLjTo7oLyZYV5nU6Kq4L-cgTVSRKPFeSmumDcn-GMZfajHnBV5tpP2LUHANZ9S-W6HlEzJ1TMy0Eq2HVqwDns4HlC4.webp?r=ada",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|fe332c71-7f08-11e4-9e90-7d303258eff5|en|l5x|80990592"
+            }
+          }
+        }
+      },
+      "80018988": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "December 10",
+            "availabilityStartTime": 1512925200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80018988,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 77
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80018988,
+              "id": 81087562,
+              "start": 0,
+              "computeId": "browse|81087562|VN:en|l5x"
+            },
+            "id": 80018988,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "December 10",
+              "availabilityStartTime": 1512925200000
+            },
+            "videoId": 80018988,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2018,
+            "numSeasonsLabel": "6 Seasons",
+            "title": "The Adventures of Puss in Boots",
+            "titleMaturity": {
+              "level": 41
+            },
+            "seasonCount": 6,
+            "episodeCount": 77,
+            "boxArt": {
+              "videoId": 80018988,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbY8WsdRpawKil6_FsGQXqdmCMlwnbUDXdJAqM_oA0fgXAqzBTas7rLrr7nAdSDpDCOSobWfKHDVtcJERh9iWXpC2Pelgvp7bAE.webp?r=943",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|553c32c0-f7d6-11e7-825a-0a1ca4622106|en"
+            }
+          }
+        }
+      },
+      "80027042": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "June 5",
+            "availabilityStartTime": 1496682000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80027042,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 151
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80027042,
+              "id": 81008442,
+              "start": 0,
+              "computeId": "browse|81008442|en-US|_DEF_"
+            },
+            "id": 80027042,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "June 5",
+              "availabilityStartTime": 1496682000000
+            },
+            "videoId": 80027042,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "7 Seasons",
+            "title": "The Flash",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 7,
+            "episodeCount": 151,
+            "boxArt": {
+              "videoId": 80027042,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ8d-o7DSRST-RZOJNyuAYd94GCWA5eD3GjorQM1ABGnZyjUsPkax2NmIJXOQnCSdWgluJSlQ1zOBgHFgmNL8HnG3zXrFmOCRzU.webp?r=615",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|3ae6a561-2c41-11e7-bb67-125f3bec98f6|en"
+            }
+          }
+        }
+      },
+      "80027563": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "September 29",
+            "availabilityStartTime": 1632934800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80027563,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 52
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80027563,
+              "id": 81323069,
+              "start": 0,
+              "computeId": "browse|81323069|VN:en|l5x"
+            },
+            "id": 80027563,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "September 29",
+              "availabilityStartTime": 1632934800000
+            },
+            "videoId": 80027563,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2014,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "The Legend of Korra",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 4,
+            "episodeCount": 52,
+            "boxArt": {
+              "videoId": 80027563,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZj_7n4K31rhCs3FwRF-8HF3d-bKbv090c1yQ8TPo5vuMCbIzJTQDEP2nzlP1e27dAtz-1CvC56_6lkaJOf17_QBO3gr2hKYH0E.webp?r=d41",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|302e7de0-c609-11ea-a3e2-0ea85b8e9a8b|en|l5x|80091697"
+            }
+          }
+        }
+      },
+      "80043576": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 12",
+            "availabilityStartTime": 1460444400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80043576,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 26
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80043576,
+              "id": 80104430,
+              "start": 3000,
+              "computeId": "browse|80104430|VN:en|l5x"
+            },
+            "id": 80043576,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 12",
+              "availabilityStartTime": 1460444400000
+            },
+            "videoId": 80043576,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2016,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "AJIN: Demi-Human",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 26,
+            "boxArt": {
+              "videoId": 80043576,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfrSNHC1IZQEo8Tl9CUoOpilz8WN6PnvRiw6MJ1iieuwuYb41GwKOu8GgyLMjmSqzxWAL1ONaFmlLeM0HMuHawZsSnwo8e2FzwTP9YH37vjnEQVKyAd51_GTUTmV0N3sq8Jc.jpg?r=af2",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|76ffe4b0-e986-11e6-a287-0ace5de2dce6|en"
+            }
+          }
+        }
+      },
+      "80057281": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80057281,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 34
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80057281,
+              "id": 81622674,
+              "start": 0,
+              "computeId": "browse|81622674|VN:en|l5x"
+            },
+            "id": 80057281,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "July 15",
+              "availabilityStartTime": 1468591200000
+            },
+            "videoId": 80057281,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "Stranger Things",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 4,
+            "episodeCount": 34,
+            "boxArt": {
+              "videoId": 80057281,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWu8-ur7hO8Jc4ta4UisHxtkHi6q8AWpKu51u4pisuSnESDH-vhbNxHyK0jCqoWbEGZtlRLpLfb0Vm18jqfu1LZznE4C2S5G8X_lD6p5cJuNps0vLF6ee29UMbzzFMYTGhERQdNJC4zJCA6TLdDYFAvakaJFRUCV3ypKvN3fkfkTFu-jDfx3EeNhkGcQ5T9Kok6uYjGGU3m5j9nAHDx55GfjeXd8GOoX.jpg?r=ea5",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|b8a66741-f263-11ec-b61b-0ed599ebee95|en|l5x|81551471"
+            }
+          }
+        }
+      },
+      "80084447": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "January 13",
+            "availabilityStartTime": 1452672000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80084447,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 55
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80084447,
+              "id": 80094272,
+              "start": 1000,
+              "computeId": "browse|80094272|VN:en|l5x"
+            },
+            "id": 80084447,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence, substances",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "January 13",
+              "availabilityStartTime": 1452672000000
+            },
+            "videoId": 80084447,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2019,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "Shadowhunters: The Mortal Instruments",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 4,
+            "episodeCount": 55,
+            "boxArt": {
+              "videoId": 80084447,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSeCVT-31SVOYMhmwNPZn3qLkSfxQllO-37cC7pqNFbhssSPUWN-fbe9i9fLM9m15NAY081Qpebrqu4XDLpSY89KWolWMbagRVqf2KXslINTtjBEe2y4PeT6qrYNmJmh-t53.jpg?r=158",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|895049f3-241e-11e9-b776-0e2ef43abd06|en|l5x|81040450"
+            }
+          }
+        }
+      },
+      "80104198": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 13",
+            "availabilityStartTime": 1523602800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80104198,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 28
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80104198,
+              "id": 81515803,
+              "start": 0,
+              "computeId": "browse|81515803|VN:en|l5x"
+            },
+            "id": 80104198,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 13",
+              "availabilityStartTime": 1523602800000
+            },
+            "videoId": 80104198,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "3 Seasons",
+            "title": "Lost in Space",
+            "titleMaturity": {
+              "level": 41
+            },
+            "seasonCount": 3,
+            "episodeCount": 28,
+            "boxArt": {
+              "videoId": 80104198,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQGnQ7bsbIhA0J76oRDrWO093s3AmhmeBuoGMbIKyjscFFyx3tz8C8DgbIIZfo7ynLVPI2K5PMiN64CJ5Wqb17hwEu8ZA8eW-t7IYlaYUoTXZKrk26jyDeF-DPgrImOL4NxZ.jpg?r=0b3",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|c88b90c1-32b2-11ec-87da-0e06cc31e135|en|l5x|81016967"
+            }
+          }
+        }
+      },
+      "80114225": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "July 30",
+            "availabilityStartTime": 1627664400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80114225,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80114225,
+              "id": 81203657,
+              "start": 0,
+              "computeId": "browse|81203657|VN:en|l5x"
+            },
+            "id": 80114225,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "July 30",
+              "availabilityStartTime": 1627664400000
+            },
+            "videoId": 80114225,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2016,
+            "numSeasonsLabel": "12 Episodes",
+            "title": "Erased",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 80114225,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfeyfwT2nyC-tCWh_3hfvjj5qe25Nl3BGyVxee7mHlWpbfVG9IO4Z0EdfmJPDj4QATMXMUdcyGWOFQYyqGhnTxRHXStUp50EYic.webp?r=0b7",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|59e76350-c21f-11e6-9935-0e094703c7fa|en"
+            }
+          }
+        }
+      },
+      "80117291": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "May 31",
+            "availabilityStartTime": 1654016400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80117291,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 24
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80117291,
+              "id": 81034098,
+              "start": 0,
+              "computeId": "browse|81034098|en-US|_DEF_"
+            },
+            "id": 80117291,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "May 31",
+              "availabilityStartTime": 1654016400000
+            },
+            "videoId": 80117291,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2019,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "One-Punch Man",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 24,
+            "boxArt": {
+              "videoId": 80117291,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa3F0QtR33BsNBAF_1UwVnxR1RtIlcegqaOneOeP6aL3fkDpNAlaDFo4kQ3E3JLtACM3RAd96leglzDU04qI7ZnwqX8BdHVmc5g.webp?r=aed",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|d4000870-051a-11e7-b5c6-0a64eb02935e|en|l5x|81079759"
+            }
+          }
+        }
+      },
+      "80156387": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "June 30",
+            "availabilityStartTime": 1498806000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80156387,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 25
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80156387,
+              "id": 80208922,
+              "start": 1000,
+              "computeId": "browse|80208922|VN:en|l5x"
+            },
+            "id": 80156387,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "June 30",
+              "availabilityStartTime": 1498806000000
+            },
+            "videoId": 80156387,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2017,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "Little Witch Academia",
+            "titleMaturity": {
+              "level": 41
+            },
+            "seasonCount": 2,
+            "episodeCount": 25,
+            "boxArt": {
+              "videoId": 80156387,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdl5CDC3BXWtHSHFqWtwxIuqrZq-XkAKo7qZOQZdge5QE68XpZybB6f0Eo5lWHmFbAsPwxMmZZ7QVBaZgvLqtss7tySKQrf-EgMW2fIXoXB0Vot3K3yMcV3YvaK1F89jMLdn.jpg?r=45b",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|dab58061-5370-11e7-bafa-0e91347c4836|en"
+            }
+          }
+        }
+      },
+      "80179798": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "December 9",
+            "availabilityStartTime": 1639069200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80179798,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80179798,
+              "id": 81122187,
+              "start": 0,
+              "computeId": "browse|81122187|VN:en|l5x"
+            },
+            "id": 80179798,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "December 9",
+              "availabilityStartTime": 1639069200000
+            },
+            "videoId": 80179798,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2019,
+            "numSeasonsLabel": "12 Episodes",
+            "title": "Mob Psycho 100",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 80179798,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRzYa4bA58OjF_rpn3pCpmVz2ophyC6MiqWO-8785kY_k2sgzoiNwdDomeKxkym4Y3AC_4B_zIkt8sVfFvjCl2nDPa5Lm_TxJ50.webp?r=da0",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|9ef15151-e09a-11e7-84b1-124a666b8528|en"
+            }
+          }
+        }
+      },
+      "80189221": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "October 12",
+            "availabilityStartTime": 1539327600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80189221,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 10
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80189221,
+              "id": 81031033,
+              "start": 970,
+              "computeId": "browse|81031033|VN:en|l5x"
+            },
+            "id": 80189221,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "sex, language, substances",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "October 12",
+              "availabilityStartTime": 1539327600000
+            },
+            "videoId": 80189221,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2018,
+            "numSeasonsLabel": "10 Episodes",
+            "title": "The Haunting of Hill House",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 1,
+            "episodeCount": 10,
+            "boxArt": {
+              "videoId": 80189221,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf6Upurdw5zPleX1k3cPBCEfzg4kvvg9p5Ko_I4Gtjhj2Gehr5VXW0b05v1WiMsBpGOWPc4ZrOP4ANakgUmpss-wdba9sgmYMzMTYRx1eBVAJscW10WDXSwHBE-S4ZmZ60rX.jpg?r=4cd",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|b3904be1-c913-11e8-b37c-12066c8e0058|en"
+            }
+          }
+        }
+      },
+      "80192098": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "July 19",
+            "availabilityStartTime": 1563519600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80192098,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 48
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80192098,
+              "id": 81519439,
+              "start": 0,
+              "computeId": "browse|81519439|VN:en|l5x"
+            },
+            "id": 80192098,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, nudity, language, substances, sexual violence",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  },
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  },
+                  {
+                    "id": 7802,
+                    "levelDescription": null,
+                    "reasonDescription": "sexual violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "July 19",
+              "availabilityStartTime": 1563519600000
+            },
+            "videoId": 80192098,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "5 Parts",
+            "title": "Money Heist",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 5,
+            "episodeCount": 48,
+            "boxArt": {
+              "videoId": 80192098,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTDmVNNR4VSlQb253en2SRXMKTFvCDmO0BC6eH3_kgoNrlRSv4Gh1VXm8Q0-U_FKOU7uHgAuv2DCMIocxH7IROElpZRejtB-vVHaxAbr2Ofo4PCn82vPBghRlBrU8CKqCYg9uoYEii5SXocWi1ZndDYIvNt_S5VwAkK6Evbg7pbcKwzF3LQ63ejP4wuC_qU.jpg?r=8a4",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|f881eb71-52f2-11ec-ae13-0e18a7e7ced3|en|l5x|81509720"
+            }
+          }
+        }
+      },
+      "80198505": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 20",
+            "availabilityStartTime": 1524207600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80198505,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 40
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80198505,
+              "id": 81513922,
+              "start": 0,
+              "computeId": "browse|81513922|VN:en|l5x"
+            },
+            "id": 80198505,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 20",
+              "availabilityStartTime": 1524207600000
+            },
+            "videoId": 80198505,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "Aggretsuko",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 4,
+            "episodeCount": 40,
+            "boxArt": {
+              "videoId": 80198505,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSfe37HI4PcHDj66IVmynhv2bbgOcyNG0GvXSjaCxnxdna1g61aazGDSROgxSY2cyBeeMhgbM_tadvznhztuzrzneEuMgxsWqnn2RHiyD1bmtqp0J7l3gNFeJrzeZZfz-ypI.jpg?r=7e7",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|aee56131-4c22-11ec-bc0d-12278ae6a661|en|l5x|81382848"
+            }
+          }
+        }
+      },
+      "80205560": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "October 22",
+            "availabilityStartTime": 1603386000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80205560,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 24
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80205560,
+              "id": 81168656,
+              "start": 0,
+              "computeId": "browse|81168656|VN:en|l5x"
+            },
+            "id": 80205560,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "October 22",
+              "availabilityStartTime": 1603386000000
+            },
+            "videoId": 80205560,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2017,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "Blood Blockade Battlefront",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 24,
+            "boxArt": {
+              "videoId": 80205560,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTopUkgDzJLJn2FK3RyWV0waeYZ4Dx0eGHG0iXZL7IQHDQIt8mtsHn2ZcO_K6wVwDIBVwYz4LliXwRNHVnePk36ER1xs5RkzxKg.webp?r=763",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|233fc1f0-8e23-11e7-8a87-1269a1b5ff16|en"
+            }
+          }
+        }
+      },
+      "80211991": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "December 26",
+            "availabilityStartTime": 1545811200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80211991,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 30
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80211991,
+              "id": 81046403,
+              "start": 0,
+              "computeId": "browse|81046403|VN:en|l5x"
+            },
+            "id": 80211991,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, nudity, language, substances, suicide",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  },
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  },
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "December 26",
+              "availabilityStartTime": 1545811200000
+            },
+            "videoId": 80211991,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "3 Seasons",
+            "title": "You",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 3,
+            "episodeCount": 30,
+            "boxArt": {
+              "videoId": 80211991,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXIz1P1xK_roeDgn4Xva8YlC4RyBbP_HdcUvrb9vrfGIcFCPh3uRJs1F1TvixLIcLvVyHHZMtP6tB-g4qH_jz_OcQ090qf2k-S1yXoZb00Ou4u7S7V1_tUgPL8PPGUM9FKwD.jpg?r=788",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|74145750-14e1-11ec-81e5-1218123d2735|en|l5x|80226692"
+            }
+          }
+        }
+      },
+      "80218200": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "January 11",
+            "availabilityStartTime": 1547193600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80218200,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 37
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80218200,
+              "id": 81070477,
+              "start": 0,
+              "computeId": "browse|81070477|VN:en|l5x"
+            },
+            "id": 80218200,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, nudity, language, substances",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  },
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "January 11",
+              "availabilityStartTime": 1547193600000
+            },
+            "videoId": 80218200,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "3 Seasons",
+            "title": "Titans",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 3,
+            "episodeCount": 37,
+            "boxArt": {
+              "videoId": 80218200,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc9Au8YodgiAUD0qhNw17VkQ0Vj08UNjmiTT4JLxuaOpECtAxp7TtZM74hcooASxzcouIVSElPdSNYKsh8Mkx_jmJ1T4zmwWlPrUlMog6YtrRRQ6CEo2vEDA2dnPJn7l77Tf.jpg?r=d46",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|c4adc301-2c5f-11ec-b8f0-12c6890a6ec3|en|l5x|80226688"
+            }
+          }
+        }
+      },
+      "80223989": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "October 26",
+            "availabilityStartTime": 1540537200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80223989,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 36
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80223989,
+              "id": 81226574,
+              "start": 0,
+              "computeId": "browse|81226574|VN:en|l5x"
+            },
+            "id": 80223989,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, nudity",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "October 26",
+              "availabilityStartTime": 1540537200000
+            },
+            "videoId": 80223989,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2020,
+            "numSeasonsLabel": "4 Parts",
+            "title": "Chilling Adventures of Sabrina",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 4,
+            "episodeCount": 36,
+            "boxArt": {
+              "videoId": 80223989,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXeX4DVI4rC3BB3Ov49WSyqSkb8gKHUAudzOWDo9E7MMbEbkPewB_4xZ6ClbXDtANmvJSoVITRkh4ixs56BmxGScuqRSlzPfZlXf7DlbtAUcLTf1QKRpfF-emRONEr3P9jfI.jpg?r=983",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|2cc4aad0-01a5-11eb-ba87-0a3c40ad99b9|en"
+            }
+          }
+        }
+      },
+      "80238357": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 7",
+            "availabilityStartTime": 1551945600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 80238357,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 20
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 80238357,
+              "id": 80998016,
+              "start": 0,
+              "computeId": "browse|80998016|VN:en|l5x"
+            },
+            "id": 80238357,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence, language",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 988,
+                    "levelDescription": null,
+                    "reasonDescription": "language"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 7",
+              "availabilityStartTime": 1551945600000
+            },
+            "videoId": 80238357,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2020,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "The Order",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 20,
+            "boxArt": {
+              "videoId": 80238357,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT7h7A9A6hJdAevtIz4NN9xkw4cwzZ47eH1fEOMindhDeUSXLP9fFXATrYQI1FSmRYs9DqoAjXaxF8MRzeuB3737x6OEz0BKU8SJ32E0uw07NfJ69wT14-gYiop6uJZRXh6P.jpg?r=8d6",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|f7b30e60-a13f-11ea-ab7c-12edad1c0177|en|l5x|80236230"
+            }
+          }
+        }
+      },
+      "81009646": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "September 18",
+            "availabilityStartTime": 1600412400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81009646,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 37
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81009646,
+              "id": 81144671,
+              "start": 0,
+              "computeId": "browse|81144671|VN:en|l5x"
+            },
+            "id": 81009646,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "September 18",
+              "availabilityStartTime": 1600412400000
+            },
+            "videoId": 81009646,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "4 Seasons",
+            "title": "Jurassic World Camp Cretaceous",
+            "titleMaturity": {
+              "level": 41
+            },
+            "seasonCount": 4,
+            "episodeCount": 37,
+            "boxArt": {
+              "videoId": 81009646,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeykvxbe9ABr5a32QF1O5-FQiwV9ODtBJKlk7IH1c-4v1_K5HFaZHXWBRwoe57xsR9azew8EbsBzvmfwwpq5Xg9Gl-0vr_e1Ld-88A2WzJcreaZfYbsDIew6XgctMx7VWSGq.jpg?r=526",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|e352c200-2dcd-11ec-9e82-0e16907eeca1|en|l5x|81083160"
+            }
+          }
+        }
+      },
+      "81012510": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "May 31",
+            "availabilityStartTime": 1590944400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81012510,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 16
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81012510,
+              "id": 81076569,
+              "start": 0,
+              "computeId": "browse|81076569|en-US|_DEF_"
+            },
+            "id": 81012510,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "suicide",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "May 31",
+              "availabilityStartTime": 1590944400000
+            },
+            "videoId": 81012510,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2016,
+            "numSeasonsLabel": "16 Episodes",
+            "title": "Guardian: The Lonely and Great God",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 16,
+            "boxArt": {
+              "videoId": 81012510,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbrFMMJLdC8hoRx72ZiYfE8VcGSRTW9uO01wvZqi5mGT7PSmHQ4T9ZlgKLBQ15jOW8HEHgp8ycLF_3AhtTHqOLxBCzRDbutGrl8.webp?r=719",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|89c6bf92-88ea-11ea-8e8d-120e6fc2a70d|en|l5x|81012511"
+            }
+          }
+        }
+      },
+      "81043571": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "February 25",
+            "availabilityStartTime": 1614240000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81043571,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81043571,
+              "id": 81351691,
+              "start": 20,
+              "computeId": "browse|81351691|VN:en|l5x"
+            },
+            "id": 81043571,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sexual violence, suicide",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 7802,
+                    "levelDescription": null,
+                    "reasonDescription": "sexual violence"
+                  },
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "February 25",
+              "availabilityStartTime": 1614240000000
+            },
+            "videoId": 81043571,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "12 Episodes",
+            "title": "High-Rise Invasion",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 81043571,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTHKBXu7pa7aY-dvuKdFvayUXB5fhyl9Wx8ldergS_NVTZMQAuF3yyHnkhcoqGDam3I6KclIXgVorzh4QABZy959HCUa9bPIeDNLFm-EkISG8K0OF3-APjj5Xw3HsPoVhK7d.jpg?r=cb2",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|c60bf611-551c-11eb-9454-0ac7ddd23573|en"
+            }
+          }
+        }
+      },
+      "81050064": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "June 18",
+            "availabilityStartTime": 1655535600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81050064,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 6
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81050064,
+              "id": 81595694,
+              "start": 0,
+              "computeId": "browse|81595694|VN:en|l5x"
+            },
+            "id": 81050064,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "June 18",
+              "availabilityStartTime": 1655535600000
+            },
+            "videoId": 81050064,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "6 Episodes",
+            "title": "SPRIGGAN",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 1,
+            "episodeCount": 6,
+            "boxArt": {
+              "videoId": 81050064,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY2FnAFaN117m3HmZoKjtPN7odQCI46kvmdsabV9vxlxD5Ct3cwhFLLj6TGM31E9Xu8lndrLjlVSvBjUuCMK83OKzvxtymbq131uckJIggarVt1QaxVutGTT8-Yc0nDNmbyi.jpg?r=551",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|eda8b1f1-d0d5-11ec-924b-0e57fdaa5e71|en|l5x|81050089"
+            }
+          }
+        }
+      },
+      "81054847": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 13",
+            "availabilityStartTime": 1584082800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81054847,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 24
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81054847,
+              "id": 81405250,
+              "start": 0,
+              "computeId": "browse|81405250|VN:en|l5x"
+            },
+            "id": 81054847,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, sex, nudity, sexual violence",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  },
+                  {
+                    "id": 7802,
+                    "levelDescription": null,
+                    "reasonDescription": "sexual violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 13",
+              "availabilityStartTime": 1584082800000
+            },
+            "videoId": 81054847,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "BEASTARS",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 2,
+            "episodeCount": 24,
+            "boxArt": {
+              "videoId": 81054847,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbOqhkOzy_4ecCI3ghW9q_8ltfm5NJJWHtZUdrrqL8_fFk2kBWyoQ0QQtHK0sqg4bOAxVqtYqbyyGPzw8zjrtbQL4PL1o381LG6ZA4k9mcHrqbPJgTwuKAk1hq1ClCZ34c4g.jpg?r=fa8",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|509d2510-c7eb-11eb-b896-12878bc5ad81|en"
+            }
+          }
+        }
+      },
+      "81058649": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "March 31",
+            "availabilityStartTime": 1648746000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81058649,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 38
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81058649,
+              "id": 81068424,
+              "start": 0,
+              "computeId": "browse|81068424|en-US|_DEF_"
+            },
+            "id": 81058649,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "suicide",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "March 31",
+              "availabilityStartTime": 1648746000000
+            },
+            "videoId": 81058649,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "The Rising of the Shield Hero",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 38,
+            "boxArt": {
+              "videoId": 81058649,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVliHMTOV5l1B9qj8QZwuNRfHC8MwUkiTldEguGdXrdZns_KWzM-5_lpvpYDudCJ9N8RRvvbG5A0rz8wM4lb59T2vZLNijgVHt0IcsZag2CkadpkxuCDeVE1KbqJoJgDnEeggUJEQw.webp?r=295",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|7b1ea9d1-ac24-11ec-8331-0e32302f345d|en|l5x|81594292"
+            }
+          }
+        }
+      },
+      "81144534": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "October 22",
+            "availabilityStartTime": 1603386000000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81144534,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 13
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 81144534,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence, nudity, sexual violence, self-harm",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 987,
+                    "levelDescription": null,
+                    "reasonDescription": "nudity"
+                  },
+                  {
+                    "id": 7802,
+                    "levelDescription": null,
+                    "reasonDescription": "sexual violence"
+                  },
+                  {
+                    "id": 7804,
+                    "levelDescription": null,
+                    "reasonDescription": "self-harm"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "October 22",
+              "availabilityStartTime": 1603386000000
+            },
+            "videoId": 81144534,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2019,
+            "numSeasonsLabel": "13 Episodes",
+            "title": "Arifureta: From Commonplace to World's Strongest",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 13,
+            "boxArt": {
+              "videoId": 81144534,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbXaTofzfHNFtrpQfsTcvWc6vNkljQr9Qtdulf7ue22trVghAZMrMUYHUb81aDQ-DMtlnW8VfGn-M1P5puesiq8ozb4zK5riYsE.webp?r=bbf",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|6b22dfc1-ee0b-11ea-a370-0aaf99def7f7|en"
+            }
+          }
+        }
+      },
+      "81145640": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "August 31",
+            "availabilityStartTime": 1630429200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81145640,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 23
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 81145640,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "suicide, self-harm",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  },
+                  {
+                    "id": 7804,
+                    "levelDescription": null,
+                    "reasonDescription": "self-harm"
+                  }
+                ]
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "August 31",
+              "availabilityStartTime": 1630429200000
+            },
+            "videoId": 81145640,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "The Promised Neverland",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 2,
+            "episodeCount": 23,
+            "boxArt": {
+              "videoId": 81145640,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbnCb_fQlkoAUuq9hTYnXeiHyzVVEKdecCVwAvSWlTEXomSaxzDJvnHbDRf70VP37j-qpeTMg7zH7yCK3CZcxDgrysxbwfMLM1c.webp?r=e6a",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|7069f682-64cc-11ea-8dd9-0af231b9590b|en"
+            }
+          }
+        }
+      },
+      "81161575": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "January 28",
+            "availabilityStartTime": 1643356800000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81161575,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 32
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81161575,
+              "id": 81515293,
+              "start": 0,
+              "computeId": "browse|81515293|VN:en|l5x"
+            },
+            "id": 81161575,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "7+",
+                "maturityDescription": "Recommended for ages 7 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 41,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 923,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "January 28",
+              "availabilityStartTime": 1643356800000
+            },
+            "videoId": 81161575,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "2 Seasons",
+            "title": "Angry Birds: Summer Madness",
+            "titleMaturity": {
+              "level": 41
+            },
+            "seasonCount": 2,
+            "episodeCount": 32,
+            "boxArt": {
+              "videoId": 81161575,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWQ0rznfvwloii8x6_7PR7NjhGmK_1NhTpevCIfbY-VV_lWeXvy1EcGULOlf4EelX42g8LdH2UfU8OrkeJh1P1a3N-WZbwv2E1noftluTfOzjM6wwrOTKhm7uwG9mBIFK9CeWUcQ8wmQ2hz_m0zyzi6BVa2Y6A6PaAW_Iw.jpg?r=278",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|30a7a6e0-cbdc-11ec-a222-12216e1c8693|en"
+            }
+          }
+        }
+      },
+      "81228573": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "October 21",
+            "availabilityStartTime": 1634799600000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81228573,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 22
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81228573,
+              "id": 81506241,
+              "start": 0,
+              "computeId": "browse|81506241|VN:en|l5x"
+            },
+            "id": 81228573,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "October 21",
+              "availabilityStartTime": 1634799600000
+            },
+            "videoId": 81228573,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "22 Episodes",
+            "title": "Komi Can't Communicate",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 1,
+            "episodeCount": 22,
+            "boxArt": {
+              "videoId": 81228573,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeyuQGLQyNWj-Je7OlZxKeM8aV_-QXe558_AAx2POqZogXNbyBEJO24Dt66No3dc1pOR8OVbzyIoB58y1SUZh_l80mudVhIdhWvMvHmG3Ym6F1ZyF_P_crTuopqbxHIBS6w0LiRpgA5styotBFe1_BVrU0FwV-PTxCwK0Q.jpg?r=7c6",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|8d589f40-abd2-11ec-99d0-0a4b7cafefe9|en"
+            }
+          }
+        }
+      },
+      "81236338": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "September 30",
+            "availabilityStartTime": 1632985200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81236338,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81236338,
+              "id": 81434607,
+              "start": 20,
+              "computeId": "browse|81434607|en-US|_DEF_"
+            },
+            "id": 81236338,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "September 30",
+              "availabilityStartTime": 1632985200000
+            },
+            "videoId": 81236338,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "1 Season",
+            "title": "Baki Hanma",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 81236338,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRtf_YbkRk_qwRgh1JhKHx2DkI1_tNbGpRAwEV1L65pvtYNXdpRVs5uB8AXpXIsFGJWNLHckM8edCyb6ArAPlfXxnGvEjqaaJKrxAAk6y5TEllYIGgtsKSc3S1jJBYUQkRPv.jpg?r=a08",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|a74ba9d1-f573-11eb-abea-0e84dc91b5bb|en|l5x|81236339"
+            }
+          }
+        }
+      },
+      "81266992": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "November 19",
+            "availabilityStartTime": 1605805200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81266992,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 81266992,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "November 19",
+              "availabilityStartTime": 1605805200000
+            },
+            "videoId": 81266992,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2020,
+            "numSeasonsLabel": "12 Episodes",
+            "title": "Sing \"Yesterday\" for Me",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 81266992,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUwum9bHP7-ZFUwESJkeu1uhqo9V2OWTP2nyvK9dkpE7fJwSzFe6IoCdeJwy84bf4MxZ9_j3AbF_dLlFlUY7unRcrvHiF47_DHM.webp?r=2d5",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|e75c8360-0293-11eb-997d-123527765bb3|en"
+            }
+          }
+        }
+      },
+      "81318943": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "June 22",
+            "availabilityStartTime": 1655881200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81318943,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 4
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81318943,
+              "id": 81582337,
+              "start": 0,
+              "computeId": "browse|81582337|VN:en|l5x"
+            },
+            "id": 81318943,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "June 22",
+              "availabilityStartTime": 1655881200000
+            },
+            "videoId": 81318943,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "4 Episodes",
+            "title": "The Hidden Lives of Pets",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 1,
+            "episodeCount": 4,
+            "boxArt": {
+              "videoId": 81318943,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT2atShu-Z-1td-26uwJ8buiULsWV6QYx7hRwrZSNL8BCnN1jvERaMa0XTt9kOQ-PACUhA8flE5y2qUgba449LQqUXHNUwQBFqC1tTqbQdxZcEHQeB1sZPBIBpwM9I3kTziy.jpg?r=a91",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|a2e9af00-888e-11ec-83d0-0aa6fd758d13|en|l5x|81318944"
+            }
+          }
+        }
+      },
+      "81345945": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 28",
+            "availabilityStartTime": 1651129200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "movie",
+            "id": 81345945,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": null
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 81345945,
+            "type": "movie",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 28",
+              "availabilityStartTime": 1651129200000
+            },
+            "videoId": 81345945,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": null,
+            "title": "Bubble",
+            "titleMaturity": {
+              "level": 80
+            },
+            "infoDensityRuntime": 6060,
+            "boxArt": {
+              "videoId": 81345945,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR5wCDBjDYoYt0ItpGLT4yPTtxipJ75iyVWtbp8cwshxWz3wq8P6WuL7fjMcM_49BLXJFY77k_eryBfhYUzYnNKYVqF0S9pmODtnTYO88pJt3euUjrwyF5zytbFJw9f6GIoo.jpg?r=270",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|9b40c5b1-b3a2-11ec-99d5-1289ee162411|en|l5x"
+            }
+          }
+        }
+      },
+      "81435684": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "November 7",
+            "availabilityStartTime": 1636250400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81435684,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 9
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81435684,
+              "id": 81510620,
+              "start": 0,
+              "computeId": "browse|81510620|VN:en|l5x"
+            },
+            "id": 81435684,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence, sex, substances",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 986,
+                    "levelDescription": null,
+                    "reasonDescription": "sex"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  }
+                ]
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "November 7",
+              "availabilityStartTime": 1636250400000
+            },
+            "videoId": 81435684,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "9 Episodes",
+            "title": "Arcane",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 9,
+            "boxArt": {
+              "videoId": 81435684,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABerZlfYQ0rnQerjDo_NTl8purR-BDvFbAfGyq1AgMuVUIVMMsOpbsnQA0l1DLjiyxJO7h7u1xkB5AESiLt2am_4pI9xUh5cw7GjSCG1kTKjS-TH971XXHkXyklxXPDL6lUKI.jpg?r=367",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|751ec240-1c0f-11ec-9814-1255c89b8d65|en|l5x|81435685"
+            }
+          }
+        }
+      },
+      "81442047": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "May 31",
+            "availabilityStartTime": 1654016400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81442047,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 23
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "id": 81442047,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "16+",
+                "maturityDescription": "Recommended for ages 16 and up",
+                "specificRatingReason": "violence",
+                "maturityLevel": 110,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 925,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  }
+                ]
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "May 31",
+              "availabilityStartTime": 1654016400000
+            },
+            "videoId": 81442047,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2021,
+            "numSeasonsLabel": "23 Episodes",
+            "title": "86 EIGHTY-SIX",
+            "titleMaturity": {
+              "level": 110
+            },
+            "seasonCount": 1,
+            "episodeCount": 23,
+            "boxArt": {
+              "videoId": 81442047,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcACtathRj3oNVndExJXi46tnwiewk9fQOeiLnI1yejWoP1sTTROhfaAcEIb0m2l8GwbvkZWLL49nqR8rSvoNZ3euSRpA8Qdg1M.webp?r=b9f",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|9020c4f1-e151-11ec-9ee0-0ea01fc53b65|en"
+            }
+          }
+        }
+      },
+      "81503460": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 1",
+            "availabilityStartTime": 1648825200000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81503460,
+            "isOriginal": true
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 16
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81503460,
+              "id": 81574313,
+              "start": 20,
+              "computeId": "browse|81574313|VN:en|l5x"
+            },
+            "id": 81503460,
+            "type": "show",
+            "isOriginal": true,
+            "maturity": {
+              "rating": {
+                "value": "18+",
+                "maturityDescription": "Recommended for ages 18 and up",
+                "specificRatingReason": "violence, substances, sexual violence, suicide, self-harm",
+                "maturityLevel": 1000,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 997,
+                "reasons": [
+                  {
+                    "id": 985,
+                    "levelDescription": null,
+                    "reasonDescription": "violence"
+                  },
+                  {
+                    "id": 989,
+                    "levelDescription": null,
+                    "reasonDescription": "substances"
+                  },
+                  {
+                    "id": 7802,
+                    "levelDescription": null,
+                    "reasonDescription": "sexual violence"
+                  },
+                  {
+                    "id": 7803,
+                    "levelDescription": null,
+                    "reasonDescription": "suicide"
+                  },
+                  {
+                    "id": 7804,
+                    "levelDescription": null,
+                    "reasonDescription": "self-harm"
+                  }
+                ]
+              }
+            },
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 1",
+              "availabilityStartTime": 1648825200000
+            },
+            "videoId": 81503460,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "16 Episodes",
+            "title": "Tomorrow",
+            "titleMaturity": {
+              "level": 1000
+            },
+            "seasonCount": 1,
+            "episodeCount": 16,
+            "boxArt": {
+              "videoId": 81503460,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZczxc5NrRaP01O8CBjgh9Idt-sKItISanf_GZKQBvt7QfNgVijBl3yAVx8I6qtJg30lQ2KXVKDKXj90pgZ8svdE3nWG8PRwy4JHI7bf3pE-6q6ZhFbysMGZalKM-esM-s-U.jpg?r=bc3",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "jpg",
+              "size": "_342x192",
+              "imageKey": "sdp|12a28e80-a94a-11ec-8f23-0e112c35f225|en|l5x|81503461"
+            }
+          }
+        }
+      },
+      "81511410": {
+        "availability": {
+          "$type": "atom",
+          "value": {
+            "isPlayable": true,
+            "availabilityDate": "April 9",
+            "availabilityStartTime": 1649516400000
+          }
+        },
+        "inRemindMeList": {
+          "$type": "atom",
+          "value": false
+        },
+        "queue": {
+          "$type": "atom",
+          "value": {
+            "available": true,
+            "inQueue": true
+          }
+        },
+        "summary": {
+          "$type": "atom",
+          "value": {
+            "type": "show",
+            "id": 81511410,
+            "isOriginal": false
+          }
+        },
+        "episodeCount": {
+          "$type": "atom",
+          "value": 12
+        },
+        "itemSummary": {
+          "$type": "atom",
+          "value": {
+            "requestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "videoMerch": {
+              "videoId": 81511410,
+              "id": 81585953,
+              "start": 0,
+              "computeId": "browse|81585953|VN:en|l5x"
+            },
+            "id": 81511410,
+            "type": "show",
+            "isOriginal": false,
+            "maturity": {
+              "rating": {
+                "value": "13+",
+                "maturityDescription": "Recommended for ages 13 and up",
+                "specificRatingReason": "",
+                "maturityLevel": 80,
+                "board": "NFLX",
+                "boardId": 69,
+                "ratingId": 924,
+                "reasons": []
+              }
+            },
+            "mostLiked": "Most Liked",
+            "availability": {
+              "isPlayable": true,
+              "availabilityDate": "April 9",
+              "availabilityStartTime": 1649516400000
+            },
+            "videoId": 81511410,
+            "userRatingRequestId": "f1eb8a49-5d9e-455e-84be-4ccc33f33c7f-209182244",
+            "releaseYear": 2022,
+            "numSeasonsLabel": "12 Episodes",
+            "title": "SPY x FAMILY",
+            "titleMaturity": {
+              "level": 80
+            },
+            "seasonCount": 1,
+            "episodeCount": 12,
+            "boxArt": {
+              "videoId": 81511410,
+              "url": "https://occ-0-58-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdgFCwGAoc0dt80kNygfmhZjwE5GG_6Pe1GB9NavJgtI7pzM_6a9j8E8p01RyS2TbxN35ieURhpaa9jUQZJtaxLfrmOB7jsi3DrDAK8zABOHfl31bIWFKkj53FejT1bRTp7ECWodGaH3dORw-8yfD1_va9CFr4EJTFVY-yuFfemYP5VcPpHoyk75QfZVYuGKpcBp.webp?r=c68",
+              "width": 342,
+              "height": 192,
+              "isSmoky": false,
+              "extension": "webp",
+              "size": "_342x192",
+              "imageKey": "sdp|54b56070-9a65-11ec-ac1d-0e392161aa39|en|l5x|81511412"
+            }
+          }
+        }
+      }
+    }
+  },
+  "paths": [
+    [
+      "mylist",
+      [
+        "id",
+        "listId",
+        "name",
+        "requestId",
+        "trackIds"
+      ]
+    ],
+    [
+      "mylist",
+      {
+        "from": 0,
+        "to": 48
+      },
+      [
+        "availability",
+        "episodeCount",
+        "inRemindMeList",
+        "itemSummary",
+        "queue",
+        "summary"
+      ]
+    ]
+  ]
+}
