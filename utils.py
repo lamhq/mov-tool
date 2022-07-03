@@ -20,7 +20,13 @@ def updateMovieDb():
         logging.info(f"Adding new movie {record['Title']}")
   else:
     df = pd.DataFrame.from_records(movRecords, index='Netflix Id')
+
   # get rating
+  for index, mov in df.iterrows():
+    if 'Rating' in df.loc[index]:
+      continue
+    df.loc[index, 'Rating'] = getImdbRating(mov['Title'])
+
   # get last day to watch
   # save mov data
   df.to_csv(MOV_LST_FILE)
@@ -51,12 +57,28 @@ def getNetflixMovList():
   #   f_out.write(response.text)
   # return convertNetflixMoviesToRecords(response.text)
 
+def getImdbRating(title):
+  try:
+    imdbId = getImdbMovId(title)
+    url = f'https://imdb-api.com/en/API/UserRatings/{IMDB_API_KEY}/{imdbId}'
+    logging.info(f'Getting rating of movie: "{imdbId}"')
+    response = requests.request("GET", url)
+    return response.json()['totalRating']
+  except:
+    return None
+
 def getImdbMovId(title):
   encodedTitle = urllib.parse.quote(title);
   url = f'https://imdb-api.com/en/API/Search/{IMDB_API_KEY}/{encodedTitle}'
   logging.info(f'Finding movie with title: "{title}"')
   response = requests.request("GET", url)
-  return response.text
+  data = response.json()
+  if data['errorMessage']:
+    raise Exception(f"Calling imdb API error: {data['errorMessage']}")
+
+  if len(data['results']) < 1:
+    raise Exception(f'Movie with title {title} not found')
+  return data['results'][0]['id']
 
 def convertNetflixMoviesToRecords(apiRespText):
   # jsonGraph / videos / {80229873}
