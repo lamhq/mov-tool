@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5897304",
+  "title": "Mob Psycho 100",
+  "fullTitle": "Mob Psycho 100 (TV Series 2016\u2013 )",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "29.8%",
+      "votes": "8161"
+    },
+    {
+      "rating": "9",
+      "percent": "30.2%",
+      "votes": "8265"
+    },
+    {
+      "rating": "8",
+      "percent": "24.7%",
+      "votes": "6772"
+    },
+    {
+      "rating": "7",
+      "percent": "8.4%",
+      "votes": "2286"
+    },
+    {
+      "rating": "6",
+      "percent": "2.3%",
+      "votes": "643"
+    },
+    {
+      "rating": "5",
+      "percent": "1.1%",
+      "votes": "312"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "152"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "109"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "96"
+    },
+    {
+      "rating": "1",
+      "percent": "2.1%",
+      "votes": "577"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "27373"
+    },
+    "agesUnder18": {
+      "rating": "8.6",
+      "votes": "81"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "5376"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3964"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "390"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "10064"
+    },
+    "agesUnder18": {
+      "rating": "8.8",
+      "votes": "65"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "4565"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3481"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "335"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "1131"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "543"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "380"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "40"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.2",
+    "votes": "117"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "1735"
+  },
+  "nonUSUsers": {
+    "rating": "8.4",
+    "votes": "5499"
+  },
+  "errorMessage": ""
+}

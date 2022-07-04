@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Ultraviolet",
+  "results": [
+    {
+      "id": "tt0370032",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWY4ZjQyOWQtYWZiNS00MTcyLWIzZTEtNDQxOWMxNTkwMmU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet",
+      "description": "(2006)"
+    },
+    {
+      "id": "tt7514746",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjBhOGQyYmMtZTNhOS00MGRlLTljNTAtNDQ0ZGI5N2RjMWMzXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet",
+      "description": "(2017) (TV Series)"
+    },
+    {
+      "id": "tt0169501",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmYwNWMxYmItZmVjZC00MmQwLWI5ZGMtNWQ5MmJlNTM3YzdlXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet",
+      "description": "(1998) (TV Mini Series)"
+    },
+    {
+      "id": "tt0105681",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzRjMjAzMzAtNGMyNy00ZjdiLWFhYjktY2EwMDZiMGI0NDBhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet",
+      "description": "(1992)"
+    },
+    {
+      "id": "tt1223203",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2UxZGE5NWYtNzhjYi00NTgwLWE1OGYtNzQ5NGJlMGU1YTRiXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet: Code 044",
+      "description": "(2008) (TV Series)"
+    },
+    {
+      "id": "tt9887382",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Ultraviolet",
+      "description": "(2000) (TV Movie)"
+    },
+    {
+      "id": "tt4053000",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTcxMDAwNTY5OF5BMl5BanBnXkFtZTgwODA0MzI4ODE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultravioleta",
+      "description": "(2014) (Short)"
+    },
+    {
+      "id": "tt18282216",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWUyM2MzY2EtYmJhOC00MzI2LTg4ZmMtMjZkZTE2OWRkZjc2XkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolette and the Blood-Spitters Gang",
+      "description": "(2021)"
+    },
+    {
+      "id": "tt11840572",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjhjMTAyMjUtY2Q5Yi00ZDkwLWE5MjAtMDZiZDkyMmZmMzgxXkEyXkFqcGdeQXVyOTA5MDIyNTc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultraviolet",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt16377332",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTY2MWY3OTgtY2FkYy00MzI2LTljMDQtNGZjNDhmNTBlOTFhXkEyXkFqcGdeQXVyMTEwMDg3ODc5._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ultra Violet & Black Scorpion",
+      "description": "(2022) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

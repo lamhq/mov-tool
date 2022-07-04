@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Hell's Kitchen",
+  "results": [
+    {
+      "id": "tt0437005",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTA3MDgxMzQtMTcxMC00OTE0LThlZTAtNDIyNjQyYjBlMDJjXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_Ratio0.7727_AL_.jpg",
+      "title": "Hell's Kitchen",
+      "description": "(2005) (TV Series)"
+    },
+    {
+      "id": "tt0078056",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjJiMjRmNmYtN2JkZS00NWZiLTkwNjAtNmU3NzUxZWVlZTAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Paradise Alley",
+      "description": "(1978) aka \"Hell's Kitchen\""
+    },
+    {
+      "id": "tt0129136",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA2Mjc1NDA3OV5BMl5BanBnXkFtZTcwOTgwMjUyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hell's Kitchen",
+      "description": "(1998)"
+    },
+    {
+      "id": "tt0412137",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYWFlNjlhYTAtYzhlNi00OWFiLThjMGYtOTlhM2JmNTEyNjIzXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hell's Kitchen",
+      "description": "(2004) (TV Series)"
+    },
+    {
+      "id": "tt0280438",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTA1OTI2Njc5NzZeQTJeQWpwZ15BbWU2MDE1MTc5OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ash Wednesday",
+      "description": "(2002) aka \"Hell's Kitchen\""
+    },
+    {
+      "id": "tt0031412",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDNjZTg2NmYtNWZmMC00Zjg3LWFjODQtOGQ1MDMzNGNmZTYxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hell's Kitchen",
+      "description": "(1939)"
+    },
+    {
+      "id": "tt6703348",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2JjMzI1ODctYWUwNC00YTgxLTk0YmMtM2UyNDg5MDM4MTBiXkEyXkFqcGdeQXVyODA1MDcyMzc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hell's Kitchen Australia",
+      "description": "(2017) (TV Series)"
+    },
+    {
+      "id": "tt0254626",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTg0MDAxMDcwMl5BMl5BanBnXkFtZTcwMTQ3MzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "One Eyed King",
+      "description": "(2001) aka \"Hell's Kitchen\""
+    },
+    {
+      "id": "tt11581028",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmY3NjU4YzAtMjAzYy00MGE1LWJlMDgtOTk3ZWZkNzk5NzBhXkEyXkFqcGdeQXVyMTU4NDA4MjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hells Kitchen",
+      "description": "(I) (Short)"
+    },
+    {
+      "id": "tt8123454",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2VhZWVjYWQtNjBkNi00YWZlLWFlZjYtMDgxOTQxZjI3N2I4XkEyXkFqcGdeQXVyNDk5MjI2NDI@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Hell's Kitchen",
+      "description": "(2018) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

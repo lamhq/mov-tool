@@ -1,0 +1,35 @@
+{
+  "searchType": "Title",
+  "expression": "DRAGON QUEST The Adventure of Dai",
+  "results": [
+    {
+      "id": "tt11858104",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNWMzNTIyMzUtYTEzNi00MTIzLTg2MGItMmYwMDk2Yjc4NmYzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dragon Quest: The Adventure of Dai",
+      "description": "(2020) (TV Series)"
+    },
+    {
+      "id": "tt0184109",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2QyODNkMGItNWU4ZS00MjQwLWIwMzItNGYwMTQ5OTc2NDgxXkEyXkFqcGdeQXVyMzQ3MzUyNzk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dragon Quest: Dai's Great Adventure",
+      "description": "(1991) (TV Series)"
+    },
+    {
+      "id": "tt5002100",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjVkNjRkMTEtZDAzZC00Njg5LThiYzgtNWNmYWQ2MDRlMTUyXkEyXkFqcGdeQXVyNjczMTk3MDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dragon Quest: Great Adventure of Dai! Disciple of Aban",
+      "description": "(1992) (Short)"
+    },
+    {
+      "id": "tt5002108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmVlMjNkOTMtNjFiZC00NTgzLThmMWYtNGI1N2RkNTg1MjMwXkEyXkFqcGdeQXVyNjczMTk3MDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dragon Quest Great Adventure of Dai! Destroy!! The Reborn 6 Commanders",
+      "description": "(1992) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

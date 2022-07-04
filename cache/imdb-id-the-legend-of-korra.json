@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "The Legend of Korra",
+  "results": [
+    {
+      "id": "tt1695360",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTZhNGY2ZDAtYWYxYy00YWNlLWI3NDUtNjBiM2NkMGVmODIxXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Legend of Korra",
+      "description": "(2012) (TV Series)"
+    },
+    {
+      "id": "tt6392192",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDQ2MDQ5YjgtMmY3Yy00YTE2LThkYmItMWRlMjczMDZlODJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc0NjA2NTg@._V1_Ratio0.7727_AL_.jpg",
+      "title": "The Legend of Korra: A New Beginning",
+      "description": "(2017) (Short)"
+    },
+    {
+      "id": "tt3196338",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTE0MDg4OTEyODJeQTJeQWpwZ15BbWU4MDc2NjM3OTIx._V1_Ratio1.3182_AL_.jpg",
+      "title": "The Legend of Korra: The Re-telling of Korra's Journey",
+      "description": "(2013) (TV Short)"
+    },
+    {
+      "id": "tt3975894",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Legend of Korra: Book Two - Spirits (Inside the Book of Spirits)",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt3975760",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Legend of Korra: Book Two - Spirits (Kindred Spirits: Tenzin's Family)",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt3975938",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Legend of Korra: Book Two - Spirits (Scene Bendings)",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt0386140",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTE1MjVmYTYtOGFjZi00NGM3LTg0ZTEtNWI4MGI3NmM1MTVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Legend of Zorro",
+      "description": "(2005)"
+    },
+    {
+      "id": "tt15807906",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Legend of Korra Cast",
+      "description": "(2017) (Podcast Episode) - Nickelodeon Animation Podcast (2016) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

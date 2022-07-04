@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "Shrek 2",
+  "results": [
+    {
+      "id": "tt0298148",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Shrek 2",
+      "description": "(2004)"
+    },
+    {
+      "id": "tt14757694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDY0M2E1NzgtMGZkYS00OWJlLTgzMjctYmRlNTUyNzk5OTliXkEyXkFqcGdeQXVyMTEzNjA0MjM4._V1_Ratio1.7727_AL_.jpg",
+      "title": "Shrek 2 Retold",
+      "description": "(2021)"
+    },
+    {
+      "id": "tt10417110",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzdjMjQ5MzItNDUzNy00MmU4LTliNTAtYzJlZTkxZDc5ZjIxXkEyXkFqcGdeQXVyMTExODYyNA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Shrek 2: Around the World",
+      "description": "(2004) (Video)"
+    },
+    {
+      "id": "tt0126029",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Shrek",
+      "description": "(2001)"
+    },
+    {
+      "id": "tt0413267",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Shrek the Third",
+      "description": "(2007)"
+    }
+  ],
+  "errorMessage": ""
+}

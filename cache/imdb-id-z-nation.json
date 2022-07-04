@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "Z Nation",
+  "results": [
+    {
+      "id": "tt3843168",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTljNzE5MzgtODMyMi00ZjBmLWIzNjUtOTlmOWVjMmRmODljXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Z Nation",
+      "description": "(2014) (TV Series)"
+    },
+    {
+      "id": "tt6105126",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Z Nation a Documentary",
+      "description": "(2016) (TV Movie)"
+    },
+    {
+      "id": "tt7767422",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Sex Education",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt1879016",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGZlNjZhNjgtMjQzZC00MDI0LWFmNGQtNmNiYTIyYTE3ODhkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Operation Mincemeat",
+      "description": "(2021)"
+    },
+    {
+      "id": "tt7053188",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWY2NDE2NjktNTZkMi00MDNlLTliZTctYzY5OGJkMjYxOTI4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Station 19",
+      "description": "(2018) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

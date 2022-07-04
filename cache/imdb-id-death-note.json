@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "DEATH NOTE",
+  "results": [
+    {
+      "id": "tt0877057",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmEyYzViNGEtZjY1NC00YWUwLTkwMjgtZGNkMzRiMWU1MTJlXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note",
+      "description": "(2006) (TV Series)"
+    },
+    {
+      "id": "tt1241317",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTUwOTgzMTEyOF5BMl5BanBnXkFtZTgwNTk3MTM5MjI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note",
+      "description": "(I) (2017)"
+    },
+    {
+      "id": "tt0758742",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDNlNjEzMzQtZDM0MS00YzhiLTk0MGUtYTdmNDZiZGVjNTk0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note",
+      "description": "(2006)"
+    },
+    {
+      "id": "tt4623604",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjgwMjVkNzUtMWZjNS00M2U4LTkzM2QtMzEwYmNlY2JmZDk5XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note",
+      "description": "(2015) (TV Mini Series)"
+    },
+    {
+      "id": "tt3355694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWFjY2QwZjYtOWQ0Ni00NDBjLTk5YTMtY2ZkY2ZjMWI2MGYxXkEyXkFqcGdeQXVyOTExODQ3OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note Relight - Visions of a God",
+      "description": "(2007) (TV Movie)"
+    },
+    {
+      "id": "tt0810827",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDM4MTExNzEtNjczYy00NzllLTg5NWItYTBjYjA5YTNhYTliXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note: The Last Name",
+      "description": "(2006)"
+    },
+    {
+      "id": "tt5058340",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjA5YmJkY2MtZTk3OS00N2MxLWJmODAtYjgxZjEwOTNmNDJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note: Light Up the New World",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt3355698",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjdhMThmZjMtNjhkZS00MzFjLWExZTktZjdkNmM0ZmVlMjRkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Death Note Relight 2 - L's Successors",
+      "description": "(2008) (TV Movie)"
+    },
+    {
+      "id": "tt9561862",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Love, Death & Robots",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt8885962",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Death Note 2",
+      "description": "(in development)"
+    }
+  ],
+  "errorMessage": ""
+}

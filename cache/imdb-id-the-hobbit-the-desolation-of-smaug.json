@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "The Hobbit: The Desolation of Smaug",
+  "results": [
+    {
+      "id": "tt1170358",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt4878196",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Desolation of Smaug - Summoning Smaug: Last of the Fire-Drakes",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt4878372",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Desolation of Smaug - The Peoples and Denizens of Middle-earth",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt7940946",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Desolation of Smaug - New Zealand: Home of Middle-earth - Part 2",
+      "description": "(2014) (Video)"
+    },
+    {
+      "id": "tt7940890",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Desolation of Smaug - The Hobbit: Production Video 13 - Recap of Pick-ups Part 2",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt4878138",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Desolation of Smaug - Realms of the Third Age: From Beorn's House to Lake-town",
+      "description": "(2014) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

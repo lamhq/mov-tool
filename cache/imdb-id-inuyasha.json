@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "InuYasha",
+  "results": [
+    {
+      "id": "tt0290223",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGNmMWI4MGUtYmU0ZS00ZDkxLTgzMTAtZDU4YmQ1MDM3Y2IyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inuyasha",
+      "description": "(2000) (TV Series)"
+    },
+    {
+      "id": "tt1534184",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjQwZDcxOWYtMTc1ZS00OTYwLThhNmYtMjY3MjgxZGQzYTYzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "InuYasha: The Final Act",
+      "description": "(2009) (TV Series)"
+    },
+    {
+      "id": "tt0322645",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ1MTI3MzA0Ml5BMl5BanBnXkFtZTcwOTY3MTcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inuyasha the Movie: Affections Touching Across Time",
+      "description": "(2001)"
+    },
+    {
+      "id": "tt0366621",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmI4MzdlMzgtMGRjNC00OTZkLTkzNTAtNjUxY2ZiNWRiNTgyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+      "description": "(2002)"
+    },
+    {
+      "id": "tt0473658",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIwOTEwODQ2Nl5BMl5BanBnXkFtZTcwMTkzODQzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
+      "description": "(2004)"
+    },
+    {
+      "id": "tt0396659",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzI3Mzk1Mjg5OV5BMl5BanBnXkFtZTcwNzMzNjAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+      "description": "(2003)"
+    },
+    {
+      "id": "tt6340502",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmJhODNhZjgtMzk1Ny00MjYwLTlkMWYtZTkzMDJiOTEwNzM0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inuyashiki",
+      "description": "(2017) (TV Mini Series)"
+    },
+    {
+      "id": "tt6340500",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNGE0YjJiZTQtMDMwNC00YmRhLWFlM2ItNTcyZjc5ZWVjMDdkXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inuyashiki",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

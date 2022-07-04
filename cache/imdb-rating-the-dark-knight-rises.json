@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1345836",
+  "title": "The Dark Knight Rises",
+  "fullTitle": "The Dark Knight Rises (2012)",
+  "type": "Movie",
+  "year": "2012",
+  "totalRating": "8.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.8%",
+      "votes": "461228"
+    },
+    {
+      "rating": "9",
+      "percent": "27.2%",
+      "votes": "451383"
+    },
+    {
+      "rating": "8",
+      "percent": "24.8%",
+      "votes": "410230"
+    },
+    {
+      "rating": "7",
+      "percent": "11.8%",
+      "votes": "195862"
+    },
+    {
+      "rating": "6",
+      "percent": "4.3%",
+      "votes": "70618"
+    },
+    {
+      "rating": "5",
+      "percent": "1.6%",
+      "votes": "27302"
+    },
+    {
+      "rating": "4",
+      "percent": "0.8%",
+      "votes": "13010"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "7531"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "5596"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "14560"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "1657320"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "800"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "290837"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "657645"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "122188"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "991872"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "628"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "238018"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "554746"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "103823"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "168711"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "86"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "45164"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "92427"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "15795"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.9",
+    "votes": "869"
+  },
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "192720"
+  },
+  "nonUSUsers": {
+    "rating": "8.3",
+    "votes": "586710"
+  },
+  "errorMessage": ""
+}

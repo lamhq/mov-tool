@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "One-Punch Man",
+  "results": [
+    {
+      "id": "tt4508902",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "One Punch Man",
+      "description": "(2015) (TV Series) aka \"One-Punch Man\""
+    },
+    {
+      "id": "tt12186586",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "One Punch Man",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt12409764",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmFjYzM2MDYtMzM4NC00NDYxLTgzYzctNjYyZjNiODljM2IyXkEyXkFqcGdeQXVyNzkwMzU5OTU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "One Punch Man vs. Genos",
+      "description": "(2020) (Short)"
+    },
+    {
+      "id": "tt16798688",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "One Punch Man",
+      "description": "(2019) (Podcast Episode) - Wizard and the Bruiser (2016) (Podcast Series)"
+    },
+    {
+      "id": "tt9072834",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDhlMjkzNDktNjIzMy00MDk1LWFhZjktYTZhNGEwZDg4YjI5XkEyXkFqcGdeQXVyMjM5NTc4MTA@._V1_Ratio1.5000_AL_.jpg",
+      "title": "One Punch",
+      "description": "(2021)"
+    }
+  ],
+  "errorMessage": ""
+}

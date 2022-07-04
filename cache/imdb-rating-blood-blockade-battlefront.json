@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4379632",
+  "title": "Kekkai Sensen",
+  "fullTitle": "Kekkai Sensen (TV Series 2015\u20132017)",
+  "type": "TVSeries",
+  "year": "2015",
+  "totalRating": "7.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "16.4%",
+      "votes": "345"
+    },
+    {
+      "rating": "9",
+      "percent": "11.4%",
+      "votes": "239"
+    },
+    {
+      "rating": "8",
+      "percent": "24.8%",
+      "votes": "521"
+    },
+    {
+      "rating": "7",
+      "percent": "23.8%",
+      "votes": "500"
+    },
+    {
+      "rating": "6",
+      "percent": "11.0%",
+      "votes": "231"
+    },
+    {
+      "rating": "5",
+      "percent": "5.6%",
+      "votes": "117"
+    },
+    {
+      "rating": "4",
+      "percent": "2.8%",
+      "votes": "59"
+    },
+    {
+      "rating": "3",
+      "percent": "1.3%",
+      "votes": "27"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "20"
+    },
+    {
+      "rating": "1",
+      "percent": "1.9%",
+      "votes": "40"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "2099"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "480"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "502"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "89"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "1015"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "391"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "425"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "73"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "184"
+    },
+    "agesUnder18": {
+      "rating": "10.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "80"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "70"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "15"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.0",
+    "votes": "29"
+  },
+  "usUsers": {
+    "rating": "7.3",
+    "votes": "221"
+  },
+  "nonUSUsers": {
+    "rating": "6.8",
+    "votes": "589"
+  },
+  "errorMessage": ""
+}

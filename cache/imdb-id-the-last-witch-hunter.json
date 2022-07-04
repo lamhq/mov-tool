@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "The Last Witch Hunter",
+  "results": [
+    {
+      "id": "tt1618442",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Last Witch Hunter",
+      "description": "(2015)"
+    },
+    {
+      "id": "tt4781660",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Last Witch Hunter 2",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt20125308",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Last Witch Hunter",
+      "description": "(2022) (Podcast Episode) - The Terrible Terror Podcast (2015) (Podcast Series)"
+    },
+    {
+      "id": "tt17903064",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjMzMWMyNzYtZDRhMC00YWI0LTlhYzgtZjllMzAyYjhjZDBmXkEyXkFqcGdeQXVyNjEwNzk3MDc@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Ep. 223 - The Last Witch Hunter",
+      "description": "(2017) (Podcast Episode) - The Flop House (2007) (Podcast Series)"
+    },
+    {
+      "id": "tt19741108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 234 - The Last Witch Hunter",
+      "description": "(2016) (Podcast Episode) - We Hate Movies (2010) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "The Green Mile",
+  "results": [
+    {
+      "id": "tt0120689",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Green Mile",
+      "description": "(1999)"
+    },
+    {
+      "id": "tt19115212",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzgwODljYmEtYzU1Yy00NTk0LWJiYTQtNmQ3ZTQxMjc5Y2QyXkEyXkFqcGdeQXVyOTgzNzQ2MjQ@._V1_Ratio1.0000_AL_.jpg",
+      "title": "The Green Mile",
+      "description": "(2021) (Podcast Episode) - Season 3 | Episode 20 - The Cinema Sideshow (2019) (Podcast Series)"
+    },
+    {
+      "id": "tt19829366",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Green Mile",
+      "description": "(2021) (Podcast Episode) - The Next Reel Film Podcast Master Feed (2011) (Podcast Series)"
+    },
+    {
+      "id": "tt15840836",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzQyYjYzYmUtYzRlYy00Nzc4LWIyZTctZDkxZTE4YTZjOTc3XkEyXkFqcGdeQXVyOTE4OTM1OTI@._V1_Ratio0.7727_AL_.jpg",
+      "title": "The Green Mile Review",
+      "description": "(2021) (Podcast Episode) - Season 1 | Episode 33 - Darker Shades of Black (2020) (Podcast Series)"
+    },
+    {
+      "id": "tt0050456",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWMwMjMzMmUtMWVhNy00MTYxLWFmOTctYTc0M2MwZDBiYjY2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Green Man",
+      "description": "(1956)"
+    },
+    {
+      "id": "tt0098813",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjQxMGE4MzQtZDJmZS00MzJjLWIzZmUtNGI4ZTFjODVhNWMzXkEyXkFqcGdeQXVyNTEwNzU0NzY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Green Man",
+      "description": "(1990) (TV Mini Series)"
+    }
+  ],
+  "errorMessage": ""
+}

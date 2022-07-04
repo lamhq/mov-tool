@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0164052",
+  "title": "Hollow Man",
+  "fullTitle": "Hollow Man (2000)",
+  "type": "Movie",
+  "year": "2000",
+  "totalRating": "5.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "2.8%",
+      "votes": "3709"
+    },
+    {
+      "rating": "9",
+      "percent": "1.9%",
+      "votes": "2479"
+    },
+    {
+      "rating": "8",
+      "percent": "7.1%",
+      "votes": "9297"
+    },
+    {
+      "rating": "7",
+      "percent": "19.6%",
+      "votes": "25615"
+    },
+    {
+      "rating": "6",
+      "percent": "29.7%",
+      "votes": "38706"
+    },
+    {
+      "rating": "5",
+      "percent": "20.4%",
+      "votes": "26558"
+    },
+    {
+      "rating": "4",
+      "percent": "9.5%",
+      "votes": "12343"
+    },
+    {
+      "rating": "3",
+      "percent": "4.7%",
+      "votes": "6078"
+    },
+    {
+      "rating": "2",
+      "percent": "2.3%",
+      "votes": "3027"
+    },
+    {
+      "rating": "1",
+      "percent": "2.0%",
+      "votes": "2626"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "130438"
+    },
+    "agesUnder18": {
+      "rating": "5.1",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "7617"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "68450"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "23862"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "90173"
+    },
+    "agesUnder18": {
+      "rating": "4.9",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "6326"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "59784"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "20927"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "12221"
+    },
+    "agesUnder18": {
+      "rating": "5.6",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "5.9",
+      "votes": "1144"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "7944"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "2597"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.7",
+    "votes": "653"
+  },
+  "usUsers": {
+    "rating": "5.6",
+    "votes": "24216"
+  },
+  "nonUSUsers": {
+    "rating": "5.8",
+    "votes": "65184"
+  },
+  "errorMessage": ""
+}

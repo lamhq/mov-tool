@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "The 100",
+  "results": [
+    {
+      "id": "tt2661044",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_Ratio0.8182_AL_.jpg",
+      "title": "The 100",
+      "description": "(2014) (TV Series)"
+    },
+    {
+      "id": "tt15509506",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjQ3ZDNmNTktYjg3Zi00ZTliLTgxMDQtZDRhZDY0ZGM3YTY4XkEyXkFqcGdeQXVyMTQ5NDYyMTAw._V1_Ratio0.7273_AL_.jpg",
+      "title": "The 100",
+      "description": ""
+    },
+    {
+      "id": "tt2132479",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The 100",
+      "description": "(2011) (Short)"
+    },
+    {
+      "id": "tt2113681",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDUyMzU5MTk5MF5BMl5BanBnXkFtZTgwNjcxNDQxNTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt12739994",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA5NjgwZjgtZGQwNC00YzYyLTg3MDEtYTliYWYzMzA3NTUzXkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The 100 Candles Game",
+      "description": "(2020)"
+    },
+    {
+      "id": "tt14126234",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNWQ3ZDE0MWQtMWZjYy00MWVmLWFiZWYtNzRjNTdhMjBmZjIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "100 Foot Wave",
+      "description": "(2021) (TV Series) aka \"The 100-Foot Wave\""
+    },
+    {
+      "id": "tt0061976",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTE0MTE4NzAtMzEyYy00Mjk4LTgyNzEtZjQ0YjIzYjE0NTM2XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Million Eyes of Sumuru",
+      "description": "(1967) aka \"The 1000 Eyes of Su-Muru\""
+    },
+    {
+      "id": "tt7289232",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+      "description": ""
+    },
+    {
+      "id": "tt5897304",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2QwYzAxNjgtOWY4YS00MDE5LTliNTgtYjg3YmE1NDJhMzRiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Mob Psycho 100",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt8129794",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMThkYzQwZjktYzE4ZC00NWI2LThkNzMtMDIzNDY0YzM0OTU1XkEyXkFqcGdeQXVyMzgwNTE2MDU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "100 Things",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

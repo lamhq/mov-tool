@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0367093",
+  "title": "Starship Troopers 2: Hero of the Federation",
+  "fullTitle": "Starship Troopers 2: Hero of the Federation (2004)",
+  "type": "Movie",
+  "year": "2004",
+  "totalRating": "3.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "2.9%",
+      "votes": "675"
+    },
+    {
+      "rating": "9",
+      "percent": "0.9%",
+      "votes": "206"
+    },
+    {
+      "rating": "8",
+      "percent": "1.9%",
+      "votes": "438"
+    },
+    {
+      "rating": "7",
+      "percent": "4.3%",
+      "votes": "992"
+    },
+    {
+      "rating": "6",
+      "percent": "8.0%",
+      "votes": "1861"
+    },
+    {
+      "rating": "5",
+      "percent": "13.0%",
+      "votes": "3022"
+    },
+    {
+      "rating": "4",
+      "percent": "16.9%",
+      "votes": "3911"
+    },
+    {
+      "rating": "3",
+      "percent": "18.0%",
+      "votes": "4160"
+    },
+    {
+      "rating": "2",
+      "percent": "15.5%",
+      "votes": "3584"
+    },
+    {
+      "rating": "1",
+      "percent": "18.6%",
+      "votes": "4321"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "3.5",
+      "votes": "23170"
+    },
+    "agesUnder18": {
+      "rating": "2.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "3.6",
+      "votes": "1206"
+    },
+    "ages30To44": {
+      "rating": "3.4",
+      "votes": "12224"
+    },
+    "agesOver45": {
+      "rating": "3.9",
+      "votes": "4832"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "3.5",
+      "votes": "17867"
+    },
+    "agesUnder18": {
+      "rating": "2.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "3.6",
+      "votes": "1124"
+    },
+    "ages30To44": {
+      "rating": "3.4",
+      "votes": "11686"
+    },
+    "agesOver45": {
+      "rating": "3.9",
+      "votes": "4507"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "3.6",
+      "votes": "787"
+    },
+    "agesUnder18": {
+      "rating": "2.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "3.7",
+      "votes": "63"
+    },
+    "ages30To44": {
+      "rating": "3.5",
+      "votes": "426"
+    },
+    "agesOver45": {
+      "rating": "3.9",
+      "votes": "270"
+    }
+  },
+  "top1000Voters": {
+    "rating": "3.6",
+    "votes": "288"
+  },
+  "usUsers": {
+    "rating": "3.7",
+    "votes": "4128"
+  },
+  "nonUSUsers": {
+    "rating": "3.5",
+    "votes": "12734"
+  },
+  "errorMessage": ""
+}

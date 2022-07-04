@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "Blue Exorcist",
+  "results": [
+    {
+      "id": "tt1799631",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjYyMjhiNTYtN2M3Yy00NTlhLWJkMmEtMzVhOGEyMzNjNTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Blue Exorcist",
+      "description": "(2011) (TV Series)"
+    },
+    {
+      "id": "tt5987956",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzM2ODE3OTEtNDYzYS00NGYwLTlhMzAtZGNhOGMyY2U1Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Blue Exorcist: Kyoto Saga",
+      "description": "(2017) (TV Series)"
+    },
+    {
+      "id": "tt3028018",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA5OTgwNDU4MV5BMl5BanBnXkFtZTcwMDcwMTI4OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Blue Exorcist: The Movie",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt5858632",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTQ5MzQzODctZWI0Mi00MTUwLTkyNjQtZjUwN2Q2MjIyN2VjL2ltYWdlXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ao no ekusoshisuto: Kuro no iede",
+      "description": "(2011) (Video) aka \"Blue Exorcist OVA\""
+    },
+    {
+      "id": "tt0070047",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Exorcist",
+      "description": "(1973)"
+    },
+    {
+      "id": "tt12921446",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGM0N2FhODctZmNkMS00Y2ZlLWJlNjQtZWM2M2YyNTQ1MWEwXkEyXkFqcGdeQXVyMzg2NDQ3ODE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Exorcist",
+      "description": "(2023)"
+    },
+    {
+      "id": "tt5368542",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEzNjI5Njg4MV5BMl5BanBnXkFtZTgwMjkwMjU2MzI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Exorcist",
+      "description": "(2016) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,35 @@
+{
+  "searchType": "Title",
+  "expression": "SPY x FAMILY",
+  "results": [
+    {
+      "id": "tt13706018",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDY5NTI3ZjUtNGY5ZC00MmE1LWI0ZTUtNDI3YTQ0NGFkMWJlXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Spy x Family",
+      "description": "(2022) (TV Series)"
+    },
+    {
+      "id": "tt20493112",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 206 - Spy x Family",
+      "description": "(2022) (Podcast Episode) - Anime Out of Context (2018) (Podcast Series)"
+    },
+    {
+      "id": "tt9447112",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDRjZmYyODQtYmVkNC00ZjJlLWE3ZTktZjg0MjVlMWNhMDkwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Onyx Family",
+      "description": "(2018) (TV Series)"
+    },
+    {
+      "id": "tt19064876",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjJjMWIyNmYtZDQ3YS00YThiLWIzMjQtOTkwZGY5YmFhOWE4XkEyXkFqcGdeQXVyMTMyNzU5NDkz._V1_Ratio0.7273_AL_.jpg",
+      "title": "Onyx Family Dinner",
+      "description": "(2021) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

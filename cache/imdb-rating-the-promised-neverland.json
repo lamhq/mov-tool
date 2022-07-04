@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt8788458",
+  "title": "The Promised Neverland",
+  "fullTitle": "The Promised Neverland (TV Series 2019\u20132021)",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "8.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "30.0%",
+      "votes": "10532"
+    },
+    {
+      "rating": "9",
+      "percent": "26.0%",
+      "votes": "9142"
+    },
+    {
+      "rating": "8",
+      "percent": "22.7%",
+      "votes": "7969"
+    },
+    {
+      "rating": "7",
+      "percent": "11.0%",
+      "votes": "3871"
+    },
+    {
+      "rating": "6",
+      "percent": "4.2%",
+      "votes": "1463"
+    },
+    {
+      "rating": "5",
+      "percent": "2.0%",
+      "votes": "715"
+    },
+    {
+      "rating": "4",
+      "percent": "0.9%",
+      "votes": "312"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "184"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "140"
+    },
+    {
+      "rating": "1",
+      "percent": "2.2%",
+      "votes": "779"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "35107"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "147"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "6714"
+    },
+    "ages30To44": {
+      "rating": "8.2",
+      "votes": "4506"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "560"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "11078"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "97"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "5090"
+    },
+    "ages30To44": {
+      "rating": "8.2",
+      "votes": "3643"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "441"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "2198"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "33"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "1051"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "682"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "94"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.2",
+    "votes": "127"
+  },
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "2016"
+  },
+  "nonUSUsers": {
+    "rating": "8.2",
+    "votes": "6335"
+  },
+  "errorMessage": ""
+}

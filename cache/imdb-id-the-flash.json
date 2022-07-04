@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "The Flash",
+  "results": [
+    {
+      "id": "tt3107288",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "title": "The Flash",
+      "description": "(2014) (TV Series)"
+    },
+    {
+      "id": "tt0439572",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWNhMGU5MjEtMGVkYi00M2RiLWE5NjUtY2U5NDAxZTcwNDY0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Flash",
+      "description": "(2023)"
+    },
+    {
+      "id": "tt0098798",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ2MTc0MTAtN2VlYi00N2ZkLTlhNmUtMjcyZDg0YzNiYjEyXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Flash",
+      "description": "(1990) (TV Series)"
+    },
+    {
+      "id": "tt0101893",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA1MjA2NzE4NV5BMl5BanBnXkFtZTcwMDI0MTkxMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Flash II: Revenge of the Trickster",
+      "description": "(1991) (Video)"
+    },
+    {
+      "id": "tt5654736",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODk2ZGFlMzctOTRjOC00YTZjLTg1ZGUtYWY5MGMzYTRhZTkxXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Flash: Chronicles of Cisco",
+      "description": "(2016) (TV Mini Series)"
+    },
+    {
+      "id": "tt3091708",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTFlMWM5OTYtNDgxOS00NzQ5LTk3MDItNWJhMmE5NWExNDMxXkEyXkFqcGdeQXVyMTU3NDg4Mjk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Flash",
+      "description": "(2013) (Short)"
+    },
+    {
+      "id": "tt0206752",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDU3MzRjYTMtNzM0Ni00ZDY0LTkyMDgtODhkYzFjYzdjNzAzXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Flash III: Deadly Nightshade",
+      "description": "(1992) (Video) aka \"The Flash 3 La sombra mortal\""
+    },
+    {
+      "id": "tt0167561",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODUzMzkzODY4Ml5BMl5BanBnXkFtZTcwNjcyNzQyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Le chevalier Temp\u00eate",
+      "description": "(1967) (TV Series) aka \"The Flashing Blade\""
+    },
+    {
+      "id": "tt3623726",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTY1NzIxNzkzM15BMl5BanBnXkFtZTgwMzAzNjIzNjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Ricki and the Flash",
+      "description": "(2015)"
+    },
+    {
+      "id": "tt15003736",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Flash",
+      "description": "(2022) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

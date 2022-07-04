@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt13706018",
+  "title": "Spy x Family",
+  "fullTitle": "Spy x Family (TV Series 2022\u2013 )",
+  "type": "TVSeries",
+  "year": "2022",
+  "totalRating": "9.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "56.8%",
+      "votes": "5026"
+    },
+    {
+      "rating": "9",
+      "percent": "19.2%",
+      "votes": "1694"
+    },
+    {
+      "rating": "8",
+      "percent": "10.4%",
+      "votes": "923"
+    },
+    {
+      "rating": "7",
+      "percent": "3.7%",
+      "votes": "327"
+    },
+    {
+      "rating": "6",
+      "percent": "1.0%",
+      "votes": "86"
+    },
+    {
+      "rating": "5",
+      "percent": "0.6%",
+      "votes": "52"
+    },
+    {
+      "rating": "4",
+      "percent": "0.3%",
+      "votes": "26"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "26"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "24"
+    },
+    {
+      "rating": "1",
+      "percent": "7.4%",
+      "votes": "657"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "9.0",
+      "votes": "8841"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "60"
+    },
+    "ages18To29": {
+      "rating": "9.0",
+      "votes": "1086"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "570"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "83"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.8",
+      "votes": "1652"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "45"
+    },
+    "ages18To29": {
+      "rating": "8.9",
+      "votes": "848"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "431"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "65"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.9",
+      "votes": "326"
+    },
+    "agesUnder18": {
+      "rating": "8.5",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "9.0",
+      "votes": "145"
+    },
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "114"
+    },
+    "agesOver45": {
+      "rating": "8.8",
+      "votes": "13"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.2",
+    "votes": "16"
+  },
+  "usUsers": {
+    "rating": "8.8",
+    "votes": "307"
+  },
+  "nonUSUsers": {
+    "rating": "8.8",
+    "votes": "861"
+  },
+  "errorMessage": ""
+}

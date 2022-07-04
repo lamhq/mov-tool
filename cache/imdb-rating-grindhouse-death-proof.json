@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1028528",
+  "title": "Death Proof",
+  "fullTitle": "Death Proof (2007)",
+  "type": "Movie",
+  "year": "2007",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.6%",
+      "votes": "24736"
+    },
+    {
+      "rating": "9",
+      "percent": "10.0%",
+      "votes": "28524"
+    },
+    {
+      "rating": "8",
+      "percent": "23.1%",
+      "votes": "66240"
+    },
+    {
+      "rating": "7",
+      "percent": "28.8%",
+      "votes": "82425"
+    },
+    {
+      "rating": "6",
+      "percent": "14.8%",
+      "votes": "42282"
+    },
+    {
+      "rating": "5",
+      "percent": "6.4%",
+      "votes": "18272"
+    },
+    {
+      "rating": "4",
+      "percent": "3.1%",
+      "votes": "8768"
+    },
+    {
+      "rating": "3",
+      "percent": "1.8%",
+      "votes": "5283"
+    },
+    {
+      "rating": "2",
+      "percent": "1.3%",
+      "votes": "3625"
+    },
+    {
+      "rating": "1",
+      "percent": "2.2%",
+      "votes": "6287"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "286442"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "73"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "29720"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "151841"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "35462"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "197969"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "54"
+    },
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "24748"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "132388"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "31718"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "26313"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "4230"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "17638"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "3180"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "680"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "44776"
+  },
+  "nonUSUsers": {
+    "rating": "7.0",
+    "votes": "145542"
+  },
+  "errorMessage": ""
+}

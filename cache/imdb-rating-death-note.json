@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0877057",
+  "title": "Death Note",
+  "fullTitle": "Death Note (TV Series 2006\u20132007)",
+  "type": "TVSeries",
+  "year": "2006",
+  "totalRating": "9.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "44.7%",
+      "votes": "135872"
+    },
+    {
+      "rating": "9",
+      "percent": "29.4%",
+      "votes": "89243"
+    },
+    {
+      "rating": "8",
+      "percent": "14.3%",
+      "votes": "43372"
+    },
+    {
+      "rating": "7",
+      "percent": "5.3%",
+      "votes": "16151"
+    },
+    {
+      "rating": "6",
+      "percent": "1.7%",
+      "votes": "5201"
+    },
+    {
+      "rating": "5",
+      "percent": "0.7%",
+      "votes": "2279"
+    },
+    {
+      "rating": "4",
+      "percent": "0.4%",
+      "votes": "1138"
+    },
+    {
+      "rating": "3",
+      "percent": "0.2%",
+      "votes": "729"
+    },
+    {
+      "rating": "2",
+      "percent": "0.2%",
+      "votes": "657"
+    },
+    {
+      "rating": "1",
+      "percent": "3.1%",
+      "votes": "9395"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "9.0",
+      "votes": "304037"
+    },
+    "agesUnder18": {
+      "rating": "9.1",
+      "votes": "631"
+    },
+    "ages18To29": {
+      "rating": "9.0",
+      "votes": "68506"
+    },
+    "ages30To44": {
+      "rating": "8.9",
+      "votes": "78911"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "6741"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.9",
+      "votes": "142077"
+    },
+    "agesUnder18": {
+      "rating": "9.1",
+      "votes": "445"
+    },
+    "ages18To29": {
+      "rating": "9.1",
+      "votes": "54680"
+    },
+    "ages30To44": {
+      "rating": "8.9",
+      "votes": "65313"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "5465"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.9",
+      "votes": "27191"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "135"
+    },
+    "ages18To29": {
+      "rating": "9.0",
+      "votes": "11153"
+    },
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "12139"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "1080"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.7",
+    "votes": "296"
+  },
+  "usUsers": {
+    "rating": "8.8",
+    "votes": "20803"
+  },
+  "nonUSUsers": {
+    "rating": "8.9",
+    "votes": "87124"
+  },
+  "errorMessage": ""
+}

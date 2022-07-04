@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt3843168",
+  "title": "Z Nation",
+  "fullTitle": "Z Nation (TV Series 2014\u20132018)",
+  "type": "TVSeries",
+  "year": "2014",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "22.1%",
+      "votes": "7991"
+    },
+    {
+      "rating": "9",
+      "percent": "9.8%",
+      "votes": "3527"
+    },
+    {
+      "rating": "8",
+      "percent": "17.8%",
+      "votes": "6420"
+    },
+    {
+      "rating": "7",
+      "percent": "18.5%",
+      "votes": "6693"
+    },
+    {
+      "rating": "6",
+      "percent": "10.8%",
+      "votes": "3920"
+    },
+    {
+      "rating": "5",
+      "percent": "6.4%",
+      "votes": "2300"
+    },
+    {
+      "rating": "4",
+      "percent": "3.9%",
+      "votes": "1412"
+    },
+    {
+      "rating": "3",
+      "percent": "3.0%",
+      "votes": "1082"
+    },
+    {
+      "rating": "2",
+      "percent": "2.4%",
+      "votes": "850"
+    },
+    {
+      "rating": "1",
+      "percent": "5.4%",
+      "votes": "1967"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "36162"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "3534"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "12667"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "7240"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "19465"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "2660"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "9437"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "5472"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "6031"
+    },
+    "agesUnder18": {
+      "rating": "5.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "748"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "2990"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "1637"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.9",
+    "votes": "190"
+  },
+  "usUsers": {
+    "rating": "6.7",
+    "votes": "5187"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "11639"
+  },
+  "errorMessage": ""
+}

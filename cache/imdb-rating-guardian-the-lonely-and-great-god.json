@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5994364",
+  "title": "Guardian: The Lonely and Great God",
+  "fullTitle": "Guardian: The Lonely and Great God (TV Series 2016\u20132017)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "45.2%",
+      "votes": "8736"
+    },
+    {
+      "rating": "9",
+      "percent": "22.8%",
+      "votes": "4417"
+    },
+    {
+      "rating": "8",
+      "percent": "16.0%",
+      "votes": "3102"
+    },
+    {
+      "rating": "7",
+      "percent": "7.3%",
+      "votes": "1418"
+    },
+    {
+      "rating": "6",
+      "percent": "3.2%",
+      "votes": "613"
+    },
+    {
+      "rating": "5",
+      "percent": "1.6%",
+      "votes": "317"
+    },
+    {
+      "rating": "4",
+      "percent": "0.7%",
+      "votes": "135"
+    },
+    {
+      "rating": "3",
+      "percent": "0.6%",
+      "votes": "125"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "123"
+    },
+    {
+      "rating": "1",
+      "percent": "1.8%",
+      "votes": "357"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "19343"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "31"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "3504"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3303"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "902"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "3277"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "1200"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "1189"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "362"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.8",
+      "votes": "5472"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "2049"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "2006"
+    },
+    "agesOver45": {
+      "rating": "8.9",
+      "votes": "509"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "69"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "1312"
+  },
+  "nonUSUsers": {
+    "rating": "8.3",
+    "votes": "4126"
+  },
+  "errorMessage": ""
+}

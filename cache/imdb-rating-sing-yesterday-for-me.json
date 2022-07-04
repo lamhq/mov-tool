@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt10204658",
+  "title": "Sing \"Yesterday\" for Me",
+  "fullTitle": "Sing \"Yesterday\" for Me (TV Series 2020\u20132020)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "6.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "12.4%",
+      "votes": "92"
+    },
+    {
+      "rating": "9",
+      "percent": "9.6%",
+      "votes": "71"
+    },
+    {
+      "rating": "8",
+      "percent": "19.6%",
+      "votes": "145"
+    },
+    {
+      "rating": "7",
+      "percent": "23.8%",
+      "votes": "176"
+    },
+    {
+      "rating": "6",
+      "percent": "17.0%",
+      "votes": "126"
+    },
+    {
+      "rating": "5",
+      "percent": "8.0%",
+      "votes": "59"
+    },
+    {
+      "rating": "4",
+      "percent": "4.3%",
+      "votes": "32"
+    },
+    {
+      "rating": "3",
+      "percent": "1.8%",
+      "votes": "13"
+    },
+    {
+      "rating": "2",
+      "percent": "1.6%",
+      "votes": "12"
+    },
+    {
+      "rating": "1",
+      "percent": "2.0%",
+      "votes": "15"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "741"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "6.8",
+      "votes": "173"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "127"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "24"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "300"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "6.8",
+      "votes": "145"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "103"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "18"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "58"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "23"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "22"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "6"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "10"
+  },
+  "usUsers": {
+    "rating": "6.6",
+    "votes": "58"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "218"
+  },
+  "errorMessage": ""
+}

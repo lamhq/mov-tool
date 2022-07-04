@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Erased",
+  "results": [
+    {
+      "id": "tt5249462",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzJmZjZkMjQtZjJmZC00M2JkLTg5MzktN2FkOTllNTc5MmMzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(2016) (TV Mini Series)"
+    },
+    {
+      "id": "tt1645155",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTM3MjQwNzE1OF5BMl5BanBnXkFtZTcwMDYyNDYyOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt7573686",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzliNDYxYWEtZTJiZi00YzQ3LWJlMTMtMDkzOWNhMGI1ZTVjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(2017) (TV Series)"
+    },
+    {
+      "id": "tt4882964",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDdjNDFmZmQtNGJlZi00NGNkLWE1YTUtNTNiYWM0NGZkOTBmXkEyXkFqcGdeQXVyMTg0Nzk5MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt14742204",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Erased",
+      "description": "(2020) (TV Series)"
+    },
+    {
+      "id": "tt9078014",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTA3MTYxNTktMjZkYS00MGM3LWIzYzUtZDczYjc0YjdiNzRmXkEyXkFqcGdeQXVyMTE3NjQwNTA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(2018)"
+    },
+    {
+      "id": "tt0860468",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Erased",
+      "description": "(2006) (TV Movie)"
+    },
+    {
+      "id": "tt14722252",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjQ3Mzg2MjgtNjBlNi00NWFlLWFjNDQtYmJiMzUzNDY0YjRhXkEyXkFqcGdeQXVyMjA2ODM3NTA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Erased",
+      "description": "(I) (2021) (Short)"
+    },
+    {
+      "id": "tt0116213",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTczMTNlN2UtMWE2NS00ZTUyLTgzYTQtYTFkNWIzODJkYzIwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Eraser",
+      "description": "(1996)"
+    },
+    {
+      "id": "tt15422240",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTdkMmNlMDItMWJlYy00NDVjLWJkY2MtMWE4MWE0NDdjODY0XkEyXkFqcGdeQXVyMTY1NjM1Nzc@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Eraser: Reborn",
+      "description": "(2022)"
+    }
+  ],
+  "errorMessage": ""
+}

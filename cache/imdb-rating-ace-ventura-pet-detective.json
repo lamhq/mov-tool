@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0109040",
+  "title": "Ace Ventura: Pet Detective",
+  "fullTitle": "Ace Ventura: Pet Detective (1994)",
+  "type": "Movie",
+  "year": "1994",
+  "totalRating": "6.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "9.2%",
+      "votes": "27272"
+    },
+    {
+      "rating": "9",
+      "percent": "7.7%",
+      "votes": "22911"
+    },
+    {
+      "rating": "8",
+      "percent": "19.2%",
+      "votes": "56847"
+    },
+    {
+      "rating": "7",
+      "percent": "30.8%",
+      "votes": "91336"
+    },
+    {
+      "rating": "6",
+      "percent": "18.1%",
+      "votes": "53708"
+    },
+    {
+      "rating": "5",
+      "percent": "7.6%",
+      "votes": "22534"
+    },
+    {
+      "rating": "4",
+      "percent": "3.4%",
+      "votes": "9981"
+    },
+    {
+      "rating": "3",
+      "percent": "1.7%",
+      "votes": "5136"
+    },
+    {
+      "rating": "2",
+      "percent": "1.1%",
+      "votes": "3187"
+    },
+    {
+      "rating": "1",
+      "percent": "1.3%",
+      "votes": "3745"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "296657"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "93"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "36106"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "150447"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "31151"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "193930"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "72"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "29072"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "128037"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "26861"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "32390"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "6.8",
+      "votes": "6211"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "20604"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "3819"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "716"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "52771"
+  },
+  "nonUSUsers": {
+    "rating": "6.8",
+    "votes": "132888"
+  },
+  "errorMessage": ""
+}

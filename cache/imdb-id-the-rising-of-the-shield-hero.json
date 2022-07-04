@@ -1,0 +1,35 @@
+{
+  "searchType": "Title",
+  "expression": "The Rising of the Shield Hero",
+  "results": [
+    {
+      "id": "tt9529546",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTI2ZThmYTYtZWNkMC00MjVjLWJmMmItNmRjYWNlODNkNGE3XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Rising of the Shield Hero",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt13483110",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjJlOTg3NzktMzdmYy00NWUyLThiYWMtNDZiZmNhZDdlMjVjXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Tate no Yuusha no Nariagari",
+      "description": "(2020) (Video) aka \"The Rising of the Shield Hero Stage Play\""
+    },
+    {
+      "id": "tt18801506",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Meet Rising of the Shield Hero!",
+      "description": "(2021) (Podcast Episode) - GalaxyCon Live (2020) (Podcast Series)"
+    },
+    {
+      "id": "tt16798004",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 109 - The Rising of the Shield Hero",
+      "description": "(2020) (Podcast Episode) - Anime Out of Context (2018) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

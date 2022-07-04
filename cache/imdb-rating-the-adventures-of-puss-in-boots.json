@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt3807034",
+  "title": "The Adventures of Puss in Boots",
+  "fullTitle": "The Adventures of Puss in Boots (TV Series 2015\u20132018)",
+  "type": "TVSeries",
+  "year": "2015",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "22.5%",
+      "votes": "383"
+    },
+    {
+      "rating": "9",
+      "percent": "7.2%",
+      "votes": "123"
+    },
+    {
+      "rating": "8",
+      "percent": "13.5%",
+      "votes": "229"
+    },
+    {
+      "rating": "7",
+      "percent": "20.6%",
+      "votes": "350"
+    },
+    {
+      "rating": "6",
+      "percent": "15.0%",
+      "votes": "256"
+    },
+    {
+      "rating": "5",
+      "percent": "9.2%",
+      "votes": "156"
+    },
+    {
+      "rating": "4",
+      "percent": "4.1%",
+      "votes": "69"
+    },
+    {
+      "rating": "3",
+      "percent": "2.9%",
+      "votes": "50"
+    },
+    {
+      "rating": "2",
+      "percent": "1.3%",
+      "votes": "22"
+    },
+    {
+      "rating": "1",
+      "percent": "3.8%",
+      "votes": "64"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "1702"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "222"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "508"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "219"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "759"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "156"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "372"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "157"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "279"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "58"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "126"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "58"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "62"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "266"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "486"
+  },
+  "errorMessage": ""
+}

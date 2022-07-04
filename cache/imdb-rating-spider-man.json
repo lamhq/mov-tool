@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0145487",
+  "title": "Spider-Man",
+  "fullTitle": "Spider-Man (2002)",
+  "type": "Movie",
+  "year": "2002",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "9.6%",
+      "votes": "76674"
+    },
+    {
+      "rating": "9",
+      "percent": "10.7%",
+      "votes": "84913"
+    },
+    {
+      "rating": "8",
+      "percent": "28.4%",
+      "votes": "226709"
+    },
+    {
+      "rating": "7",
+      "percent": "31.4%",
+      "votes": "250353"
+    },
+    {
+      "rating": "6",
+      "percent": "12.0%",
+      "votes": "96029"
+    },
+    {
+      "rating": "5",
+      "percent": "4.1%",
+      "votes": "33039"
+    },
+    {
+      "rating": "4",
+      "percent": "1.5%",
+      "votes": "12131"
+    },
+    {
+      "rating": "3",
+      "percent": "0.8%",
+      "votes": "6494"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "3824"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "7115"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "797281"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "679"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "122984"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "321870"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "80546"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "466231"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "528"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "97621"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "268423"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "68395"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "86534"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "91"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "21418"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "49059"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "10647"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.5",
+    "votes": "861"
+  },
+  "usUsers": {
+    "rating": "7.5",
+    "votes": "129235"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "305789"
+  },
+  "errorMessage": ""
+}

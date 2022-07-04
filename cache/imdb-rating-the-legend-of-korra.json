@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1695360",
+  "title": "The Legend of Korra",
+  "fullTitle": "The Legend of Korra (TV Series 2012\u20132014)",
+  "type": "TVSeries",
+  "year": "2012",
+  "totalRating": "8.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "32.0%",
+      "votes": "37816"
+    },
+    {
+      "rating": "9",
+      "percent": "24.7%",
+      "votes": "29118"
+    },
+    {
+      "rating": "8",
+      "percent": "20.9%",
+      "votes": "24712"
+    },
+    {
+      "rating": "7",
+      "percent": "10.8%",
+      "votes": "12804"
+    },
+    {
+      "rating": "6",
+      "percent": "4.3%",
+      "votes": "5042"
+    },
+    {
+      "rating": "5",
+      "percent": "2.0%",
+      "votes": "2305"
+    },
+    {
+      "rating": "4",
+      "percent": "1.1%",
+      "votes": "1244"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "810"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "605"
+    },
+    {
+      "rating": "1",
+      "percent": "3.0%",
+      "votes": "3576"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "118032"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "185"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "30618"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "36527"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "3863"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "61256"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "98"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "23146"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "29222"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "3049"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "15633"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "71"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "6656"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "6793"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "733"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.3",
+    "votes": "219"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "14729"
+  },
+  "nonUSUsers": {
+    "rating": "8.4",
+    "votes": "35448"
+  },
+  "errorMessage": ""
+}

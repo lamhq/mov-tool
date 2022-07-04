@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0271668",
+  "title": "National Security",
+  "fullTitle": "National Security (2003)",
+  "type": "Movie",
+  "year": "2003",
+  "totalRating": "5.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.4%",
+      "votes": "2736"
+    },
+    {
+      "rating": "9",
+      "percent": "2.5%",
+      "votes": "1258"
+    },
+    {
+      "rating": "8",
+      "percent": "7.3%",
+      "votes": "3707"
+    },
+    {
+      "rating": "7",
+      "percent": "16.5%",
+      "votes": "8361"
+    },
+    {
+      "rating": "6",
+      "percent": "26.1%",
+      "votes": "13247"
+    },
+    {
+      "rating": "5",
+      "percent": "21.0%",
+      "votes": "10656"
+    },
+    {
+      "rating": "4",
+      "percent": "10.0%",
+      "votes": "5075"
+    },
+    {
+      "rating": "3",
+      "percent": "5.2%",
+      "votes": "2647"
+    },
+    {
+      "rating": "2",
+      "percent": "2.7%",
+      "votes": "1389"
+    },
+    {
+      "rating": "1",
+      "percent": "3.1%",
+      "votes": "1594"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "50670"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "5290"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "27572"
+    },
+    "agesOver45": {
+      "rating": "5.2",
+      "votes": "6048"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "36814"
+    },
+    "agesUnder18": {
+      "rating": "5.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "4628"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "25215"
+    },
+    "agesOver45": {
+      "rating": "5.2",
+      "votes": "5366"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "3441"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "564"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "2098"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "610"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.1",
+    "votes": "389"
+  },
+  "usUsers": {
+    "rating": "5.3",
+    "votes": "9553"
+  },
+  "nonUSUsers": {
+    "rating": "5.6",
+    "votes": "24604"
+  },
+  "errorMessage": ""
+}

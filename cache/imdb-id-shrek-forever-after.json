@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "Shrek Forever After",
+  "results": [
+    {
+      "id": "tt0892791",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Shrek Forever After",
+      "description": "(2010)"
+    },
+    {
+      "id": "tt1794954",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Shrek Forever After: The Animators Corner",
+      "description": "(2010) (Video)"
+    },
+    {
+      "id": "tt20306600",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "246 Shrek Forever After - Morgan & Chelsea Make a Vow",
+      "description": "(2022) (Podcast Episode) - Animation Addicts Podcast - Disney, Pixar, & Animated Movie Reviews & Interviews - Rotoscopers (2012) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

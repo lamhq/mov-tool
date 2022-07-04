@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "The Incredible Hulk",
+  "results": [
+    {
+      "id": "tt0800080",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredible Hulk",
+      "description": "(2008)"
+    },
+    {
+      "id": "tt0077031",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODc3YTIwY2ItMDU3MS00ZTFlLWJjOTAtNmE4M2M0NWI4MWE1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredible Hulk",
+      "description": "(1977) (TV Series)"
+    },
+    {
+      "id": "tt0115215",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYmVjYzA3MmYtZjBhOS00OGI5LWIzZTEtOTRkZGY2ZWQ5NjkzXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredible Hulk",
+      "description": "(1996) (TV Series)"
+    },
+    {
+      "id": "tt0095368",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2Y1MWUxNWUtNzNjZi00NDU3LThhZjAtOWU4YzlkZTYxMzZjXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredible Hulk Returns",
+      "description": "(1988) (TV Movie)"
+    },
+    {
+      "id": "tt0098512",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDg3NmYwMDQtNTE5MC00NDFlLWI3YjktMWNjZDlkZWVmOWRiXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Trial of the Incredible Hulk",
+      "description": "(1989) (TV Movie)"
+    },
+    {
+      "id": "tt0206488",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIxMTc2ODg4Nl5BMl5BanBnXkFtZTcwMTc5ODMyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hulk",
+      "description": "(1966) (TV Series) aka \"The Incredible Hulk\""
+    },
+    {
+      "id": "tt0083430",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGRjYWU0MTgtNzQ1Mi00NzE0LWFhYzgtOGJjMzZlNTI0NjU4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredible Hulk",
+      "description": "(1982) (TV Series)"
+    },
+    {
+      "id": "tt0317705",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Incredibles",
+      "description": "(2004)"
+    }
+  ],
+  "errorMessage": ""
+}

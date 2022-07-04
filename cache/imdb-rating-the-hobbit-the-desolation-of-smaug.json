@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1170358",
+  "title": "The Hobbit: The Desolation of Smaug",
+  "fullTitle": "The Hobbit: The Desolation of Smaug (2013)",
+  "type": "Movie",
+  "year": "2013",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "17.4%",
+      "votes": "112198"
+    },
+    {
+      "rating": "9",
+      "percent": "18.2%",
+      "votes": "117418"
+    },
+    {
+      "rating": "8",
+      "percent": "30.1%",
+      "votes": "194031"
+    },
+    {
+      "rating": "7",
+      "percent": "19.6%",
+      "votes": "126455"
+    },
+    {
+      "rating": "6",
+      "percent": "8.1%",
+      "votes": "52036"
+    },
+    {
+      "rating": "5",
+      "percent": "3.2%",
+      "votes": "20348"
+    },
+    {
+      "rating": "4",
+      "percent": "1.3%",
+      "votes": "8556"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "4544"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "2804"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "5869"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "644259"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "232"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "121244"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "264663"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "56772"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "392873"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "181"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "94294"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "216468"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "47312"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "84765"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "27"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "24391"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "44235"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "8395"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.5",
+    "votes": "763"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "65762"
+  },
+  "nonUSUsers": {
+    "rating": "7.7",
+    "votes": "267830"
+  },
+  "errorMessage": ""
+}

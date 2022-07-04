@@ -1,0 +1,35 @@
+{
+  "searchType": "Title",
+  "expression": "The Adventures of Puss in Boots",
+  "results": [
+    {
+      "id": "tt3807034",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTU3MTI0NDE1M15BMl5BanBnXkFtZTgwMzU2ODI5NDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Adventures of Puss in Boots",
+      "description": "(2015) (TV Series)"
+    },
+    {
+      "id": "tt1227808",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTU4ZWE4ZWItZWNkZi00NDQzLTliNmYtMWRmNjhkMjkzMGM2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Adventures of Puss-in-Boots",
+      "description": "(1992) (TV Series)"
+    },
+    {
+      "id": "tt0145419",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTM2MzVhMTEtYzIyOS00MWQ2LTkyNjYtNDQ5N2NjMTYwZDYxXkEyXkFqcGdeQXVyODg1NTU5ODQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Puss in Books: Adventures of the Library Cat",
+      "description": "(1997) (Short)"
+    },
+    {
+      "id": "tt18029078",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Finding Stability as a Nascent TV Writer ft. Julia Yorks (The Adventures of Puss in Boots/Skylanders Academy) (PT120)",
+      "description": "(2019) (Podcast Episode) - Paper Team (2016) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

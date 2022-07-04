@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt10431290",
+  "title": "Arifureta: From Commonplace to World's Strongest",
+  "fullTitle": "Arifureta: From Commonplace to World's Strongest (TV Series 2019\u2013 )",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "7.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "28.5%",
+      "votes": "765"
+    },
+    {
+      "rating": "9",
+      "percent": "11.0%",
+      "votes": "296"
+    },
+    {
+      "rating": "8",
+      "percent": "17.0%",
+      "votes": "457"
+    },
+    {
+      "rating": "7",
+      "percent": "18.2%",
+      "votes": "488"
+    },
+    {
+      "rating": "6",
+      "percent": "9.4%",
+      "votes": "251"
+    },
+    {
+      "rating": "5",
+      "percent": "5.7%",
+      "votes": "154"
+    },
+    {
+      "rating": "4",
+      "percent": "2.9%",
+      "votes": "79"
+    },
+    {
+      "rating": "3",
+      "percent": "2.2%",
+      "votes": "58"
+    },
+    {
+      "rating": "2",
+      "percent": "1.9%",
+      "votes": "50"
+    },
+    {
+      "rating": "1",
+      "percent": "3.1%",
+      "votes": "84"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "2682"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "9"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "385"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "423"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "91"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "935"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "336"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "360"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "79"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "97"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "28"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "50"
+    },
+    "agesOver45": {
+      "rating": "4.7",
+      "votes": "9"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "27"
+  },
+  "usUsers": {
+    "rating": "7.3",
+    "votes": "231"
+  },
+  "nonUSUsers": {
+    "rating": "6.7",
+    "votes": "448"
+  },
+  "errorMessage": ""
+}

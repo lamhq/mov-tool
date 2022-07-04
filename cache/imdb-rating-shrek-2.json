@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0298148",
+  "title": "Shrek 2",
+  "fullTitle": "Shrek 2 (2004)",
+  "type": "Movie",
+  "year": "2004",
+  "totalRating": "7.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "9.7%",
+      "votes": "43758"
+    },
+    {
+      "rating": "9",
+      "percent": "10.4%",
+      "votes": "47169"
+    },
+    {
+      "rating": "8",
+      "percent": "25.5%",
+      "votes": "115634"
+    },
+    {
+      "rating": "7",
+      "percent": "32.1%",
+      "votes": "145443"
+    },
+    {
+      "rating": "6",
+      "percent": "14.1%",
+      "votes": "63821"
+    },
+    {
+      "rating": "5",
+      "percent": "4.6%",
+      "votes": "21012"
+    },
+    {
+      "rating": "4",
+      "percent": "1.7%",
+      "votes": "7657"
+    },
+    {
+      "rating": "3",
+      "percent": "0.8%",
+      "votes": "3495"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "1981"
+    },
+    {
+      "rating": "1",
+      "percent": "0.7%",
+      "votes": "3119"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "453089"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "312"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "78252"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "190731"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "44075"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "252316"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "219"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "55001"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "146451"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "35871"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "74736"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "64"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "20720"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "41935"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "7491"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.1",
+    "votes": "750"
+  },
+  "usUsers": {
+    "rating": "7.3",
+    "votes": "68379"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "195082"
+  },
+  "errorMessage": ""
+}

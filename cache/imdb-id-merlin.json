@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Merlin",
+  "results": [
+    {
+      "id": "tt1199099",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTBjYjM3ZjItZTI1MS00ODZhLWFhZDgtODgxMmMzN2JlOTExXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin",
+      "description": "(2008) (TV Series)"
+    },
+    {
+      "id": "tt0130414",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYzNDExNjk2NF5BMl5BanBnXkFtZTcwMTQ3NjYxMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin",
+      "description": "(1998) (TV Mini Series)"
+    },
+    {
+      "id": "tt4580372",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMWUyNThjZDQtNWRjZi00NDg4LWEyOWItYjk0NGEwYjk2MjVmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merl\u00ed",
+      "description": "(2015) (TV Series)"
+    },
+    {
+      "id": "tt0057546",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODc2MjAyZDYtNWYwZi00YTQwLWE0ZDMtMjM2NTJmYWMxMmQ0XkEyXkFqcGdeQXVyNTQxMTIxMTk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Sword in the Stone",
+      "description": "(1963) aka \"Merlin l'enchanteur\""
+    },
+    {
+      "id": "tt1516278",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDdhZDA0NjItYWE0ZS00MWYyLWFkNWEtZTMzNDRlOTYxYWRlXkEyXkFqcGdeQXVyNDUxOTg3MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin: Secrets & Magic",
+      "description": "(2009) (TV Series)"
+    },
+    {
+      "id": "tt0463826",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA1MzUxOTI3OV5BMl5BanBnXkFtZTcwODA0NTI1MQ@@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Merlin's Apprentice",
+      "description": "(2006) (TV Mini Series)"
+    },
+    {
+      "id": "tt0174917",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTI1OTU3NTQzOF5BMl5BanBnXkFtZTcwMjA5NDIyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin's Shop of Mystical Wonders",
+      "description": "(1996) (Video)"
+    },
+    {
+      "id": "tt0120166",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIyOTE0MTYxOV5BMl5BanBnXkFtZTcwNzI5NzQyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Sorcerer's Apprentice",
+      "description": "(2001) aka \"Merlin und das Duell der Zauberer\""
+    },
+    {
+      "id": "tt0139460",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDg2NDEyNDkyMF5BMl5BanBnXkFtZTgwMDgxMDYxNDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin",
+      "description": "(1998) (TV Movie)"
+    },
+    {
+      "id": "tt4327780",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDMwZDAyYjItZTA1Ni00NTllLWIxNDEtMWI3NmU2ZjM3OTk3XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Merlin",
+      "description": "(2012) (TV Mini Series)"
+    }
+  ],
+  "errorMessage": ""
+}

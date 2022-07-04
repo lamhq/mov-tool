@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1670345",
+  "title": "Now You See Me",
+  "fullTitle": "Now You See Me (2013)",
+  "type": "Movie",
+  "year": "2013",
+  "totalRating": "7.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "10.9%",
+      "votes": "70174"
+    },
+    {
+      "rating": "9",
+      "percent": "12.4%",
+      "votes": "80215"
+    },
+    {
+      "rating": "8",
+      "percent": "26.8%",
+      "votes": "172591"
+    },
+    {
+      "rating": "7",
+      "percent": "27.3%",
+      "votes": "176135"
+    },
+    {
+      "rating": "6",
+      "percent": "12.6%",
+      "votes": "80920"
+    },
+    {
+      "rating": "5",
+      "percent": "5.2%",
+      "votes": "33248"
+    },
+    {
+      "rating": "4",
+      "percent": "2.2%",
+      "votes": "14160"
+    },
+    {
+      "rating": "3",
+      "percent": "1.1%",
+      "votes": "7276"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "4167"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "5612"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "644498"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "261"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "125415"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "259229"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "54374"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "368114"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "177"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "88085"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "202909"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "44285"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "106552"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "55"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "34074"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "52467"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "9022"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.9",
+    "votes": "731"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "62467"
+  },
+  "nonUSUsers": {
+    "rating": "7.1",
+    "votes": "268200"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0120689",
+  "title": "The Green Mile",
+  "fullTitle": "The Green Mile (1999)",
+  "type": "Movie",
+  "year": "1999",
+  "totalRating": "8.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "26.5%",
+      "votes": "334795"
+    },
+    {
+      "rating": "9",
+      "percent": "31.1%",
+      "votes": "392139"
+    },
+    {
+      "rating": "8",
+      "percent": "25.8%",
+      "votes": "325012"
+    },
+    {
+      "rating": "7",
+      "percent": "10.6%",
+      "votes": "133171"
+    },
+    {
+      "rating": "6",
+      "percent": "3.2%",
+      "votes": "40727"
+    },
+    {
+      "rating": "5",
+      "percent": "1.2%",
+      "votes": "15493"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "7185"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "4291"
+    },
+    {
+      "rating": "2",
+      "percent": "0.2%",
+      "votes": "2816"
+    },
+    {
+      "rating": "1",
+      "percent": "0.5%",
+      "votes": "6068"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "1261697"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "545"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "168882"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "511323"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "140850"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "707722"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "389"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "128800"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "409228"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "112232"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.7",
+      "votes": "166618"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "105"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "34264"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "93422"
+    },
+    "agesOver45": {
+      "rating": "8.7",
+      "votes": "25585"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.2",
+    "votes": "861"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "157258"
+  },
+  "nonUSUsers": {
+    "rating": "8.6",
+    "votes": "491888"
+  },
+  "errorMessage": ""
+}

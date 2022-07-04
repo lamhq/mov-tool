@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "The Hobbit: The Battle of the Five Armies",
+  "results": [
+    {
+      "id": "tt2310332",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt7940662",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies - The Hobbit: Butt-Numb-a-Thon 2011 Greeting",
+      "description": "(2015) (Video)"
+    },
+    {
+      "id": "tt7889640",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies - The Peoples and Denizens of Middle-earth",
+      "description": "(2015) (Video)"
+    },
+    {
+      "id": "tt7940598",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies - Rivers of Gold Music Video",
+      "description": "(2015) (Video)"
+    },
+    {
+      "id": "tt19830642",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies \u00e2EUR\u00a2 The Film Board",
+      "description": "(2014) (Podcast Episode) - The Next Reel Film Podcast Master Feed (2011) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

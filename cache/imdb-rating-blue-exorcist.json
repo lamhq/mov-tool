@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1799631",
+  "title": "Blue Exorcist",
+  "fullTitle": "Blue Exorcist (TV Series 2011\u20132012)",
+  "type": "TVSeries",
+  "year": "2011",
+  "totalRating": "7.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "16.3%",
+      "votes": "2086"
+    },
+    {
+      "rating": "9",
+      "percent": "13.1%",
+      "votes": "1684"
+    },
+    {
+      "rating": "8",
+      "percent": "27.6%",
+      "votes": "3545"
+    },
+    {
+      "rating": "7",
+      "percent": "24.6%",
+      "votes": "3154"
+    },
+    {
+      "rating": "6",
+      "percent": "9.5%",
+      "votes": "1214"
+    },
+    {
+      "rating": "5",
+      "percent": "4.3%",
+      "votes": "546"
+    },
+    {
+      "rating": "4",
+      "percent": "1.8%",
+      "votes": "231"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "128"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "67"
+    },
+    {
+      "rating": "1",
+      "percent": "1.4%",
+      "votes": "180"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "12835"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "16"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "3387"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "3155"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "390"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "5576"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "9"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "2320"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "2346"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "277"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "2061"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "962"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "748"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "103"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.8",
+    "votes": "83"
+  },
+  "usUsers": {
+    "rating": "7.4",
+    "votes": "1355"
+  },
+  "nonUSUsers": {
+    "rating": "7.3",
+    "votes": "3549"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0251127",
+  "title": "How to Lose a Guy in 10 Days",
+  "fullTitle": "How to Lose a Guy in 10 Days (2003)",
+  "type": "Movie",
+  "year": "2003",
+  "totalRating": "6.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "7.7%",
+      "votes": "18012"
+    },
+    {
+      "rating": "9",
+      "percent": "6.0%",
+      "votes": "14042"
+    },
+    {
+      "rating": "8",
+      "percent": "14.5%",
+      "votes": "33644"
+    },
+    {
+      "rating": "7",
+      "percent": "26.5%",
+      "votes": "61796"
+    },
+    {
+      "rating": "6",
+      "percent": "24.8%",
+      "votes": "57679"
+    },
+    {
+      "rating": "5",
+      "percent": "11.4%",
+      "votes": "26643"
+    },
+    {
+      "rating": "4",
+      "percent": "4.5%",
+      "votes": "10547"
+    },
+    {
+      "rating": "3",
+      "percent": "2.1%",
+      "votes": "4932"
+    },
+    {
+      "rating": "2",
+      "percent": "1.1%",
+      "votes": "2673"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "2800"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "232768"
+    },
+    "agesUnder18": {
+      "rating": "6.1",
+      "votes": "59"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "35912"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "106548"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "22208"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.1",
+      "votes": "88530"
+    },
+    "agesUnder18": {
+      "rating": "6.2",
+      "votes": "17"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "12813"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "56299"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "14754"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "83009"
+    },
+    "agesUnder18": {
+      "rating": "5.8",
+      "votes": "31"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "21830"
+    },
+    "ages30To44": {
+      "rating": "6.7",
+      "votes": "48668"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "7047"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.8",
+    "votes": "536"
+  },
+  "usUsers": {
+    "rating": "6.3",
+    "votes": "35959"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "98345"
+  },
+  "errorMessage": ""
+}

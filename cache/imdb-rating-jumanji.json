@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2283362",
+  "title": "Jumanji: Welcome to the Jungle",
+  "fullTitle": "Jumanji: Welcome to the Jungle (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "6.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "7.6%",
+      "votes": "27921"
+    },
+    {
+      "rating": "9",
+      "percent": "7.5%",
+      "votes": "27258"
+    },
+    {
+      "rating": "8",
+      "percent": "21.4%",
+      "votes": "78056"
+    },
+    {
+      "rating": "7",
+      "percent": "34.5%",
+      "votes": "126115"
+    },
+    {
+      "rating": "6",
+      "percent": "18.2%",
+      "votes": "66547"
+    },
+    {
+      "rating": "5",
+      "percent": "6.3%",
+      "votes": "22885"
+    },
+    {
+      "rating": "4",
+      "percent": "2.1%",
+      "votes": "7823"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "3674"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "2029"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "3253"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "365561"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "413"
+    },
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "59565"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "124442"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "34211"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "191683"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "292"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "43699"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "99397"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "27216"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "47968"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "74"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "13237"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "22523"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "6254"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.7",
+    "votes": "635"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "43424"
+  },
+  "nonUSUsers": {
+    "rating": "6.8",
+    "votes": "128899"
+  },
+  "errorMessage": ""
+}

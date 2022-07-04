@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2310332",
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "fullTitle": "The Hobbit: The Battle of the Five Armies (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "14.7%",
+      "votes": "75688"
+    },
+    {
+      "rating": "9",
+      "percent": "12.9%",
+      "votes": "66441"
+    },
+    {
+      "rating": "8",
+      "percent": "25.9%",
+      "votes": "133341"
+    },
+    {
+      "rating": "7",
+      "percent": "24.0%",
+      "votes": "123851"
+    },
+    {
+      "rating": "6",
+      "percent": "11.9%",
+      "votes": "61228"
+    },
+    {
+      "rating": "5",
+      "percent": "5.3%",
+      "votes": "27311"
+    },
+    {
+      "rating": "4",
+      "percent": "2.4%",
+      "votes": "12138"
+    },
+    {
+      "rating": "3",
+      "percent": "1.2%",
+      "votes": "6318"
+    },
+    {
+      "rating": "2",
+      "percent": "0.7%",
+      "votes": "3367"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "5639"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "515322"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "227"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "97190"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "201953"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "44008"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "309178"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "177"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "76678"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "166747"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "37042"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "62356"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "26"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "18206"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "32014"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "6110"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.2",
+    "votes": "690"
+  },
+  "usUsers": {
+    "rating": "7.3",
+    "votes": "47563"
+  },
+  "nonUSUsers": {
+    "rating": "7.3",
+    "votes": "209371"
+  },
+  "errorMessage": ""
+}

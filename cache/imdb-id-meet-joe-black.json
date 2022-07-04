@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "Meet Joe Black",
+  "results": [
+    {
+      "id": "tt0119643",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTc0MzRmMTgtMTk4OS00MzdkLWJjNWMtZWJmZjlkYTI0YWRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Meet Joe Black",
+      "description": "(1998)"
+    },
+    {
+      "id": "tt2354416",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Meet Joe Black",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt19321330",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Dr Claud Anderson is demanding a meeting with Joe Biden to discuss reparations and black people",
+      "description": "(2021) (Podcast Episode) - The Dr Boyce Breakdown (2020) (Podcast Series)"
+    },
+    {
+      "id": "tt19320246",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Joe Biden acknowledges the Black Wall Street Massacre - will reparations follow?",
+      "description": "(2021) (Podcast Episode) - The Dr Boyce Breakdown (2020) (Podcast Series)"
+    },
+    {
+      "id": "tt18543004",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "219: Meet Jerri Evans, The Turning Natural Juice Bar Founder Transforming Lives in the Black Community (REWIND)",
+      "description": "(2020) (Podcast Episode) - Side Hustle Pro (2016) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

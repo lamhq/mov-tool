@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "Hollow Man",
+  "results": [
+    {
+      "id": "tt0164052",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTM1MjM2Y2QtOTMyOS00ZTE4LWFiZTEtMjBjMjg3NmE0ZjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hollow Man",
+      "description": "(2000)"
+    },
+    {
+      "id": "tt0469916",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTcxNzEyMTIzMV5BMl5BanBnXkFtZTgwMDAzNjAwNzE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hollow Man II",
+      "description": "(2006) (Video)"
+    },
+    {
+      "id": "tt0405017",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTRhNTYxM2EtYzAzMi00MjgzLTg4MWQtY2Y1MDUyMDQ0MTU0XkEyXkFqcGdeQXVyMzExMjM0Nw@@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Hollow Man: Anatomy of a Thriller",
+      "description": "(2000) (Video)"
+    },
+    {
+      "id": "tt11635216",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTUzODA4NzctNTQ0Ny00NTVlLWI5OTQtOWEzOWFhOTI0MGYzXkEyXkFqcGdeQXVyODE1OTI0Mjg@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Hollow Man Review",
+      "description": "(2018) (Short)"
+    },
+    {
+      "id": "tt5724458",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjczOTUzNTctNjY4Yy00MTU0LTkyM2EtNWEzNDFlZTg3YzMxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjcxOTc5Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hollowman",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt19236402",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Hollow Man",
+      "description": "(2021) (Podcast Episode) - The Terrible Terror Podcast (2015) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

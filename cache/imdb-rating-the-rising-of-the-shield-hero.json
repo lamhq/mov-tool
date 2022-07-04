@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt9529546",
+  "title": "The Rising of the Shield Hero",
+  "fullTitle": "The Rising of the Shield Hero (TV Series 2019\u2013 )",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "8.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "29.5%",
+      "votes": "3539"
+    },
+    {
+      "rating": "9",
+      "percent": "21.2%",
+      "votes": "2544"
+    },
+    {
+      "rating": "8",
+      "percent": "24.8%",
+      "votes": "2977"
+    },
+    {
+      "rating": "7",
+      "percent": "12.6%",
+      "votes": "1507"
+    },
+    {
+      "rating": "6",
+      "percent": "5.2%",
+      "votes": "620"
+    },
+    {
+      "rating": "5",
+      "percent": "2.3%",
+      "votes": "274"
+    },
+    {
+      "rating": "4",
+      "percent": "1.4%",
+      "votes": "171"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "107"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "69"
+    },
+    {
+      "rating": "1",
+      "percent": "1.6%",
+      "votes": "193"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "12001"
+    },
+    "agesUnder18": {
+      "rating": "8.5",
+      "votes": "49"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "2125"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "1834"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "258"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "4317"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "35"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "1786"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "1582"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "225"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "443"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "170"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "181"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "24"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.8",
+    "votes": "61"
+  },
+  "usUsers": {
+    "rating": "8.0",
+    "votes": "841"
+  },
+  "nonUSUsers": {
+    "rating": "7.9",
+    "votes": "2159"
+  },
+  "errorMessage": ""
+}

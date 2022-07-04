@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt11858104",
+  "title": "Dragon Quest: The Adventure of Dai",
+  "fullTitle": "Dragon Quest: The Adventure of Dai (TV Series 2020\u2013 )",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "8.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "58.0%",
+      "votes": "477"
+    },
+    {
+      "rating": "9",
+      "percent": "13.0%",
+      "votes": "107"
+    },
+    {
+      "rating": "8",
+      "percent": "11.3%",
+      "votes": "93"
+    },
+    {
+      "rating": "7",
+      "percent": "7.7%",
+      "votes": "63"
+    },
+    {
+      "rating": "6",
+      "percent": "4.1%",
+      "votes": "34"
+    },
+    {
+      "rating": "5",
+      "percent": "1.5%",
+      "votes": "12"
+    },
+    {
+      "rating": "4",
+      "percent": "0.7%",
+      "votes": "6"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "6"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "3"
+    },
+    {
+      "rating": "1",
+      "percent": "2.6%",
+      "votes": "21"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "822"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "103"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "178"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "11"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "303"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "93"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "165"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "9"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "10"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "5"
+    },
+    "agesOver45": {
+      "rating": "1.0",
+      "votes": "2"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.7",
+    "votes": "7"
+  },
+  "usUsers": {
+    "rating": "7.8",
+    "votes": "33"
+  },
+  "nonUSUsers": {
+    "rating": "7.9",
+    "votes": "169"
+  },
+  "errorMessage": ""
+}

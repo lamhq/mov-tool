@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "Jumanji",
+  "results": [
+    {
+      "id": "tt2283362",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Jumanji: Welcome to the Jungle",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt0113497",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Jumanji",
+      "description": "(1995)"
+    },
+    {
+      "id": "tt0115228",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIwMzQyOTI0Nl5BMl5BanBnXkFtZTcwNzQ0OTIyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Jumanji",
+      "description": "(1996) (TV Series)"
+    },
+    {
+      "id": "tt7975244",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Jumanji: The Next Level",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt0406375",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDc1NzM1OTgtOGYxMS00ZWE1LWEzZWMtNWEyOTI2NDJjOTU2XkEyXkFqcGdeQXVyNjQzNzA2NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Zathura: A Space Adventure",
+      "description": "(2005) aka \"Jumanji 2\""
+    },
+    {
+      "id": "tt13249100",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMWI0ZTM3ZmEtNmY2OS00NGFhLWFjYmYtMmNkMjMxNzBiZGIwXkEyXkFqcGdeQXVyMjI1MTU4OTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Jumanji: Level One",
+      "description": "(2021) (Short)"
+    },
+    {
+      "id": "tt14981590",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Jumanji",
+      "description": "(2017) (Short)"
+    },
+    {
+      "id": "tt12917276",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDExOTVhOTYtMTA5Ni00Yjk5LWI0YTAtZjIzYTU4MmUyOTVkXkEyXkFqcGdeQXVyMzM1Mjg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Jumanji",
+      "description": "(2017) (Podcast Episode) - Season 1 | Episode 81 - Diminishing Returns (2016) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

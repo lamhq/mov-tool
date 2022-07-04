@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Now You See Me",
+  "results": [
+    {
+      "id": "tt1670345",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See Me",
+      "description": "(I) (2013)"
+    },
+    {
+      "id": "tt2221640",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Now You See Me",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt10047012",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNGFlMGUyZTYtNDc0Ny00NTJlLWI2ZDMtOWU3ZTg3YzQyZmRjXkEyXkFqcGdeQXVyODM1MjU3NQ@@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Now You See Me",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt3110958",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjhlNDljNTgtZjc4My00NmZmLTk2YzAtYWE5MDYwYjM4MTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See Me 2",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt4712810",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Now You See Me 3",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt9799386",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWJiZDk1ZGMtYjdhNy00YWU2LThmZjMtNzcyOGIzNGQ1NTBiXkEyXkFqcGdeQXVyNDAzMTMyODg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See Me Live!",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt6043860",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGM0NjMzZWQtNTMwMS00MzZhLWJkYTktOThmNzU0MWYxMjU0XkEyXkFqcGdeQXVyOTIzODYyNjc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See Me 2: You Can't Look Away",
+      "description": "(2016) (Video)"
+    },
+    {
+      "id": "tt6043854",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Now You See Me 2: The Art of the Ensemble",
+      "description": "(2016) (Video)"
+    },
+    {
+      "id": "tt3179140",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTRmNDI2YmYtNGJjNS00NjUyLWEwYzgtMDhhMmVkYjNmYjIzXkEyXkFqcGdeQXVyNDc4NTM5NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See Me",
+      "description": "(II) (2013) (Short)"
+    },
+    {
+      "id": "tt0426568",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWYzNmY4OWMtMmE4NC00ZDEyLWEyNmItNjI2OTIwZjY0M2Q0XkEyXkFqcGdeQXVyMTIwMjY0NjQz._V1_Ratio0.7273_AL_.jpg",
+      "title": "Now You See It...",
+      "description": "(2005) (TV Movie)"
+    }
+  ],
+  "errorMessage": ""
+}

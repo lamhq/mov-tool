@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0372784",
+  "title": "Batman Begins",
+  "fullTitle": "Batman Begins (2005)",
+  "type": "Movie",
+  "year": "2005",
+  "totalRating": "8.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "18.3%",
+      "votes": "262146"
+    },
+    {
+      "rating": "9",
+      "percent": "25.6%",
+      "votes": "366280"
+    },
+    {
+      "rating": "8",
+      "percent": "33.1%",
+      "votes": "473805"
+    },
+    {
+      "rating": "7",
+      "percent": "15.3%",
+      "votes": "219016"
+    },
+    {
+      "rating": "6",
+      "percent": "4.3%",
+      "votes": "60865"
+    },
+    {
+      "rating": "5",
+      "percent": "1.4%",
+      "votes": "20616"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "8651"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "4625"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "3712"
+    },
+    {
+      "rating": "1",
+      "percent": "0.8%",
+      "votes": "11249"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.2",
+      "votes": "1430965"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "751"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "215961"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "603803"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "125107"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "866877"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "610"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "177747"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "514840"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "106779"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "138938"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "77"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "32244"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "80761"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "16142"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.0",
+    "votes": "904"
+  },
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "215520"
+  },
+  "nonUSUsers": {
+    "rating": "8.2",
+    "votes": "544076"
+  },
+  "errorMessage": ""
+}

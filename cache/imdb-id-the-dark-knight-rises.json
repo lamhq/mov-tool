@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "The Dark Knight Rises",
+  "results": [
+    {
+      "id": "tt1345836",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Dark Knight Rises",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt8674764",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Dark Knight Rises Deleted Scene",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt2776706",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Dark Knight Rises... In Therapy",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt8703714",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Dark Knight Rises Official Trailer Parody: The Dark Alfred Rises",
+      "description": "(2011) (Short)"
+    },
+    {
+      "id": "tt2544698",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Dark Knight Rises: Tumbler Tour",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt2281718",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTFlZjI0YWEtMzdkYi00MTI2LWFmYjItYTYxODY2NzExMjAxXkEyXkFqcGdeQXVyMTg1MDU0MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Dark Knight Rises T4 Premiere Special",
+      "description": "(2012) (TV Special)"
+    }
+  ],
+  "errorMessage": ""
+}

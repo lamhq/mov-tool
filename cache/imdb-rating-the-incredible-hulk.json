@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0800080",
+  "title": "The Incredible Hulk",
+  "fullTitle": "The Incredible Hulk (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.1%",
+      "votes": "29331"
+    },
+    {
+      "rating": "9",
+      "percent": "5.2%",
+      "votes": "24842"
+    },
+    {
+      "rating": "8",
+      "percent": "16.4%",
+      "votes": "78401"
+    },
+    {
+      "rating": "7",
+      "percent": "32.3%",
+      "votes": "154916"
+    },
+    {
+      "rating": "6",
+      "percent": "23.2%",
+      "votes": "111175"
+    },
+    {
+      "rating": "5",
+      "percent": "9.5%",
+      "votes": "45687"
+    },
+    {
+      "rating": "4",
+      "percent": "3.7%",
+      "votes": "17797"
+    },
+    {
+      "rating": "3",
+      "percent": "1.7%",
+      "votes": "7903"
+    },
+    {
+      "rating": "2",
+      "percent": "0.8%",
+      "votes": "3859"
+    },
+    {
+      "rating": "1",
+      "percent": "1.0%",
+      "votes": "5005"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "478916"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "362"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "72725"
+    },
+    "ages30To44": {
+      "rating": "6.7",
+      "votes": "216645"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "47925"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.7",
+      "votes": "310837"
+    },
+    "agesUnder18": {
+      "rating": "6.1",
+      "votes": "290"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "60263"
+    },
+    "ages30To44": {
+      "rating": "6.7",
+      "votes": "189135"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "41804"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.7",
+      "votes": "43108"
+    },
+    "agesUnder18": {
+      "rating": "5.9",
+      "votes": "40"
+    },
+    "ages18To29": {
+      "rating": "6.7",
+      "votes": "10303"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "24773"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "5289"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "771"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "77217"
+  },
+  "nonUSUsers": {
+    "rating": "6.6",
+    "votes": "202286"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0290223",
+  "title": "Inuyasha",
+  "fullTitle": "Inuyasha (TV Series 2000\u20132004)",
+  "type": "TVSeries",
+  "year": "2000",
+  "totalRating": "7.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "32.0%",
+      "votes": "5152"
+    },
+    {
+      "rating": "9",
+      "percent": "15.0%",
+      "votes": "2419"
+    },
+    {
+      "rating": "8",
+      "percent": "23.0%",
+      "votes": "3707"
+    },
+    {
+      "rating": "7",
+      "percent": "14.7%",
+      "votes": "2370"
+    },
+    {
+      "rating": "6",
+      "percent": "6.3%",
+      "votes": "1011"
+    },
+    {
+      "rating": "5",
+      "percent": "3.0%",
+      "votes": "488"
+    },
+    {
+      "rating": "4",
+      "percent": "1.5%",
+      "votes": "234"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "164"
+    },
+    {
+      "rating": "2",
+      "percent": "0.7%",
+      "votes": "114"
+    },
+    {
+      "rating": "1",
+      "percent": "2.8%",
+      "votes": "452"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "16111"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "3291"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "6945"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "856"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "7746"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "1985"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "4740"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "600"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "3919"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "1241"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "2124"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "244"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.9",
+    "votes": "106"
+  },
+  "usUsers": {
+    "rating": "7.8",
+    "votes": "3439"
+  },
+  "nonUSUsers": {
+    "rating": "7.8",
+    "votes": "5099"
+  },
+  "errorMessage": ""
+}

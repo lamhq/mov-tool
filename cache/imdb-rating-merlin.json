@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1199099",
+  "title": "Merlin",
+  "fullTitle": "Merlin (TV Series 2008\u20132012)",
+  "type": "TVSeries",
+  "year": "2008",
+  "totalRating": "7.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "34.7%",
+      "votes": "27878"
+    },
+    {
+      "rating": "9",
+      "percent": "17.3%",
+      "votes": "13890"
+    },
+    {
+      "rating": "8",
+      "percent": "22.0%",
+      "votes": "17720"
+    },
+    {
+      "rating": "7",
+      "percent": "12.9%",
+      "votes": "10388"
+    },
+    {
+      "rating": "6",
+      "percent": "5.5%",
+      "votes": "4449"
+    },
+    {
+      "rating": "5",
+      "percent": "2.7%",
+      "votes": "2151"
+    },
+    {
+      "rating": "4",
+      "percent": "1.4%",
+      "votes": "1111"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "726"
+    },
+    {
+      "rating": "2",
+      "percent": "0.7%",
+      "votes": "574"
+    },
+    {
+      "rating": "1",
+      "percent": "1.9%",
+      "votes": "1503"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "80390"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "30"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "15842"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "30644"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "9565"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "33206"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "7737"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "17454"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "5786"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "26022"
+    },
+    "agesUnder18": {
+      "rating": "8.2",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "7722"
+    },
+    "ages30To44": {
+      "rating": "8.2",
+      "votes": "12755"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "3621"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "237"
+  },
+  "usUsers": {
+    "rating": "8.0",
+    "votes": "10938"
+  },
+  "nonUSUsers": {
+    "rating": "7.6",
+    "votes": "30934"
+  },
+  "errorMessage": ""
+}

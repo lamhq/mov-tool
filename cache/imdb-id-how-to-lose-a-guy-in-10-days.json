@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "How to Lose a Guy in 10 Days",
+  "results": [
+    {
+      "id": "tt0251127",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Lose a Guy in 10 Days",
+      "description": "(2003)"
+    },
+    {
+      "id": "tt10757390",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "How to Lose a Guy in 10 Days",
+      "description": "(in development) (TV Series)"
+    },
+    {
+      "id": "tt14398288",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjU5NzhmY2ItMDU1NS00OTliLTgwODQtNDM2ZmU4NDFlMTQwXkEyXkFqcGdeQXVyNDU4Njk4NzA@._V1_Ratio1.0909_AL_.jpg",
+      "title": "How to Lose a Guy in 10 Days- 1990",
+      "description": "(2020) (Podcast Episode) - Season 1 | Episode 14 - Quantum Recast (2020) (Podcast Series)"
+    },
+    {
+      "id": "tt18533054",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Ep. 227 - How To Lose A Guy In 10 Days",
+      "description": "(2020) (Podcast Episode) - Jaret Goes to the Movies (Movie Reviews) (2017) (Podcast Series)"
+    },
+    {
+      "id": "tt17443912",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDdhMzUzNDYtZWFkMC00ZTk0LTgzY2QtNmU2NWMzMDg4MjU3XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_Ratio1.0000_AL_.jpg",
+      "title": "How To Lose A Guy In 11 Days",
+      "description": "(2019) (Podcast Episode) - The Daily Beans (2017) (Podcast Series)"
+    },
+    {
+      "id": "tt16982192",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzI2MmJkM2UtNWQwNC00Y2Q0LTk4ZjAtODEzYzFiYzc1NGZlXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_Ratio1.0000_AL_.jpg",
+      "title": "How to Lose a Guy in Ten Days",
+      "description": "(2018) (Podcast Episode) - Season 1 | Episode 278 - The Popcast with Knox and Jamie (2013) (Podcast Series)"
+    },
+    {
+      "id": "tt19563764",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzIxZjYxYjgtNThkZC00MzBmLWFkMzctMjRiMmM0MDczODYwXkEyXkFqcGdeQXVyMTQ4NTgxNzYx._V1_Ratio1.0000_AL_.jpg",
+      "title": "How to Lose a Guy in 10 Seconds",
+      "description": "(2019) (Podcast Episode) - The Gist (2014) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

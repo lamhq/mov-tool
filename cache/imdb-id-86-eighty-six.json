@@ -1,0 +1,70 @@
+{
+  "searchType": "Title",
+  "expression": "86 EIGHTY-SIX",
+  "results": [
+    {
+      "id": "tt6817676",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzRiYTk3OWYtYzQwNC00MTc2LTllZmUtMTdiMzFjYzE2MzIzXkEyXkFqcGdeQXVyMTQ2MDk2ODE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Eighty-Sixed",
+      "description": "(2017) (TV Mini Series)"
+    },
+    {
+      "id": "tt2348229",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Eighty-Six",
+      "description": "(2011) (TV Series)"
+    },
+    {
+      "id": "tt14605400",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Eighty Six",
+      "description": "(2019) (Short)"
+    },
+    {
+      "id": "tt7511494",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Eighty Six",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt21041652",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Eighty Six'd",
+      "description": "(2025)"
+    },
+    {
+      "id": "tt2400678",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMjAyNzg4OF5BMl5BanBnXkFtZTcwNTI0OTgxOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Eighty-Sixed",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt3841848",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Eighty-Sixed",
+      "description": "(II) (2014) (Short)"
+    },
+    {
+      "id": "tt1453995",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Eighty Sixed",
+      "description": "(2008) (Short)"
+    },
+    {
+      "id": "tt3514850",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTU0MjAyNzA3OF5BMl5BanBnXkFtZTgwOTE0NzUxMTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Eighty Six",
+      "description": "(2012) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

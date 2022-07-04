@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0362227",
+  "title": "The Terminal",
+  "fullTitle": "The Terminal (2004)",
+  "type": "Movie",
+  "year": "2004",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.6%",
+      "votes": "38543"
+    },
+    {
+      "rating": "9",
+      "percent": "12.2%",
+      "votes": "54283"
+    },
+    {
+      "rating": "8",
+      "percent": "29.6%",
+      "votes": "132212"
+    },
+    {
+      "rating": "7",
+      "percent": "30.4%",
+      "votes": "135833"
+    },
+    {
+      "rating": "6",
+      "percent": "12.0%",
+      "votes": "53423"
+    },
+    {
+      "rating": "5",
+      "percent": "4.1%",
+      "votes": "18263"
+    },
+    {
+      "rating": "4",
+      "percent": "1.5%",
+      "votes": "6689"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "3256"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "1782"
+    },
+    {
+      "rating": "1",
+      "percent": "0.5%",
+      "votes": "2394"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "446678"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "170"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "62139"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "214433"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "45777"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "271862"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "139"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "46960"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "171326"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "37702"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "64801"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "18"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "13408"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "40339"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "7268"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.0",
+    "votes": "743"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "54798"
+  },
+  "nonUSUsers": {
+    "rating": "7.3",
+    "votes": "212466"
+  },
+  "errorMessage": ""
+}

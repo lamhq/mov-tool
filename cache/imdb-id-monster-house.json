@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "Monster House",
+  "results": [
+    {
+      "id": "tt0385880",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIzNjE1NDg1N15BMl5BanBnXkFtZTcwOTg2NTMzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Monster House",
+      "description": "(2006)"
+    },
+    {
+      "id": "tt0364842",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjZiNmYzZWYtM2I0Ny00M2I2LTliOTMtOGVjODQ0MWZmNDUwXkEyXkFqcGdeQXVyMDYwMzAwOQ@@._V1_Ratio1.2727_AL_.jpg",
+      "title": "Monster House",
+      "description": "(2003) (TV Series)"
+    },
+    {
+      "id": "tt6269976",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYWRkOGU3MmItYThlYS00ZDhkLTg1MGUtYzNlZjY2NmZiNWMzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg1NTIyMDA@._V1_Ratio0.9091_AL_.jpg",
+      "title": "Monster House",
+      "description": "(2016) (Video)"
+    },
+    {
+      "id": "tt1205792",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2VjMjE3MjQtZTc4OS00NGQyLTgwZWEtYzJhMWQ1ZDZiMDFmXkEyXkFqcGdeQXVyMDM3ODU0Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Monster House",
+      "description": "(2008) (TV Series)"
+    },
+    {
+      "id": "tt3398060",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Monster House",
+      "description": "(2010) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

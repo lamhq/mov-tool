@@ -1,0 +1,14 @@
+{
+  "searchType": "Title",
+  "expression": "Starship Troopers 2: Hero of the Federation",
+  "results": [
+    {
+      "id": "tt0367093",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWNiNzRlOWMtNzY2Yi00M2MzLWE0MGEtYzM0NmZhODk3NjUyXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Starship Troopers 2: Hero of the Federation",
+      "description": "(2004) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

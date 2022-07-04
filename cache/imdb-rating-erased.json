@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5249462",
+  "title": "Erased",
+  "fullTitle": "Erased (TV Series 2016\u20132016)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.6%",
+      "votes": "11884"
+    },
+    {
+      "rating": "9",
+      "percent": "30.0%",
+      "votes": "12923"
+    },
+    {
+      "rating": "8",
+      "percent": "25.1%",
+      "votes": "10801"
+    },
+    {
+      "rating": "7",
+      "percent": "10.2%",
+      "votes": "4385"
+    },
+    {
+      "rating": "6",
+      "percent": "3.1%",
+      "votes": "1335"
+    },
+    {
+      "rating": "5",
+      "percent": "1.4%",
+      "votes": "597"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "276"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "184"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "139"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "497"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "43021"
+    },
+    "agesUnder18": {
+      "rating": "8.6",
+      "votes": "108"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "9480"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "7278"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "939"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "16616"
+    },
+    "agesUnder18": {
+      "rating": "8.8",
+      "votes": "78"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "7322"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "5931"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "738"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "3618"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "20"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "1704"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "1200"
+    },
+    "agesOver45": {
+      "rating": "8.6",
+      "votes": "169"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.4",
+    "votes": "134"
+  },
+  "usUsers": {
+    "rating": "8.4",
+    "votes": "2643"
+  },
+  "nonUSUsers": {
+    "rating": "8.4",
+    "votes": "10616"
+  },
+  "errorMessage": ""
+}

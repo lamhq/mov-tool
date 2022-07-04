@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "The Exorcism of Emily Rose",
+  "results": [
+    {
+      "id": "tt0404032",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Exorcism of Emily Rose",
+      "description": "(2005)"
+    },
+    {
+      "id": "tt14679110",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjliNzEyOGYtNGI0My00ZjljLWEwY2ItNTBkOTQxMDQyNzIyXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio1.0000_AL_.jpg",
+      "title": "The Exorcism of Emily Rose",
+      "description": "(2020) (Podcast Episode) - Season 1 | Episode 270 - God Awful Movies (2015) (Podcast Series)"
+    },
+    {
+      "id": "tt19562694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 63 - Movie vs. Reality: The Exorcism of Emily Rose and Anneliese Michel",
+      "description": "(2018) (Podcast Episode) - Hollywood Crime Scene (2017) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

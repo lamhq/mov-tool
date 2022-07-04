@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "The Promised Neverland",
+  "results": [
+    {
+      "id": "tt8788458",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Promised Neverland",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt11027510",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGU4NTQzMmUtMzk0OS00NmY2LTk2Y2QtNTdkNDI2MjA2Nzk4XkEyXkFqcGdeQXVyNjI2ODQwOTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Promised Neverland",
+      "description": "(2020)"
+    },
+    {
+      "id": "tt12490462",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Promised Neverland",
+      "description": "(TV Series)"
+    },
+    {
+      "id": "tt13894064",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzc4ZTM5ZGEtM2Y2NS00YmYyLWJiOGMtM2E4YmIyZmEzNzc4XkEyXkFqcGdeQXVyMTI4NjI5NjUx._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Promised Neverland Abridged",
+      "description": "(2020) (TV Series)"
+    },
+    {
+      "id": "tt6799274",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzQ2NGExYWItMzAxNS00ZTVmLThhNmYtNzlhMjVjMzllMzY4XkEyXkFqcGdeQXVyNzU0MTE3MDU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Promised Neverland",
+      "description": "(2017) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

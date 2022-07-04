@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0385880",
+  "title": "Monster House",
+  "fullTitle": "Monster House (2006)",
+  "type": "Movie",
+  "year": "2006",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.5%",
+      "votes": "7554"
+    },
+    {
+      "rating": "9",
+      "percent": "5.2%",
+      "votes": "5959"
+    },
+    {
+      "rating": "8",
+      "percent": "15.7%",
+      "votes": "18134"
+    },
+    {
+      "rating": "7",
+      "percent": "31.3%",
+      "votes": "36208"
+    },
+    {
+      "rating": "6",
+      "percent": "23.9%",
+      "votes": "27613"
+    },
+    {
+      "rating": "5",
+      "percent": "10.0%",
+      "votes": "11538"
+    },
+    {
+      "rating": "4",
+      "percent": "3.8%",
+      "votes": "4363"
+    },
+    {
+      "rating": "3",
+      "percent": "1.7%",
+      "votes": "1910"
+    },
+    {
+      "rating": "2",
+      "percent": "0.9%",
+      "votes": "1017"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "1244"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "115540"
+    },
+    "agesUnder18": {
+      "rating": "6.9",
+      "votes": "109"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "22470"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "43487"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "12171"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "61776"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "79"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "15421"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "32914"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "9867"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.7",
+      "votes": "19824"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "26"
+    },
+    "ages18To29": {
+      "rating": "6.7",
+      "votes": "6323"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "10087"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "2132"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.5",
+    "votes": "517"
+  },
+  "usUsers": {
+    "rating": "6.7",
+    "votes": "21034"
+  },
+  "nonUSUsers": {
+    "rating": "6.6",
+    "votes": "45336"
+  },
+  "errorMessage": ""
+}

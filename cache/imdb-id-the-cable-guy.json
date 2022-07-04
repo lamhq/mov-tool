@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "The Cable Guy",
+  "results": [
+    {
+      "id": "tt0115798",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTM2YmM4NTAtOTQ0NC00YmZkLTkxYTQtMWQyZWJlZTg0ZjUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Cable Guy",
+      "description": "(1996)"
+    },
+    {
+      "id": "tt10328022",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmM5NGNhODMtM2Y3MS00NDU4LWI2MDItODM0MmJkN2I4YTg5XkEyXkFqcGdeQXVyNjM3NzIyNzY@._V1_Ratio2.2727_AL_.jpg",
+      "title": "The Cable Guy",
+      "description": "(2018) (Short)"
+    },
+    {
+      "id": "tt0462395",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTIxMTI3MDgyM15BMl5BanBnXkFtZTcwMDU0MzIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Larry the Cable Guy: Health Inspector",
+      "description": "(2006)"
+    }
+  ],
+  "errorMessage": ""
+}

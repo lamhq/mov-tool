@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0892791",
+  "title": "Shrek Forever After",
+  "fullTitle": "Shrek Forever After (2010)",
+  "type": "Movie",
+  "year": "2010",
+  "totalRating": "6.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.0%",
+      "votes": "11981"
+    },
+    {
+      "rating": "9",
+      "percent": "4.1%",
+      "votes": "8267"
+    },
+    {
+      "rating": "8",
+      "percent": "12.1%",
+      "votes": "24303"
+    },
+    {
+      "rating": "7",
+      "percent": "26.2%",
+      "votes": "52555"
+    },
+    {
+      "rating": "6",
+      "percent": "27.2%",
+      "votes": "54620"
+    },
+    {
+      "rating": "5",
+      "percent": "13.2%",
+      "votes": "26606"
+    },
+    {
+      "rating": "4",
+      "percent": "5.7%",
+      "votes": "11457"
+    },
+    {
+      "rating": "3",
+      "percent": "2.6%",
+      "votes": "5134"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "2774"
+    },
+    {
+      "rating": "1",
+      "percent": "1.6%",
+      "votes": "3216"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "200913"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "175"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "39737"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "84930"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "18380"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "114767"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "130"
+    },
+    "ages18To29": {
+      "rating": "6.1",
+      "votes": "28104"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "64810"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "15037"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "34590"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "31"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "10429"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "19040"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "3059"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "560"
+  },
+  "usUsers": {
+    "rating": "6.2",
+    "votes": "25404"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "91641"
+  },
+  "errorMessage": ""
+}

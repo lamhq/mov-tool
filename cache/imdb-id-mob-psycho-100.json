@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "Mob Psycho 100",
+  "results": [
+    {
+      "id": "tt5897304",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2QwYzAxNjgtOWY4YS00MDE5LTliNTgtYjg3YmE1NDJhMzRiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Mob Psycho 100",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt7701694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGMzODczNDctZGMzMS00MGI3LTg1Y2UtODRiMmNkZmFiZGZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Mob Psycho 100",
+      "description": "(2018) (TV Mini Series)"
+    },
+    {
+      "id": "tt19490430",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDZjYjA1OWQtNmYzZC00Yjk0LThiMjktZGIxNDY0MTNjZDQyXkEyXkFqcGdeQXVyMTUzMDA5ODg@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Mob Psycho 100",
+      "description": "(2016) (Podcast Episode) - The Banzai Beat Anime Podcast (2008) (Podcast Series)"
+    },
+    {
+      "id": "tt10317978",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNGFjMTk4NjctOGY2YS00YmJmLTljZDUtZmQ2OTY2MDI4Yzc4XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio0.8636_AL_.jpg",
+      "title": "Mob Psycho 100 REIGEN - The Miracle Psychic that Nobody Knows",
+      "description": "(2018) (TV Movie)"
+    },
+    {
+      "id": "tt11010142",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNGExZWZkNTMtZDJmNy00MjdiLWE0MWMtMjliMmRiOGVlNTI4XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+      "description": "(2019) (TV Movie)"
+    },
+    {
+      "id": "tt16797948",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 58 - Mob Psycho 100",
+      "description": "(2019) (Podcast Episode) - Anime Out of Context (2018) (Podcast Series)"
+    },
+    {
+      "id": "tt10962876",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGI2ZTcyODktMmRiNi00MTA5LTljMWEtZDVlZTZjOWE2Yzg3XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Blind Wave: Mob Psycho 100 Reaction",
+      "description": "(2019) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

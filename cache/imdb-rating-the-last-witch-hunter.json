@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1618442",
+  "title": "The Last Witch Hunter",
+  "fullTitle": "The Last Witch Hunter (2015)",
+  "type": "Movie",
+  "year": "2015",
+  "totalRating": "5.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.6%",
+      "votes": "5741"
+    },
+    {
+      "rating": "9",
+      "percent": "3.2%",
+      "votes": "3296"
+    },
+    {
+      "rating": "8",
+      "percent": "9.8%",
+      "votes": "10057"
+    },
+    {
+      "rating": "7",
+      "percent": "22.4%",
+      "votes": "23060"
+    },
+    {
+      "rating": "6",
+      "percent": "28.9%",
+      "votes": "29857"
+    },
+    {
+      "rating": "5",
+      "percent": "16.1%",
+      "votes": "16603"
+    },
+    {
+      "rating": "4",
+      "percent": "7.1%",
+      "votes": "7317"
+    },
+    {
+      "rating": "3",
+      "percent": "3.5%",
+      "votes": "3589"
+    },
+    {
+      "rating": "2",
+      "percent": "1.7%",
+      "votes": "1779"
+    },
+    {
+      "rating": "1",
+      "percent": "1.8%",
+      "votes": "1837"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "103136"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "17"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "13139"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "45259"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "14160"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "64585"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "10270"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "37307"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "11843"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "13168"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "2575"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "7262"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "2075"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.5",
+    "votes": "432"
+  },
+  "usUsers": {
+    "rating": "6.0",
+    "votes": "10197"
+  },
+  "nonUSUsers": {
+    "rating": "5.8",
+    "votes": "45848"
+  },
+  "errorMessage": ""
+}

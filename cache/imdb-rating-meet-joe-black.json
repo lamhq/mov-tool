@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0119643",
+  "title": "Meet Joe Black",
+  "fullTitle": "Meet Joe Black (1998)",
+  "type": "Movie",
+  "year": "1998",
+  "totalRating": "7.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "11.9%",
+      "votes": "27991"
+    },
+    {
+      "rating": "9",
+      "percent": "11.9%",
+      "votes": "27910"
+    },
+    {
+      "rating": "8",
+      "percent": "23.6%",
+      "votes": "55402"
+    },
+    {
+      "rating": "7",
+      "percent": "27.1%",
+      "votes": "63798"
+    },
+    {
+      "rating": "6",
+      "percent": "13.7%",
+      "votes": "32198"
+    },
+    {
+      "rating": "5",
+      "percent": "6.0%",
+      "votes": "14022"
+    },
+    {
+      "rating": "4",
+      "percent": "2.6%",
+      "votes": "6130"
+    },
+    {
+      "rating": "3",
+      "percent": "1.4%",
+      "votes": "3259"
+    },
+    {
+      "rating": "2",
+      "percent": "0.8%",
+      "votes": "1967"
+    },
+    {
+      "rating": "1",
+      "percent": "1.0%",
+      "votes": "2438"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "235115"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "39"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "20259"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "119750"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "35786"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "131714"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "21"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "11820"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "85966"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "27748"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "49821"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "7755"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "32124"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "7421"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "601"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "33717"
+  },
+  "nonUSUsers": {
+    "rating": "7.1",
+    "votes": "116168"
+  },
+  "errorMessage": ""
+}
