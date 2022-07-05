@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "The Hobbit: An Unexpected Journey",
+  "results": [
+    {
+      "id": "tt0903624",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Hobbit: An Unexpected Journey",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt7941174",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: An Unexpected Journey - The Chronicles of The Hobbit - Part 1: Return to Hobbiton: The Shire",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt7941108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: An Unexpected Journey - The Chronicles of The Hobbit - Part 1: ... Under Hill: Goblin Town",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt7941250",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: An Unexpected Journey - The Chronicles of The Hobbit - Part 1: Home Is Behind, the World Ahead",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt7941234",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: An Unexpected Journey - The Chronicles of The Hobbit - Part 1: Edge of the Wilderland: Pick-ups and the Carrock",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt7941130",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Hobbit: An Unexpected Journey - The Chronicles of The Hobbit - Part 1: Out of the Frying Pan...: The Forest Ledge",
+      "description": "(2013) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "Underworld: Awakening",
+  "results": [
+    {
+      "id": "tt1496025",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Underworld: Awakening",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt19829482",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Underworld: Awakening",
+      "description": "(2020) (Podcast Episode) - The Next Reel Film Podcast Master Feed (2011) (Podcast Series)"
+    },
+    {
+      "id": "tt16305540",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTU2YTAwMTEtMmFjOC00YmQ1LThmZWEtMzA1ZTJhYzk0OTA2XkEyXkFqcGdeQXVyMTQ2MjE4NzYx._V1_Ratio0.7273_AL_.jpg",
+      "title": "2012 Revolution: World Awakening",
+      "description": "(2011)"
+    }
+  ],
+  "errorMessage": ""
+}

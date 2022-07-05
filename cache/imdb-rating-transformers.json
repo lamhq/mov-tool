@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0418279",
+  "title": "Transformers",
+  "fullTitle": "Transformers (2007)",
+  "type": "Movie",
+  "year": "2007",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "13.7%",
+      "votes": "86137"
+    },
+    {
+      "rating": "9",
+      "percent": "10.9%",
+      "votes": "68731"
+    },
+    {
+      "rating": "8",
+      "percent": "22.0%",
+      "votes": "138342"
+    },
+    {
+      "rating": "7",
+      "percent": "25.2%",
+      "votes": "158500"
+    },
+    {
+      "rating": "6",
+      "percent": "12.7%",
+      "votes": "79743"
+    },
+    {
+      "rating": "5",
+      "percent": "6.2%",
+      "votes": "39174"
+    },
+    {
+      "rating": "4",
+      "percent": "3.2%",
+      "votes": "20034"
+    },
+    {
+      "rating": "3",
+      "percent": "2.0%",
+      "votes": "12724"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "8792"
+    },
+    {
+      "rating": "1",
+      "percent": "2.5%",
+      "votes": "15792"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "627969"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "198"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "83848"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "328257"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "65239"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "429534"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "168"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "69225"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "283448"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "56167"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "65906"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "17"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "12953"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "41682"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "8126"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "813"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "119666"
+  },
+  "nonUSUsers": {
+    "rating": "7.0",
+    "votes": "289290"
+  },
+  "errorMessage": ""
+}

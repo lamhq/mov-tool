@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Faster",
+  "results": [
+    {
+      "id": "tt1433108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTMyOTQ5MTAxOF5BMl5BanBnXkFtZTcwOTYzMDg5Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Faster",
+      "description": "(2010)"
+    },
+    {
+      "id": "tt1227378",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQyNDY1NDU0NV5BMl5BanBnXkFtZTcwMjY2ODM2NA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fat, Sick & Nearly Dead",
+      "description": "(2010) aka \"Faster\""
+    },
+    {
+      "id": "tt0368721",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTI2NTE0MDY5MV5BMl5BanBnXkFtZTYwNjcxMjk2._V1_Ratio0.7273_AL_.jpg",
+      "title": "Faster",
+      "description": "(2003)"
+    },
+    {
+      "id": "tt0059170",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzQzODhjOTktZDY2ZS00Y2E0LTgwZWEtNzdlOWI4MjY4OWMyXkEyXkFqcGdeQXVyMjUxOTQ5MzA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Faster, Pussycat! Kill! Kill!",
+      "description": "(1965)"
+    },
+    {
+      "id": "tt14040004",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjM5OWJjZmItNTkyMC00YzFlLWFjMmItN2M0MTNhMTQ4YzIxXkEyXkFqcGdeQXVyOTEwNTkyNjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Schneller als die Angst",
+      "description": "(2022) (TV Series) aka \"Faster than Fear\""
+    },
+    {
+      "id": "tt12561064",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Faster, Cheaper, Better",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt11826274",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzZhNmVjMWUtODdkNC00OTBjLTk3NWItZDEzNjVhYTE0NDlhXkEyXkFqcGdeQXVyNzIzNDE2NzY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Faster with Finnegan",
+      "description": "(2020) (TV Series)"
+    },
+    {
+      "id": "tt0082259",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Deprisa, Deprisa",
+      "description": "(1981) aka \"Faster, Faster\""
+    },
+    {
+      "id": "tt0361748",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Inglourious Basterds",
+      "description": "(2009)"
+    },
+    {
+      "id": "tt14230388",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Asteroid City",
+      "description": "(2022)"
+    }
+  ],
+  "errorMessage": ""
+}

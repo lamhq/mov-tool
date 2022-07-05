@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1386932",
+  "title": "Ip Man 2",
+  "fullTitle": "Ip Man 2 (2010)",
+  "type": "Movie",
+  "year": "2010",
+  "totalRating": "7.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "12.4%",
+      "votes": "12917"
+    },
+    {
+      "rating": "9",
+      "percent": "12.2%",
+      "votes": "12753"
+    },
+    {
+      "rating": "8",
+      "percent": "32.0%",
+      "votes": "33299"
+    },
+    {
+      "rating": "7",
+      "percent": "28.2%",
+      "votes": "29324"
+    },
+    {
+      "rating": "6",
+      "percent": "10.0%",
+      "votes": "10373"
+    },
+    {
+      "rating": "5",
+      "percent": "2.9%",
+      "votes": "3047"
+    },
+    {
+      "rating": "4",
+      "percent": "1.0%",
+      "votes": "1043"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "503"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "302"
+    },
+    {
+      "rating": "1",
+      "percent": "0.6%",
+      "votes": "594"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "104155"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "25"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "14864"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "53698"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "9813"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "77226"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "23"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "13708"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "50077"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "8833"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "5127"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "912"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "3043"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "811"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.9",
+    "votes": "382"
+  },
+  "usUsers": {
+    "rating": "7.4",
+    "votes": "11866"
+  },
+  "nonUSUsers": {
+    "rating": "7.4",
+    "votes": "52077"
+  },
+  "errorMessage": ""
+}

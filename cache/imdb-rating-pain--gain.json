@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1980209",
+  "title": "Pain & Gain",
+  "fullTitle": "Pain & Gain (2013)",
+  "type": "Movie",
+  "year": "2013",
+  "totalRating": "6.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.3%",
+      "votes": "13474"
+    },
+    {
+      "rating": "9",
+      "percent": "5.0%",
+      "votes": "10790"
+    },
+    {
+      "rating": "8",
+      "percent": "14.8%",
+      "votes": "31751"
+    },
+    {
+      "rating": "7",
+      "percent": "28.0%",
+      "votes": "60108"
+    },
+    {
+      "rating": "6",
+      "percent": "22.9%",
+      "votes": "49253"
+    },
+    {
+      "rating": "5",
+      "percent": "11.1%",
+      "votes": "23921"
+    },
+    {
+      "rating": "4",
+      "percent": "5.3%",
+      "votes": "11341"
+    },
+    {
+      "rating": "3",
+      "percent": "2.7%",
+      "votes": "5782"
+    },
+    {
+      "rating": "2",
+      "percent": "1.6%",
+      "votes": "3486"
+    },
+    {
+      "rating": "1",
+      "percent": "2.3%",
+      "votes": "5029"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "214935"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "38"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "34609"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "103133"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "20529"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "153136"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "29"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "30961"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "92541"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "17765"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.1",
+      "votes": "16189"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "6.1",
+      "votes": "2922"
+    },
+    "ages30To44": {
+      "rating": "6.0",
+      "votes": "9306"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "2426"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "532"
+  },
+  "usUsers": {
+    "rating": "6.4",
+    "votes": "26785"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "97729"
+  },
+  "errorMessage": ""
+}

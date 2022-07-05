@@ -1,0 +1,21 @@
+{
+  "searchType": "Title",
+  "expression": "DreamWorks How to Train Your Dragon Legends",
+  "results": [
+    {
+      "id": "tt6963396",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODdhMzNjNGItYmUzMC00NWM5LTgyYmEtNzI3YjFlNGY5MTkyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dreamworks How to Train Your Dragon Legends",
+      "description": "(2013) (TV Series)"
+    },
+    {
+      "id": "tt2542490",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQzMjE5NDQwMl5BMl5BanBnXkFtZTgwMjI2NzA2MDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dreamworks How to Train Your Dragon Legends",
+      "description": "(2010) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

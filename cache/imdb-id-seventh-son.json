@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "Seventh Son",
+  "results": [
+    {
+      "id": "tt1121096",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjAxNTg2MDkyN15BMl5BanBnXkFtZTgwNzA3NzY1MjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Seventh Son",
+      "description": "(I) (2014)"
+    },
+    {
+      "id": "tt4108028",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ1MDQzNjk5MV5BMl5BanBnXkFtZTgwNDQ3MzY2MzE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Seventh Son",
+      "description": "(II) (2014) (Short)"
+    },
+    {
+      "id": "tt18348990",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Seventh Son",
+      "description": "(2015) (Podcast Episode) - Season 6 | Episode 11 - Comedy Film Nerds (2009) (Podcast Series)"
+    },
+    {
+      "id": "tt0050976",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Seventh Seal",
+      "description": "(1957)"
+    },
+    {
+      "id": "tt0002484",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2E4NTRmMWQtZWQ4ZS00NzBjLWJmMmMtZDA4Yzk5NjdiOTBmXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Seventh Son",
+      "description": "(1912) (Short)"
+    },
+    {
+      "id": "tt0096073",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNWI0M2E5ZGYtODU2MC00OWUxLWIxMDctMmQxMjZjZjhlMTRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Seventh Sign",
+      "description": "(1988)"
+    }
+  ],
+  "errorMessage": ""
+}

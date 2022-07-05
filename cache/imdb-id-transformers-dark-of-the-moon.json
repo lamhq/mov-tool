@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "Transformers: Dark of the Moon",
+  "results": [
+    {
+      "id": "tt1399103",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "description": "(2011)"
+    },
+    {
+      "id": "tt1981121",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Transformers: Dark of the Moon - 35mm Special",
+      "description": "(2011) (TV Movie)"
+    },
+    {
+      "id": "tt2056765",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Transformers: Dark of the Moon - World Premiere Special",
+      "description": "(2011) (TV Movie)"
+    }
+  ],
+  "errorMessage": ""
+}

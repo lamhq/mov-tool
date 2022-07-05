@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "The Spiderwick Chronicles",
+  "results": [
+    {
+      "id": "tt0416236",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTMzMDcyMzM2Ml5BMl5BanBnXkFtZTYwNzg1Nzc4._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Spiderwick Chronicles",
+      "description": "(2008)"
+    },
+    {
+      "id": "tt16026032",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDkxMDEwZWQtYWQ0My00NDdjLWJiOWItODBkZjc3YTFkZWI4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.7727_AL_.jpg",
+      "title": "The Spiderwick Chronicles",
+      "description": "(TV Series)"
+    },
+    {
+      "id": "tt13269586",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDBlNTE3NmQtNjZmYS00YTRlLWEwZWYtOGI1NTAzY2Y3NDY3XkEyXkFqcGdeQXVyNjk0MTk4MzI@._V1_Ratio1.7727_AL_.jpg",
+      "title": "The Spiderwick Chronicles",
+      "description": "(2011) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

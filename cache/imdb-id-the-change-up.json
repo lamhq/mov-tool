@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "The Change-Up",
+  "results": [
+    {
+      "id": "tt1488555",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTk3NTM4NDg3OF5BMl5BanBnXkFtZTcwNDk3MzEwNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Change-Up",
+      "description": "(2011)"
+    },
+    {
+      "id": "tt1374847",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Change-Up",
+      "description": "(2007) (Short)"
+    },
+    {
+      "id": "tt14161578",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjcyNWU4NjItMmIzOC00Y2NjLTgyNzYtNGNhMWE2ZjYzZmRjXkEyXkFqcGdeQXVyMTAwOTYzMjA4._V1_Ratio1.0909_AL_.jpg",
+      "title": "The Change Up",
+      "description": "(2020) (Short)"
+    },
+    {
+      "id": "tt0080516",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODAwYjJhNTctYzA3Ny00YTYxLWE3YmEtM2FjNDdlNWJmMmU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Changeling",
+      "description": "(1980)"
+    },
+    {
+      "id": "tt0337922",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTI5NjUwNjIwMl5BMl5BanBnXkFtZTYwMzY0NTk5._V1_Ratio0.7727_AL_.jpg",
+      "title": "Change Up",
+      "description": "(2002)"
+    },
+    {
+      "id": "tt15789052",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjlhYzdlYmQtZjc0NS00NzMyLWE1YzgtNDI3MzkwMGYxMzZhXkEyXkFqcGdeQXVyODk5MjQwMTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The ChangeUp",
+      "description": "(2019) (Short)"
+    },
+    {
+      "id": "tt10165918",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2NhZTBiOWItYzk3ZC00NTAzLWFkZGMtN2FlOTUxYjRmYWNhXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Changed",
+      "description": "(2021)"
+    }
+  ],
+  "errorMessage": ""
+}

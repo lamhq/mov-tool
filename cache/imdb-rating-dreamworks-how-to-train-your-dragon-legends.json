@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt6963396",
+  "title": "Dreamworks How to Train Your Dragon Legends",
+  "fullTitle": "Dreamworks How to Train Your Dragon Legends (TV Series 2013\u20132013)",
+  "type": "TVSeries",
+  "year": "2013",
+  "totalRating": "7.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "24.9%",
+      "votes": "68"
+    },
+    {
+      "rating": "9",
+      "percent": "8.4%",
+      "votes": "23"
+    },
+    {
+      "rating": "8",
+      "percent": "21.6%",
+      "votes": "59"
+    },
+    {
+      "rating": "7",
+      "percent": "25.6%",
+      "votes": "70"
+    },
+    {
+      "rating": "6",
+      "percent": "11.7%",
+      "votes": "32"
+    },
+    {
+      "rating": "5",
+      "percent": "2.9%",
+      "votes": "8"
+    },
+    {
+      "rating": "4",
+      "percent": "1.8%",
+      "votes": "5"
+    },
+    {
+      "rating": "3",
+      "percent": "1.1%",
+      "votes": "3"
+    },
+    {
+      "rating": "2",
+      "percent": "0.7%",
+      "votes": "2"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "3"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "273"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "36"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "55"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "21"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "89"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "22"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "39"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "16"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "33"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "9"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "13"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "5"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.1",
+    "votes": "8"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "37"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "54"
+  },
+  "errorMessage": ""
+}

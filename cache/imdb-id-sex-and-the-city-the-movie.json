@@ -1,0 +1,35 @@
+{
+  "searchType": "Title",
+  "expression": "Sex and the City: The Movie",
+  "results": [
+    {
+      "id": "tt1000774",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYyMzYxMjM3OF5BMl5BanBnXkFtZTcwNjg2OTA3MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Sex and the City",
+      "description": "(2008) aka \"Sex and the City: The Movie\""
+    },
+    {
+      "id": "tt1664029",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Sex and the City Movie Special",
+      "description": "(2010) (TV Movie)"
+    },
+    {
+      "id": "tt16976270",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Sentimental in the City 7: Sex and the City The Movie (2008)",
+      "description": "(I) (2021) (Podcast Episode) - Sentimental Garbage (I) (2018) (Podcast Series)"
+    },
+    {
+      "id": "tt16976248",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Sentimental in the City 8: Sex and the City The Movie 2 (2010)",
+      "description": "(I) (2021) (Podcast Episode) - Sentimental Garbage (I) (2018) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

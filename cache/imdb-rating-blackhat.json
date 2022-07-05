@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2717822",
+  "title": "Blackhat",
+  "fullTitle": "Blackhat (2015)",
+  "type": "Movie",
+  "year": "2015",
+  "totalRating": "5.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "3.2%",
+      "votes": "1922"
+    },
+    {
+      "rating": "9",
+      "percent": "2.1%",
+      "votes": "1255"
+    },
+    {
+      "rating": "8",
+      "percent": "6.6%",
+      "votes": "3920"
+    },
+    {
+      "rating": "7",
+      "percent": "14.9%",
+      "votes": "8855"
+    },
+    {
+      "rating": "6",
+      "percent": "23.4%",
+      "votes": "13870"
+    },
+    {
+      "rating": "5",
+      "percent": "22.6%",
+      "votes": "13388"
+    },
+    {
+      "rating": "4",
+      "percent": "12.4%",
+      "votes": "7373"
+    },
+    {
+      "rating": "3",
+      "percent": "6.6%",
+      "votes": "3912"
+    },
+    {
+      "rating": "2",
+      "percent": "3.8%",
+      "votes": "2254"
+    },
+    {
+      "rating": "1",
+      "percent": "4.4%",
+      "votes": "2616"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.4",
+      "votes": "59365"
+    },
+    "agesUnder18": {
+      "rating": "6.2",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "5.5",
+      "votes": "6131"
+    },
+    "ages30To44": {
+      "rating": "5.3",
+      "votes": "27075"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "11344"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.4",
+      "votes": "40995"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "5.5",
+      "votes": "5024"
+    },
+    "ages30To44": {
+      "rating": "5.4",
+      "votes": "23451"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "9785"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.2",
+      "votes": "6052"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "5.3",
+      "votes": "998"
+    },
+    "ages30To44": {
+      "rating": "5.0",
+      "votes": "3226"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "1347"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.3",
+    "votes": "379"
+  },
+  "usUsers": {
+    "rating": "5.5",
+    "votes": "8009"
+  },
+  "nonUSUsers": {
+    "rating": "5.4",
+    "votes": "28306"
+  },
+  "errorMessage": ""
+}

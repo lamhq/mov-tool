@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1723121",
+  "title": "We're the Millers",
+  "fullTitle": "We're the Millers (2013)",
+  "type": "Movie",
+  "year": "2013",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.5%",
+      "votes": "37476"
+    },
+    {
+      "rating": "9",
+      "percent": "8.9%",
+      "votes": "38989"
+    },
+    {
+      "rating": "8",
+      "percent": "22.7%",
+      "votes": "99968"
+    },
+    {
+      "rating": "7",
+      "percent": "32.7%",
+      "votes": "143879"
+    },
+    {
+      "rating": "6",
+      "percent": "16.7%",
+      "votes": "73484"
+    },
+    {
+      "rating": "5",
+      "percent": "6.0%",
+      "votes": "26439"
+    },
+    {
+      "rating": "4",
+      "percent": "2.3%",
+      "votes": "10028"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "4509"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "2630"
+    },
+    {
+      "rating": "1",
+      "percent": "0.7%",
+      "votes": "2969"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "440371"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "131"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "86949"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "180910"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "37155"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "249851"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "80"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "59165"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "138989"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "29963"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "79034"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "36"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "25538"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "39365"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "6573"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "646"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "53616"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "179583"
+  },
+  "errorMessage": ""
+}

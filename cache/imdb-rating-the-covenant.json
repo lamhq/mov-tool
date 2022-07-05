@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0475944",
+  "title": "The Covenant",
+  "fullTitle": "The Covenant (2006)",
+  "type": "Movie",
+  "year": "2006",
+  "totalRating": "5.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "11.7%",
+      "votes": "5763"
+    },
+    {
+      "rating": "9",
+      "percent": "3.6%",
+      "votes": "1797"
+    },
+    {
+      "rating": "8",
+      "percent": "7.4%",
+      "votes": "3628"
+    },
+    {
+      "rating": "7",
+      "percent": "12.7%",
+      "votes": "6253"
+    },
+    {
+      "rating": "6",
+      "percent": "17.4%",
+      "votes": "8560"
+    },
+    {
+      "rating": "5",
+      "percent": "17.8%",
+      "votes": "8763"
+    },
+    {
+      "rating": "4",
+      "percent": "11.5%",
+      "votes": "5654"
+    },
+    {
+      "rating": "3",
+      "percent": "7.2%",
+      "votes": "3528"
+    },
+    {
+      "rating": "2",
+      "percent": "4.8%",
+      "votes": "2378"
+    },
+    {
+      "rating": "1",
+      "percent": "6.0%",
+      "votes": "2957"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.1",
+      "votes": "49281"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "5.5",
+      "votes": "4990"
+    },
+    "ages30To44": {
+      "rating": "5.1",
+      "votes": "27612"
+    },
+    "agesOver45": {
+      "rating": "5.0",
+      "votes": "7218"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "4.9",
+      "votes": "27321"
+    },
+    "agesUnder18": {
+      "rating": "4.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "5.0",
+      "votes": "2324"
+    },
+    "ages30To44": {
+      "rating": "4.9",
+      "votes": "18667"
+    },
+    "agesOver45": {
+      "rating": "4.9",
+      "votes": "5526"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "13449"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "2566"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "8689"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "1605"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.5",
+    "votes": "359"
+  },
+  "usUsers": {
+    "rating": "5.2",
+    "votes": "12575"
+  },
+  "nonUSUsers": {
+    "rating": "5.0",
+    "votes": "22468"
+  },
+  "errorMessage": ""
+}

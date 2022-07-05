@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1646971",
+  "title": "How to Train Your Dragon 2",
+  "fullTitle": "How to Train Your Dragon 2 (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "16.0%",
+      "votes": "52436"
+    },
+    {
+      "rating": "9",
+      "percent": "17.3%",
+      "votes": "56909"
+    },
+    {
+      "rating": "8",
+      "percent": "31.8%",
+      "votes": "104367"
+    },
+    {
+      "rating": "7",
+      "percent": "22.6%",
+      "votes": "74144"
+    },
+    {
+      "rating": "6",
+      "percent": "7.9%",
+      "votes": "26089"
+    },
+    {
+      "rating": "5",
+      "percent": "2.5%",
+      "votes": "8113"
+    },
+    {
+      "rating": "4",
+      "percent": "0.8%",
+      "votes": "2745"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "1254"
+    },
+    {
+      "rating": "2",
+      "percent": "0.2%",
+      "votes": "784"
+    },
+    {
+      "rating": "1",
+      "percent": "0.5%",
+      "votes": "1714"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "328555"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "293"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "68731"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "126876"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "22891"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "181302"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "204"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "48907"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "97973"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "18152"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "55103"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "61"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "18062"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "27036"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "4306"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.3",
+    "votes": "576"
+  },
+  "usUsers": {
+    "rating": "7.8",
+    "votes": "34646"
+  },
+  "nonUSUsers": {
+    "rating": "7.7",
+    "votes": "128201"
+  },
+  "errorMessage": ""
+}

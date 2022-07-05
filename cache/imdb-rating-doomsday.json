@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt0483607",
+  "title": "Doomsday",
+  "fullTitle": "Doomsday (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "5.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.9%",
+      "votes": "4549"
+    },
+    {
+      "rating": "9",
+      "percent": "4.4%",
+      "votes": "3377"
+    },
+    {
+      "rating": "8",
+      "percent": "11.3%",
+      "votes": "8653"
+    },
+    {
+      "rating": "7",
+      "percent": "20.4%",
+      "votes": "15646"
+    },
+    {
+      "rating": "6",
+      "percent": "23.1%",
+      "votes": "17717"
+    },
+    {
+      "rating": "5",
+      "percent": "14.8%",
+      "votes": "11350"
+    },
+    {
+      "rating": "4",
+      "percent": "8.1%",
+      "votes": "6191"
+    },
+    {
+      "rating": "3",
+      "percent": "4.8%",
+      "votes": "3666"
+    },
+    {
+      "rating": "2",
+      "percent": "3.1%",
+      "votes": "2388"
+    },
+    {
+      "rating": "1",
+      "percent": "4.2%",
+      "votes": "3228"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "76765"
+    },
+    "agesUnder18": {
+      "rating": "5.9",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "4018"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "44477"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "14936"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "58768"
+    },
+    "agesUnder18": {
+      "rating": "5.2",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "3398"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "40191"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "13563"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "5801"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "547"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "3878"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "1198"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.7",
+    "votes": "448"
+  },
+  "usUsers": {
+    "rating": "6.0",
+    "votes": "14407"
+  },
+  "nonUSUsers": {
+    "rating": "5.9",
+    "votes": "43785"
+  },
+  "errorMessage": ""
+}

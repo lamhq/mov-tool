@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Community",
+  "results": [
+    {
+      "id": "tt1439629",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Community",
+      "description": "(2009) (TV Series)"
+    },
+    {
+      "id": "tt2087720",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzk4OTg5MjAyM15BMl5BanBnXkFtZTgwMjQyMjQxNzE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Community",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt0154206",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjFhMWQ1ZGEtMDc3ZC00ZDVmLWExM2ItOTVhYmZlZWE3MTdiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Bara-Dari",
+      "description": "(1955) aka \"Community\""
+    },
+    {
+      "id": "tt12434942",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjY5YzYzZjYtMjgzZS00NmMyLThlNTgtY2Q4MDRhZmNkYzg5XkEyXkFqcGdeQXVyOTkzNjg4ODQ@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Community Table Read",
+      "description": "(2020) (Video)"
+    },
+    {
+      "id": "tt0101158",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGVhZGIzMTktZDU4Yi00NGFjLWJhZTctNDg1ZDM0ZWExMWY4XkEyXkFqcGdeQXVyNTk5ODg4NDA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Nurses",
+      "description": "(1991) (TV Series) aka \"Community Medical Center\""
+    },
+    {
+      "id": "tt0059431",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjM3MzA5MWYtNzU0ZS00M2Q5LWIxOTgtZDQ2MzAxM2M3MDBhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Marriage on the Rocks",
+      "description": "(1965) aka \"Community Property\""
+    },
+    {
+      "id": "tt3152638",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTUzMWM2MGQtODlmYS00M2NkLTk2MjctMTNkNmRhYmM3OTU2XkEyXkFqcGdeQXVyNzgxNDk0NTI@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Community: Study Break",
+      "description": "(2010) (TV Mini Series)"
+    },
+    {
+      "id": "tt3152622",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGNlY2NjM2QtYmJlZi00MmIyLTgzNGItMTE4Y2U0MjlhMTg5XkEyXkFqcGdeQXVyNzgxNDk0NTI@._V1_Ratio1.3636_AL_.jpg",
+      "title": "Community College Chronicles",
+      "description": "(2009) (TV Mini Series)"
+    },
+    {
+      "id": "tt0097100",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODdhZTM2MmUtNmJiYy00ZmE0LWFlNmEtZDcyODVmOWJkZDMxXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Communion",
+      "description": "(1989)"
+    },
+    {
+      "id": "tt14626352",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmQzNTdjYjctYzM5OS00ZjFmLWJjYmYtZDYwZGYyYjkwODRhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_Ratio0.7273_AL_.jpg",
+      "title": "Komi Can't Communicate",
+      "description": "(2021) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

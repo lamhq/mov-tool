@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2322441",
+  "title": "Fifty Shades of Grey",
+  "fullTitle": "Fifty Shades of Grey (2015)",
+  "type": "Movie",
+  "year": "2015",
+  "totalRating": "4.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "11.8%",
+      "votes": "37319"
+    },
+    {
+      "rating": "9",
+      "percent": "2.7%",
+      "votes": "8539"
+    },
+    {
+      "rating": "8",
+      "percent": "4.8%",
+      "votes": "15251"
+    },
+    {
+      "rating": "7",
+      "percent": "7.2%",
+      "votes": "22682"
+    },
+    {
+      "rating": "6",
+      "percent": "10.2%",
+      "votes": "32012"
+    },
+    {
+      "rating": "5",
+      "percent": "12.7%",
+      "votes": "39927"
+    },
+    {
+      "rating": "4",
+      "percent": "11.0%",
+      "votes": "34738"
+    },
+    {
+      "rating": "3",
+      "percent": "9.2%",
+      "votes": "29057"
+    },
+    {
+      "rating": "2",
+      "percent": "7.8%",
+      "votes": "24543"
+    },
+    {
+      "rating": "1",
+      "percent": "22.6%",
+      "votes": "71204"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "4.1",
+      "votes": "315272"
+    },
+    "agesUnder18": {
+      "rating": "3.2",
+      "votes": "93"
+    },
+    "ages18To29": {
+      "rating": "4.0",
+      "votes": "68971"
+    },
+    "ages30To44": {
+      "rating": "4.1",
+      "votes": "116158"
+    },
+    "agesOver45": {
+      "rating": "4.2",
+      "votes": "23884"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "3.8",
+      "votes": "131714"
+    },
+    "agesUnder18": {
+      "rating": "2.9",
+      "votes": "35"
+    },
+    "ages18To29": {
+      "rating": "3.7",
+      "votes": "35460"
+    },
+    "ages30To44": {
+      "rating": "3.8",
+      "votes": "69096"
+    },
+    "agesOver45": {
+      "rating": "4.0",
+      "votes": "15781"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "4.8",
+      "votes": "93385"
+    },
+    "agesUnder18": {
+      "rating": "3.5",
+      "votes": "42"
+    },
+    "ages18To29": {
+      "rating": "4.7",
+      "votes": "31734"
+    },
+    "ages30To44": {
+      "rating": "4.8",
+      "votes": "45106"
+    },
+    "agesOver45": {
+      "rating": "4.8",
+      "votes": "7586"
+    }
+  },
+  "top1000Voters": {
+    "rating": "3.7",
+    "votes": "505"
+  },
+  "usUsers": {
+    "rating": "4.1",
+    "votes": "27531"
+  },
+  "nonUSUsers": {
+    "rating": "4.0",
+    "votes": "111956"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "My Little Monster",
+  "results": [
+    {
+      "id": "tt2309302",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYmY3NTgxYmMtZmZkZC00NzM5LTk3NWYtMGYxNGU1MmVlZjMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Tonari no kaibutsu-kun",
+      "description": "(2012) (TV Series) aka \"My Little Monster\""
+    },
+    {
+      "id": "tt6893370",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDBmNjM4ZDItMzI0YS00Zjg1LThiODctNDc3YjkyMGNlNjA4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "My Little Monster",
+      "description": "(2018)"
+    },
+    {
+      "id": "tt0097758",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2VjOThmNjktNGE1ZS00NWY3LThlMzItOWEyZjMwOGI4ZDNmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Little Monsters",
+      "description": "(1989)"
+    },
+    {
+      "id": "tt7390588",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Little Monsters",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt2189714",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjcyODg4ODI1Ml5BMl5BanBnXkFtZTcwNDAzMzM5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Little Monsters",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt0204676",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODk2NDA2NjgzNV5BMl5BanBnXkFtZTcwNjEzNzcxMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "That Little Monster",
+      "description": "(1994)"
+    },
+    {
+      "id": "tt1673447",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjI0OTY2NzgxNF5BMl5BanBnXkFtZTYwNDYwMDg4._V1_Ratio0.7273_AL_.jpg",
+      "title": "Little Monsters",
+      "description": "(1998) (TV Series)"
+    },
+    {
+      "id": "tt12708536",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Little Monsters",
+      "description": "(I) (in development)"
+    },
+    {
+      "id": "tt13544844",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTU3Y2NiZDUtM2I2Ni00OWZjLWE4MTQtMzE0NGEwMDliZjViXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Little Monsters",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt0274284",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjIyNTM0ODkxM15BMl5BanBnXkFtZTcwMDMzMzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Seven Little Monsters",
+      "description": "(2000) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

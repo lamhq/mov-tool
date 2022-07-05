@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt2401162",
+  "title": "Rooftop Prince",
+  "fullTitle": "Rooftop Prince (TV Series 2012\u20132012)",
+  "type": "TVSeries",
+  "year": "2012",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "21.2%",
+      "votes": "548"
+    },
+    {
+      "rating": "9",
+      "percent": "16.6%",
+      "votes": "428"
+    },
+    {
+      "rating": "8",
+      "percent": "27.0%",
+      "votes": "697"
+    },
+    {
+      "rating": "7",
+      "percent": "19.7%",
+      "votes": "507"
+    },
+    {
+      "rating": "6",
+      "percent": "7.6%",
+      "votes": "197"
+    },
+    {
+      "rating": "5",
+      "percent": "3.3%",
+      "votes": "84"
+    },
+    {
+      "rating": "4",
+      "percent": "2.2%",
+      "votes": "57"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "23"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "12"
+    },
+    {
+      "rating": "1",
+      "percent": "1.0%",
+      "votes": "27"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "2580"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "509"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "713"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "184"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "440"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "120"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "194"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "71"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "1114"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "368"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "506"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "107"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.1",
+    "votes": "10"
+  },
+  "usUsers": {
+    "rating": "7.9",
+    "votes": "229"
+  },
+  "nonUSUsers": {
+    "rating": "7.6",
+    "votes": "778"
+  },
+  "errorMessage": ""
+}

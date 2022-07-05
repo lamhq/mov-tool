@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1121096",
+  "title": "Seventh Son",
+  "fullTitle": "Seventh Son (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "5.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "4.4%",
+      "votes": "3352"
+    },
+    {
+      "rating": "9",
+      "percent": "2.1%",
+      "votes": "1604"
+    },
+    {
+      "rating": "8",
+      "percent": "6.0%",
+      "votes": "4600"
+    },
+    {
+      "rating": "7",
+      "percent": "15.1%",
+      "votes": "11575"
+    },
+    {
+      "rating": "6",
+      "percent": "25.8%",
+      "votes": "19744"
+    },
+    {
+      "rating": "5",
+      "percent": "22.2%",
+      "votes": "16973"
+    },
+    {
+      "rating": "4",
+      "percent": "11.8%",
+      "votes": "9033"
+    },
+    {
+      "rating": "3",
+      "percent": "6.0%",
+      "votes": "4588"
+    },
+    {
+      "rating": "2",
+      "percent": "3.3%",
+      "votes": "2522"
+    },
+    {
+      "rating": "1",
+      "percent": "3.2%",
+      "votes": "2476"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.5",
+      "votes": "76467"
+    },
+    "agesUnder18": {
+      "rating": "5.3",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "5.4",
+      "votes": "10458"
+    },
+    "ages30To44": {
+      "rating": "5.3",
+      "votes": "34812"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "11603"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.4",
+      "votes": "48600"
+    },
+    "agesUnder18": {
+      "rating": "5.1",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "5.4",
+      "votes": "7601"
+    },
+    "ages30To44": {
+      "rating": "5.3",
+      "votes": "27803"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "9707"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "11832"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "2663"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "6526"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "1692"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.2",
+    "votes": "381"
+  },
+  "usUsers": {
+    "rating": "5.5",
+    "votes": "7895"
+  },
+  "nonUSUsers": {
+    "rating": "5.4",
+    "votes": "35462"
+  },
+  "errorMessage": ""
+}

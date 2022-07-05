@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "The Amazing Spider-Man 2",
+  "results": [
+    {
+      "id": "tt1872181",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man 2",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt8580172",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Amazing Spider-Man 2: Gwen and Peter",
+      "description": "(2017) (Video)"
+    },
+    {
+      "id": "tt3886654",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjMxODk3OTE5M15BMl5BanBnXkFtZTgwMjUxOTgyMjE@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Forming the Foundation: Spider-Man and the Future Foundation",
+      "description": "(2014) (Short) aka \"The Amazing Spider-Man 2.5\""
+    },
+    {
+      "id": "tt8580106",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Amazing Spider-Man 2: Spider-Man in Action",
+      "description": "(2017) (Video)"
+    },
+    {
+      "id": "tt8580166",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Amazing Spider-Man 2: Location - NYC",
+      "description": "(2017) (Video)"
+    },
+    {
+      "id": "tt8580210",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Amazing Spider-Man 2: Electro vs. Spider-Man",
+      "description": "(2017) (Video)"
+    },
+    {
+      "id": "tt0948470",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt0076975",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzkwYjA4MzQtODM1ZS00MzQ5LTliYWEtMzc1ZDZlYzU2Y2FkXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "(1977) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Transformers",
+  "results": [
+    {
+      "id": "tt0418279",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers",
+      "description": "(2007)"
+    },
+    {
+      "id": "tt0092106",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGM1MGY4OTYtOGZkOC00NjYyLTk3OTMtODUyZDdhYWQ3NGFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Transformers: The Movie",
+      "description": "(1986)"
+    },
+    {
+      "id": "tt0086817",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjZkN2E5MDMtM2U1ZS00MGE2LTg1NzktYzZhYmVkNmJkYTk2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Transformers",
+      "description": "(1984) (TV Series)"
+    },
+    {
+      "id": "tt5090568",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNWQ2MWU1ZWItYjkyNi00YmYwLWExMzAtZmZlMGNhMTg3OWI1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: Rise of the Beasts",
+      "description": "(2023)"
+    },
+    {
+      "id": "tt3371366",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: The Last Knight",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt4701182",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Bumblebee",
+      "description": "(I) (2018) aka \"Transformers 6\""
+    },
+    {
+      "id": "tt2109248",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: Age of Extinction",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt1399103",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "description": "(2011)"
+    },
+    {
+      "id": "tt1659175",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGY0ZGMwY2QtMGUwOC00MmVhLTljMzktNGYzNDFmYzAzODMwXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers Prime",
+      "description": "(2010) (TV Series)"
+    },
+    {
+      "id": "tt1055369",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Transformers: Revenge of the Fallen",
+      "description": "(2009)"
+    }
+  ],
+  "errorMessage": ""
+}

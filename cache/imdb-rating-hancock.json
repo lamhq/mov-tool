@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0448157",
+  "title": "Hancock",
+  "fullTitle": "Hancock (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "6.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "4.8%",
+      "votes": "22746"
+    },
+    {
+      "rating": "9",
+      "percent": "4.2%",
+      "votes": "19779"
+    },
+    {
+      "rating": "8",
+      "percent": "13.4%",
+      "votes": "63569"
+    },
+    {
+      "rating": "7",
+      "percent": "29.6%",
+      "votes": "140218"
+    },
+    {
+      "rating": "6",
+      "percent": "27.0%",
+      "votes": "127646"
+    },
+    {
+      "rating": "5",
+      "percent": "12.0%",
+      "votes": "56820"
+    },
+    {
+      "rating": "4",
+      "percent": "4.7%",
+      "votes": "22156"
+    },
+    {
+      "rating": "3",
+      "percent": "2.0%",
+      "votes": "9345"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "4843"
+    },
+    {
+      "rating": "1",
+      "percent": "1.3%",
+      "votes": "6108"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "473230"
+    },
+    "agesUnder18": {
+      "rating": "6.6",
+      "votes": "97"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "71486"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "227535"
+    },
+    "agesOver45": {
+      "rating": "6.4",
+      "votes": "48721"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "314246"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "82"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "59194"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "194613"
+    },
+    "agesOver45": {
+      "rating": "6.4",
+      "votes": "41841"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "49686"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "10516"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "30113"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "6070"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.2",
+    "votes": "767"
+  },
+  "usUsers": {
+    "rating": "6.4",
+    "votes": "69675"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "220562"
+  },
+  "errorMessage": ""
+}

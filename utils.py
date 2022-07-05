@@ -30,12 +30,20 @@ def updateMovieDb():
   else:
     df = pd.DataFrame.from_records(movRecords, index='Netflix Id')
 
-  # save mov data
+  for index, mov in df.iterrows():
+    if not shouldGetRating(df.loc[index]):
+      continue
+    try:
+      df.loc[index, 'Rating'] = getImdbRating(mov['Title'])
+    except:
+      logging.warning('Error when getting movie rating')
+
   df.to_csv(MOV_LST_FILE)
   return df
 
 
 def getRating():
+  # https://www.imdb.com/title/tt0372784/
   for index, mov in df.iterrows():
     if not shouldGetRating(df.loc[index]):
       continue
@@ -67,7 +75,7 @@ def getNetflixMovList():
     setCache(cacheKey, data)
 
   result = convertNetflixMoviesToRecords(data)
-  return result;
+  return result
 
 
 def getImdbRating(title):

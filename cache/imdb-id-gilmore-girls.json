@@ -1,0 +1,42 @@
+{
+  "searchType": "Title",
+  "expression": "Gilmore Girls",
+  "results": [
+    {
+      "id": "tt0238784",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ3NDA1ZWYtYjBmMC00NmJjLWI1NjgtYjg2NDhmMTY2YWQ4XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Gilmore Girls",
+      "description": "(2000) (TV Series)"
+    },
+    {
+      "id": "tt5435008",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODM1OTk4MDY2M15BMl5BanBnXkFtZTgwOTEwNzczMDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Gilmore Girls: A Year in the Life",
+      "description": "(2016) (TV Mini Series)"
+    },
+    {
+      "id": "tt0433381",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Gilmore Girls Backstage Special",
+      "description": "(2004) (TV Special)"
+    },
+    {
+      "id": "tt6411430",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Gilmore Girls: A Year in the Life Electronic Press Kit",
+      "description": "(2016) (Short)"
+    },
+    {
+      "id": "tt12109804",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTEwNzdmZTAtOGI5YS00NTA3LWFhYTUtNmMyNWFmYWU0NWM1XkEyXkFqcGdeQXVyNDE1Njg1NjU@._V1_Ratio2.5000_AL_.jpg",
+      "title": "The Gilmore Girls Patch",
+      "description": "(2019) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

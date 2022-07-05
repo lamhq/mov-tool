@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1000774",
+  "title": "Sex and the City",
+  "fullTitle": "Sex and the City (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "5.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "13.1%",
+      "votes": "15909"
+    },
+    {
+      "rating": "9",
+      "percent": "5.8%",
+      "votes": "7015"
+    },
+    {
+      "rating": "8",
+      "percent": "10.6%",
+      "votes": "12885"
+    },
+    {
+      "rating": "7",
+      "percent": "15.2%",
+      "votes": "18458"
+    },
+    {
+      "rating": "6",
+      "percent": "16.7%",
+      "votes": "20343"
+    },
+    {
+      "rating": "5",
+      "percent": "13.0%",
+      "votes": "15817"
+    },
+    {
+      "rating": "4",
+      "percent": "7.0%",
+      "votes": "8489"
+    },
+    {
+      "rating": "3",
+      "percent": "4.5%",
+      "votes": "5530"
+    },
+    {
+      "rating": "2",
+      "percent": "3.5%",
+      "votes": "4318"
+    },
+    {
+      "rating": "1",
+      "percent": "10.6%",
+      "votes": "12904"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "121668"
+    },
+    "agesUnder18": {
+      "rating": "2.6",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "12712"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "68846"
+    },
+    "agesOver45": {
+      "rating": "5.4",
+      "votes": "16052"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "4.9",
+      "votes": "48278"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "5.1",
+      "votes": "3610"
+    },
+    "ages30To44": {
+      "rating": "4.8",
+      "votes": "33316"
+    },
+    "agesOver45": {
+      "rating": "5.1",
+      "votes": "10078"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "51323"
+    },
+    "agesUnder18": {
+      "rating": "1.3",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "8751"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "34729"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "5726"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.8",
+    "votes": "402"
+  },
+  "usUsers": {
+    "rating": "5.7",
+    "votes": "23643"
+  },
+  "nonUSUsers": {
+    "rating": "5.4",
+    "votes": "62471"
+  },
+  "errorMessage": ""
+}

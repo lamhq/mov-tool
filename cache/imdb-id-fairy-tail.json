@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "Fairy Tail",
+  "results": [
+    {
+      "id": "tt1528406",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fairy Tail",
+      "description": "(2009) (TV Series)"
+    },
+    {
+      "id": "tt8912202",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWQzYTUzMjItZWJmOS00YjExLWFjOTktYWY2MmJkMzg4YzBjXkEyXkFqcGdeQXVyMTAxMzY2ODM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fairy Tail",
+      "description": "(2018) (Short)"
+    },
+    {
+      "id": "tt2085795",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzJmMjMyNWMtMjAzMy00ZDFiLWJlOTctN2MyZTFhYTU0ZTMwXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fairy Tail: Priestess of the Phoenix",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt6548966",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWM5MTE1NmItMzJiMS00MjU0LWJiZmYtMDBiYjdiNTFjODhlXkEyXkFqcGdeQXVyNjg5NDY2MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fairy Tail: Dragon Cry",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt8324472",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2MzNDA2YTQtZDk3OS00MDJjLTk3NmMtYTkyYmQyZTM0OTZhXkEyXkFqcGdeQXVyOTg4NjU1MzM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fairy Tail OVA Series",
+      "description": "(2011) (TV Mini Series)"
+    },
+    {
+      "id": "tt15414478",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fairy Tail: 100 Years Quest",
+      "description": "(TV Series)"
+    },
+    {
+      "id": "tt19886620",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fairytail",
+      "description": "(2023)"
+    },
+    {
+      "id": "tt1937156",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTVkM2E4NmMtN2JiNi00OGRjLWJiOTAtMGVmMDQ5ZjI4MTg4XkEyXkFqcGdeQXVyODY4NTQzNTE@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Fairytale",
+      "description": "(2022)"
+    }
+  ],
+  "errorMessage": ""
+}

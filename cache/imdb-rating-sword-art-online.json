@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2250192",
+  "title": "Sword Art Online",
+  "fullTitle": "Sword Art Online (TV Series 2012\u2013 )",
+  "type": "TVSeries",
+  "year": "2012",
+  "totalRating": "7.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "25.0%",
+      "votes": "10995"
+    },
+    {
+      "rating": "9",
+      "percent": "15.6%",
+      "votes": "6875"
+    },
+    {
+      "rating": "8",
+      "percent": "21.3%",
+      "votes": "9367"
+    },
+    {
+      "rating": "7",
+      "percent": "15.6%",
+      "votes": "6870"
+    },
+    {
+      "rating": "6",
+      "percent": "8.3%",
+      "votes": "3644"
+    },
+    {
+      "rating": "5",
+      "percent": "4.6%",
+      "votes": "2010"
+    },
+    {
+      "rating": "4",
+      "percent": "2.8%",
+      "votes": "1216"
+    },
+    {
+      "rating": "3",
+      "percent": "2.1%",
+      "votes": "934"
+    },
+    {
+      "rating": "2",
+      "percent": "1.5%",
+      "votes": "666"
+    },
+    {
+      "rating": "1",
+      "percent": "3.2%",
+      "votes": "1426"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "44003"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "85"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "10960"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "10274"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "1212"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "21174"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "63"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "8744"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "8704"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "1004"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "3870"
+    },
+    "agesUnder18": {
+      "rating": "4.9",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "1832"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "1380"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "175"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "127"
+  },
+  "usUsers": {
+    "rating": "7.5",
+    "votes": "4116"
+  },
+  "nonUSUsers": {
+    "rating": "7.5",
+    "votes": "11643"
+  },
+  "errorMessage": ""
+}

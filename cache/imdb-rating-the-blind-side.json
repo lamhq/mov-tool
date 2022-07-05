@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0878804",
+  "title": "The Blind Side",
+  "fullTitle": "The Blind Side (2009)",
+  "type": "Movie",
+  "year": "2009",
+  "totalRating": "7.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "13.8%",
+      "votes": "44889"
+    },
+    {
+      "rating": "9",
+      "percent": "16.2%",
+      "votes": "52574"
+    },
+    {
+      "rating": "8",
+      "percent": "32.1%",
+      "votes": "104262"
+    },
+    {
+      "rating": "7",
+      "percent": "23.0%",
+      "votes": "74655"
+    },
+    {
+      "rating": "6",
+      "percent": "8.5%",
+      "votes": "27566"
+    },
+    {
+      "rating": "5",
+      "percent": "3.2%",
+      "votes": "10364"
+    },
+    {
+      "rating": "4",
+      "percent": "1.3%",
+      "votes": "4321"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "2264"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "1419"
+    },
+    {
+      "rating": "1",
+      "percent": "0.9%",
+      "votes": "2882"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "325196"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "101"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "51771"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "147824"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "36356"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "184602"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "69"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "34792"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "111051"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "27758"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "62756"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "27"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "15513"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "34904"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "7992"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.1",
+    "votes": "668"
+  },
+  "usUsers": {
+    "rating": "7.5",
+    "votes": "55989"
+  },
+  "nonUSUsers": {
+    "rating": "7.6",
+    "votes": "138919"
+  },
+  "errorMessage": ""
+}

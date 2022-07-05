@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "We're the Millers",
+  "results": [
+    {
+      "id": "tt1723121",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA5Njc0NDUxNV5BMl5BanBnXkFtZTcwMjYzNzU1OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "We're the Millers",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt3562310",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "We're the Millers 2",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt6339102",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDgwMjgyOGYtN2QwZS00YTg5LWEwMjktZTljMTA1MTE4ZTlmXkEyXkFqcGdeQXVyNjYzMDA4MTI@._V1_Ratio0.7727_AL_.jpg",
+      "title": "We're the Millers: The Miller Makeovers",
+      "description": "(2013) (Short)"
+    },
+    {
+      "id": "tt5503218",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "We're the Millers: When Paranoia Sets In",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt5503186",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "We're the Millers: Livin' It Up with Brad",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt2737290",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTc4NjIxODUwNF5BMl5BanBnXkFtZTcwOTg2NzM5OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Millers",
+      "description": "(2013) (TV Series)"
+    },
+    {
+      "id": "tt19233838",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Ep. 255 - We're The Millers",
+      "description": "(2021) (Podcast Episode) - Jaret Goes to the Movies (Movie Reviews) (2017) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

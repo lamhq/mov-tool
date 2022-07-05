@@ -1,0 +1,56 @@
+{
+  "searchType": "Title",
+  "expression": "The Tale of The Princess Kaguya",
+  "results": [
+    {
+      "id": "tt2576852",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNThmMWMyMWMtOWRiNy00MGY0LTg1OTUtNjYzODg2MjdlZGU5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Tale of The Princess Kaguya",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt19478502",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Tale of the Princess Kaguya aEU\\' Ghibli Rewatch",
+      "description": "(2020) (Podcast Episode) - Overly Animated Podcast (2015) (Podcast Series)"
+    },
+    {
+      "id": "tt19477130",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Wind Rises and The Tales of the Princess Kaguya",
+      "description": "(2015) (Podcast Episode) - Otaku Spirit Anime (2011) (Podcast Series)"
+    },
+    {
+      "id": "tt6478412",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzMyNDNmNzctMjJlNC00ZTJhLTg1YTgtYWM4ZGY4MmUyMGRlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Isao Takahata and His Tale of Princess Kaguya",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt19483396",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Christmas Ghibli 2 The Tale of Princess Kaguya",
+      "description": "(2019) (Podcast Episode) - Warui Deshou: An Anime Podcast (2016) (Podcast Series)"
+    },
+    {
+      "id": "tt19489938",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Episode 5: The Tale Of The Princess Kaguya (updated version)",
+      "description": "(2015) (Podcast Episode) - Animation for Adults: The AFA Podcast (2015) (Podcast Series)"
+    },
+    {
+      "id": "tt19479608",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Tale of Princess Kaguya Review aEU\\' Overly Animated Podcast 19",
+      "description": "(2015) (Podcast Episode) - Overly Animated Podcast (2015) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1488555",
+  "title": "The Change-Up",
+  "fullTitle": "The Change-Up (2011)",
+  "type": "Movie",
+  "year": "2011",
+  "totalRating": "6.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.4%",
+      "votes": "9845"
+    },
+    {
+      "rating": "9",
+      "percent": "4.5%",
+      "votes": "8151"
+    },
+    {
+      "rating": "8",
+      "percent": "13.0%",
+      "votes": "23470"
+    },
+    {
+      "rating": "7",
+      "percent": "28.0%",
+      "votes": "50615"
+    },
+    {
+      "rating": "6",
+      "percent": "26.9%",
+      "votes": "48616"
+    },
+    {
+      "rating": "5",
+      "percent": "12.3%",
+      "votes": "22169"
+    },
+    {
+      "rating": "4",
+      "percent": "5.0%",
+      "votes": "8975"
+    },
+    {
+      "rating": "3",
+      "percent": "2.3%",
+      "votes": "4090"
+    },
+    {
+      "rating": "2",
+      "percent": "1.2%",
+      "votes": "2233"
+    },
+    {
+      "rating": "1",
+      "percent": "1.5%",
+      "votes": "2774"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "180938"
+    },
+    "agesUnder18": {
+      "rating": "6.2",
+      "votes": "32"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "30650"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "94601"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "16781"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "113361"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "22"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "21378"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "72632"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "13425"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "34346"
+    },
+    "agesUnder18": {
+      "rating": "5.8",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "8564"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "20817"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "3078"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.8",
+    "votes": "446"
+  },
+  "usUsers": {
+    "rating": "6.2",
+    "votes": "26253"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "87599"
+  },
+  "errorMessage": ""
+}

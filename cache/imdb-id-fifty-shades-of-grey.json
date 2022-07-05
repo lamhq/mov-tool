@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "Fifty Shades of Grey",
+  "results": [
+    {
+      "id": "tt2322441",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fifty Shades of Grey",
+      "description": "(2015)"
+    },
+    {
+      "id": "tt4465564",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fifty Shades Darker",
+      "description": "(2017) aka \"Fifty Shades of Grey - Gef\u00e4hrliche Liebe\""
+    },
+    {
+      "id": "tt4477536",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fifty Shades Freed",
+      "description": "(2018) aka \"Fifty Shades of Grey - Befreite Lust\""
+    },
+    {
+      "id": "tt3263866",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTk1OTY1ODgwMF5BMl5BanBnXkFtZTgwNDY3ODc0MDE@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Fifty Shades of Grey Gardens",
+      "description": "(2014) (Short)"
+    },
+    {
+      "id": "tt3986150",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODYwNjcyOWMtNTdkZi00MDRjLTllMTgtZTRiM2NhZGNkMTc1XkEyXkFqcGdeQXVyNjkyMTM0ODY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fifty Shades of Shane",
+      "description": "(2014) (TV Series) aka \"Fifty Shades of Grey Parody\""
+    },
+    {
+      "id": "tt6678426",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fifty Shades of Grey as Told by the Dom",
+      "description": "(2017) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

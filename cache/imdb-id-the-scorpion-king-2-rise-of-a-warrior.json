@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "The Scorpion King 2: Rise of a Warrior",
+  "results": [
+    {
+      "id": "tt1104123",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTFmOWJjODYtMDkwZC00MDZjLWExY2UtMjI2M2I1NDIzZjdiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Scorpion King 2: Rise of a Warrior",
+      "description": "(2008) (Video)"
+    },
+    {
+      "id": "tt1483835",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Making of 'the Scorpion King 2: Rise of a Warrior'",
+      "description": "(2008) (Video)"
+    },
+    {
+      "id": "tt1483838",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Visual Effects of 'the Scorpion King 2: Rise of a Warrior'",
+      "description": "(2008) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

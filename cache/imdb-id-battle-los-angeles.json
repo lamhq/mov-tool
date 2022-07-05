@@ -1,0 +1,28 @@
+{
+  "searchType": "Title",
+  "expression": "Battle: Los Angeles",
+  "results": [
+    {
+      "id": "tt1217613",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDg2NzQwOGMtMGRkNC00YjAwLTg4NjgtZWQwYzljZmM1YzA4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Battle Los Angeles",
+      "description": "(2011) aka \"Battle: Los Angeles\""
+    },
+    {
+      "id": "tt1758570",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTM1MDUyNTMyMF5BMl5BanBnXkFtZTcwOTc0NTkzNA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Battle of Los Angeles",
+      "description": "(2011) (Video)"
+    },
+    {
+      "id": "tt14457424",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzUzMWI4ZWEtZGZiYy00YmIxLTlkYTYtYjYzYmMxOWYxZmFiXkEyXkFqcGdeQXVyMTU3MzMwNQ@@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Battle Los Angeles",
+      "description": "(2014) (Podcast Episode) - Season 1 | Episode 45 - Thinking Sideways Podcast (2013) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

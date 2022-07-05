@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0238784",
+  "title": "Gilmore Girls",
+  "fullTitle": "Gilmore Girls (TV Series 2000\u20132007)",
+  "type": "TVSeries",
+  "year": "2000",
+  "totalRating": "8.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "37.8%",
+      "votes": "45062"
+    },
+    {
+      "rating": "9",
+      "percent": "19.6%",
+      "votes": "23373"
+    },
+    {
+      "rating": "8",
+      "percent": "20.2%",
+      "votes": "24052"
+    },
+    {
+      "rating": "7",
+      "percent": "10.6%",
+      "votes": "12641"
+    },
+    {
+      "rating": "6",
+      "percent": "4.6%",
+      "votes": "5441"
+    },
+    {
+      "rating": "5",
+      "percent": "2.3%",
+      "votes": "2688"
+    },
+    {
+      "rating": "4",
+      "percent": "1.2%",
+      "votes": "1474"
+    },
+    {
+      "rating": "3",
+      "percent": "0.8%",
+      "votes": "999"
+    },
+    {
+      "rating": "2",
+      "percent": "0.7%",
+      "votes": "876"
+    },
+    {
+      "rating": "1",
+      "percent": "2.2%",
+      "votes": "2600"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.2",
+      "votes": "119206"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "45"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "14696"
+    },
+    "ages30To44": {
+      "rating": "8.1",
+      "votes": "52472"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "10931"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "26270"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "2716"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "16816"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "5121"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "56059"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "29"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "11331"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "34704"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "5569"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.8",
+    "votes": "294"
+  },
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "20642"
+  },
+  "nonUSUsers": {
+    "rating": "8.0",
+    "votes": "42440"
+  },
+  "errorMessage": ""
+}

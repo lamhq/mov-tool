@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0770752",
+  "title": "Fool's Gold",
+  "fullTitle": "Fool's Gold (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "5.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.3%",
+      "votes": "4203"
+    },
+    {
+      "rating": "9",
+      "percent": "2.9%",
+      "votes": "2251"
+    },
+    {
+      "rating": "8",
+      "percent": "7.8%",
+      "votes": "6188"
+    },
+    {
+      "rating": "7",
+      "percent": "18.2%",
+      "votes": "14368"
+    },
+    {
+      "rating": "6",
+      "percent": "26.9%",
+      "votes": "21264"
+    },
+    {
+      "rating": "5",
+      "percent": "19.6%",
+      "votes": "15487"
+    },
+    {
+      "rating": "4",
+      "percent": "8.9%",
+      "votes": "7063"
+    },
+    {
+      "rating": "3",
+      "percent": "4.5%",
+      "votes": "3548"
+    },
+    {
+      "rating": "2",
+      "percent": "2.6%",
+      "votes": "2057"
+    },
+    {
+      "rating": "1",
+      "percent": "3.2%",
+      "votes": "2509"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "78938"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "5.8",
+      "votes": "9539"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "40696"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "11617"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "45951"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "5514"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "29310"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "9271"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "17873"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "3823"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "10993"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "2167"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.2",
+    "votes": "398"
+  },
+  "usUsers": {
+    "rating": "5.5",
+    "votes": "15224"
+  },
+  "nonUSUsers": {
+    "rating": "5.7",
+    "votes": "38595"
+  },
+  "errorMessage": ""
+}

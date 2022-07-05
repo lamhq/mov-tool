@@ -1,0 +1,70 @@
+{
+  "searchType": "Title",
+  "expression": "Hancock",
+  "results": [
+    {
+      "id": "tt0448157",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hancock",
+      "description": "(2008)"
+    },
+    {
+      "id": "tt0387743",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2FkYmZiOTMtZTQxMi00ZDI3LWI1YjktMmVmZWYxZGU3M2U1XkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Hancock",
+      "description": "(1961) (TV Series)"
+    },
+    {
+      "id": "tt0182585",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTNiYTZjOGYtY2Y3Mi00ODlkLWIyZDMtNWEwYTU1YTAwYTJiXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Hancock",
+      "description": "(1963) (TV Series)"
+    },
+    {
+      "id": "tt1498780",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Hancock 2",
+      "description": "(in development)"
+    },
+    {
+      "id": "tt0124703",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTc1NTg5Mzc3MV5BMl5BanBnXkFtZTcwNDI5NjYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hancock's Half Hour",
+      "description": "(1956) (TV Series)"
+    },
+    {
+      "id": "tt0182586",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmFlNGQ1MDctZTg4My00ODgwLThmZjctZWEwYTNmM2IyMWUwXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_Ratio1.7273_AL_.jpg",
+      "title": "Hancock's",
+      "description": "(1967) (TV Series)"
+    },
+    {
+      "id": "tt1202176",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Hancock & Joan",
+      "description": "(2008) (TV Movie)"
+    },
+    {
+      "id": "tt2598626",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2QzZDJlZjAtZjU5NC00MjRlLWE2YjUtYTQ4YWY0NGRkMTk1XkEyXkFqcGdeQXVyMjg0NTEwMTg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hancock of 1776",
+      "description": "(2012) (Short)"
+    },
+    {
+      "id": "tt4432814",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGY3OTUwMDYtYzcyZS00M2E5LThiNmMtZWYzYTk2ZjNmMGZmXkEyXkFqcGdeQXVyNTQ3MTEzNzk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "House of Hancock",
+      "description": "(2015) (TV Mini Series)"
+    }
+  ],
+  "errorMessage": ""
+}

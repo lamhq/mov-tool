@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1872181",
+  "title": "The Amazing Spider-Man 2",
+  "fullTitle": "The Amazing Spider-Man 2 (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "9.2%",
+      "votes": "44835"
+    },
+    {
+      "rating": "9",
+      "percent": "7.0%",
+      "votes": "34045"
+    },
+    {
+      "rating": "8",
+      "percent": "16.8%",
+      "votes": "81557"
+    },
+    {
+      "rating": "7",
+      "percent": "26.6%",
+      "votes": "129254"
+    },
+    {
+      "rating": "6",
+      "percent": "19.9%",
+      "votes": "96720"
+    },
+    {
+      "rating": "5",
+      "percent": "9.7%",
+      "votes": "46865"
+    },
+    {
+      "rating": "4",
+      "percent": "4.5%",
+      "votes": "21892"
+    },
+    {
+      "rating": "3",
+      "percent": "2.5%",
+      "votes": "12084"
+    },
+    {
+      "rating": "2",
+      "percent": "1.6%",
+      "votes": "7697"
+    },
+    {
+      "rating": "1",
+      "percent": "2.1%",
+      "votes": "10125"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "485074"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "493"
+    },
+    "ages18To29": {
+      "rating": "6.7",
+      "votes": "96392"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "174826"
+    },
+    "agesOver45": {
+      "rating": "6.4",
+      "votes": "36621"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "287552"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "387"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "77032"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "149376"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "31902"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "48756"
+    },
+    "agesUnder18": {
+      "rating": "6.6",
+      "votes": "67"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "16803"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "22718"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "3950"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "676"
+  },
+  "usUsers": {
+    "rating": "6.4",
+    "votes": "52997"
+  },
+  "nonUSUsers": {
+    "rating": "6.5",
+    "votes": "175394"
+  },
+  "errorMessage": ""
+}

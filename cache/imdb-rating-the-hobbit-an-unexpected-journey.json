@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0903624",
+  "title": "The Hobbit: An Unexpected Journey",
+  "fullTitle": "The Hobbit: An Unexpected Journey (2012)",
+  "type": "Movie",
+  "year": "2012",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "18.8%",
+      "votes": "151188"
+    },
+    {
+      "rating": "9",
+      "percent": "18.5%",
+      "votes": "148421"
+    },
+    {
+      "rating": "8",
+      "percent": "29.1%",
+      "votes": "234237"
+    },
+    {
+      "rating": "7",
+      "percent": "19.2%",
+      "votes": "154245"
+    },
+    {
+      "rating": "6",
+      "percent": "8.1%",
+      "votes": "64801"
+    },
+    {
+      "rating": "5",
+      "percent": "3.1%",
+      "votes": "24605"
+    },
+    {
+      "rating": "4",
+      "percent": "1.3%",
+      "votes": "10081"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "5432"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "3350"
+    },
+    {
+      "rating": "1",
+      "percent": "1.0%",
+      "votes": "7742"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "804102"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "254"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "146213"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "346849"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "74161"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "494225"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "194"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "111845"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "280023"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "61103"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "115212"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "31"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "31425"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "61903"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "11676"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.5",
+    "votes": "799"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "88279"
+  },
+  "nonUSUsers": {
+    "rating": "7.8",
+    "votes": "341303"
+  },
+  "errorMessage": ""
+}

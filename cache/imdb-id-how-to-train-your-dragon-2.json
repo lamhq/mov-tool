@@ -1,0 +1,21 @@
+{
+  "searchType": "Title",
+  "expression": "How to Train Your Dragon 2",
+  "results": [
+    {
+      "id": "tt1646971",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon 2",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt0892769",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon",
+      "description": "(2010)"
+    }
+  ],
+  "errorMessage": ""
+}

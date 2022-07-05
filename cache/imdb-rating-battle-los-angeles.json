@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt1217613",
+  "title": "Battle Los Angeles",
+  "fullTitle": "Battle Los Angeles (2011)",
+  "type": "Movie",
+  "year": "2011",
+  "totalRating": "5.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.6%",
+      "votes": "10069"
+    },
+    {
+      "rating": "9",
+      "percent": "4.0%",
+      "votes": "7202"
+    },
+    {
+      "rating": "8",
+      "percent": "10.1%",
+      "votes": "18124"
+    },
+    {
+      "rating": "7",
+      "percent": "19.1%",
+      "votes": "34213"
+    },
+    {
+      "rating": "6",
+      "percent": "23.0%",
+      "votes": "41249"
+    },
+    {
+      "rating": "5",
+      "percent": "16.5%",
+      "votes": "29606"
+    },
+    {
+      "rating": "4",
+      "percent": "9.1%",
+      "votes": "16399"
+    },
+    {
+      "rating": "3",
+      "percent": "5.4%",
+      "votes": "9633"
+    },
+    {
+      "rating": "2",
+      "percent": "3.3%",
+      "votes": "5859"
+    },
+    {
+      "rating": "1",
+      "percent": "4.0%",
+      "votes": "7194"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "179548"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "19570"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "99451"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "30668"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "141072"
+    },
+    "agesUnder18": {
+      "rating": "5.7",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "17588"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "90461"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "27633"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "12644"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "1692"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "7896"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "2544"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.6",
+    "votes": "551"
+  },
+  "usUsers": {
+    "rating": "6.0",
+    "votes": "32225"
+  },
+  "nonUSUsers": {
+    "rating": "5.6",
+    "votes": "92397"
+  },
+  "errorMessage": ""
+}

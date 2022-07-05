@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Fool's Gold",
+  "results": [
+    {
+      "id": "tt0770752",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTg3NTQ2MDY4OF5BMl5BanBnXkFtZTcwOTAzMjU1MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fool's Gold",
+      "description": "(I) (2008)"
+    },
+    {
+      "id": "tt0076715",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2ZhOTgwYTAtOTdkMy00MDVlLTlmM2EtYzI4ZjRjNTZiYjZkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Silver Bears",
+      "description": "(1977) aka \"Fool's Gold\""
+    },
+    {
+      "id": "tt0104286",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTczMzIxMDA0OF5BMl5BanBnXkFtZTcwNDUxNzkxMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fool's Gold: The Story of the Brink's-Mat Robbery",
+      "description": "(1992) (TV Movie)"
+    },
+    {
+      "id": "tt0415806",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGY1NWE0NjMtODViNy00MTBhLWI5NjgtMzY3M2E3YWMyODI4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fool's Gold",
+      "description": "(2005)"
+    },
+    {
+      "id": "tt0140055",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjMzMjMxNzMzMF5BMl5BanBnXkFtZTgwMzAwOTk1MDE@._V1_Ratio1.3636_AL_.jpg",
+      "title": "Fool's Gold",
+      "description": "(1999)"
+    },
+    {
+      "id": "tt0038532",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTIxMmM3NDItYjdkMi00MWNkLWE4YWQtYzZiNzRjNjZmZmFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fool's Gold",
+      "description": "(1946)"
+    },
+    {
+      "id": "tt3701166",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTU2NjQ1MTMwMV5BMl5BanBnXkFtZTgwMzQzNjcwNDE@._V1_Ratio1.1818_AL_.jpg",
+      "title": "Fool's Gold",
+      "description": "(2014) (TV Series)"
+    },
+    {
+      "id": "tt1351148",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fool's Gold",
+      "description": "(II) (2008) (Short)"
+    },
+    {
+      "id": "tt10771898",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzgwMmM5NzktYTIxOC00OWRlLWE2YzctNmM4OGM3ZDNlNTQ1XkEyXkFqcGdeQXVyNjA3NTk1MDk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fools Gold",
+      "description": "(I) (in development)"
+    },
+    {
+      "id": "tt10332718",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fools Gold",
+      "description": "(II) (in development)"
+    }
+  ],
+  "errorMessage": ""
+}

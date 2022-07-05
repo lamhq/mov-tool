@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Doomsday",
+  "results": [
+    {
+      "id": "tt0483607",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTUwODU2NzE2OF5BMl5BanBnXkFtZTcwMTAwMDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday",
+      "description": "(2008)"
+    },
+    {
+      "id": "tt0061592",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDRiNzUxNGUtNzVmYS00NmJkLWIxYzYtMGUwMzJlZmU1MWZkXkEyXkFqcGdeQXVyMzUzNTU3Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday Machine",
+      "description": "(1972)"
+    },
+    {
+      "id": "tt3531496",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDAzMjdiYzctMjA1MS00MzM3LWJiZmQtOGY0MTY5MGRiYTk0XkEyXkFqcGdeQXVyNjY5MjAxNDA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Hussein, Who Said No",
+      "description": "(2014) aka \"Doomsday\""
+    },
+    {
+      "id": "tt14490958",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTNlOGY4NTktYjVlMS00MzcyLWJjZDItNGE1MjQzMzhlNGYzXkEyXkFqcGdeQXVyNTk3MDI4MzI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday Mom",
+      "description": "(2021) (TV Movie)"
+    },
+    {
+      "id": "tt2069270",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjM5NzE5MDcxM15BMl5BanBnXkFtZTgwNTYxODAxMzE@._V1_Ratio1.3182_AL_.jpg",
+      "title": "Doomsday Preppers",
+      "description": "(2011) (TV Series)"
+    },
+    {
+      "id": "tt2297164",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTgyNTA3NjM0MV5BMl5BanBnXkFtZTgwMjUxNzIwMTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday Book",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt6461916",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDBjNzI4MzUtNWJlNC00NTNmLTkyZjItNTA4OTk3MWFkYTA3XkEyXkFqcGdeQXVyMzUwOTU4MjE@._V1_Ratio1.7727_AL_.jpg",
+      "title": "Doomsday",
+      "description": "(2017) (TV Movie)"
+    },
+    {
+      "id": "tt4733262",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDkyOGViN2EtNWJiNS00MmU1LTk0YWItNTJkZDhiYjk3OTQ0XkEyXkFqcGdeQXVyMTcwMjE4MTQ@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt2805976",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTUwMDkzNDcyNF5BMl5BanBnXkFtZTgwMjE1Njc0NjE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Doomsday",
+      "description": "(2015)"
+    },
+    {
+      "id": "tt1132130",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEzNzk0NDE3Nl5BMl5BanBnXkFtZTcwNjg3MTEwMg@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "2012 Doomsday",
+      "description": "(2008) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

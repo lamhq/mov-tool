@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "Pain & Gain",
+  "results": [
+    {
+      "id": "tt1980209",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Pain & Gain",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt12631108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2UxNmZkMjAtZTQ4Yi00NTljLWFlYjgtNDc4YmRhZGZmNzMxXkEyXkFqcGdeQXVyNTY5MTcwNw@@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Pain & Gain",
+      "description": "(2016) (Podcast Episode) - Season 1 | Episode 10 - Based on a True Story (2016) (Podcast Series)"
+    },
+    {
+      "id": "tt4387644",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmYwYWEzZjctMzk4Ny00YzAzLWFkMzktM2I5MzZkY2M0YjI4XkEyXkFqcGdeQXVyMTk2ODQ2OA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Pain & Gain: The A Game - Michael Bay's 'Pain & Gain'",
+      "description": "(2013) (Video)"
+    },
+    {
+      "id": "tt20202340",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDQ3ZWI2NDYtMTE1Ny00ODI3LTlhNjUtNjBmY2I2ZWEzNDYxXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_Ratio1.7727_AL_.jpg",
+      "title": "Pain & Gain (2013) and Ambulance (2022)",
+      "description": "(2022) (Podcast Episode) - Season 6 | Episode 39 - //MOVIES - A Podcast About the Act of Cinema (2018) (Podcast Series)"
+    },
+    {
+      "id": "tt0306846",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODk3NDM5MTE4Nl5BMl5BanBnXkFtZTcwMTUwMTcyMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "title": "No Pain, No Gain",
+      "description": "(2004)"
+    },
+    {
+      "id": "tt13580888",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmQzOTM1ZWEtNDFlZC00NDg3LWFhYzYtYzk5ODdkMzk3MTQ5XkEyXkFqcGdeQXVyNjAxMTAwNjc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "No Pains, No Gains",
+      "description": "(2011) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

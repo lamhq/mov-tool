@@ -1,0 +1,63 @@
+{
+  "searchType": "Title",
+  "expression": "The Smurfs",
+  "results": [
+    {
+      "id": "tt0472181",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Smurfs",
+      "description": "(2011)"
+    },
+    {
+      "id": "tt0081933",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDE3YjY5MzEtYzJlYS00ZjgyLWIzYWUtZmU4Mjk4Y2JhOTQwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Smurfs",
+      "description": "(1981) (TV Series)"
+    },
+    {
+      "id": "tt14670820",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2QyZjlmODYtMTg2Yi00YTY2LWI2ZTktYWZkMWU0MGUyOTQzXkEyXkFqcGdeQXVyOTMwNTUwNTk@._V1_Ratio1.0000_AL_.jpg",
+      "title": "The Smurfs",
+      "description": "(2021) (TV Series)"
+    },
+    {
+      "id": "tt2398241",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Smurfs: The Lost Village",
+      "description": "(2017) aka \"The Smurfs 3\""
+    },
+    {
+      "id": "tt2017020",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGI0OTUwNTItZTU0Yy00YmMzLTlkNjQtZDJjZTI2YTliZTM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Smurfs 2",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt18069420",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTk5ODU4MDUtODE1MC00MTI2LWFkMzQtNjNlOWZlMjM4ZjFmXkEyXkFqcGdeQXVyMTUwNzcxMjc0._V1_Ratio1.7727_AL_.jpg",
+      "title": "The Smurfs Musical",
+      "description": "(2024)"
+    },
+    {
+      "id": "tt2958484",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ2NjA2MzgzM15BMl5BanBnXkFtZTgwMjcyMDQ1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Smurfs: The Legend of Smurfy Hollow",
+      "description": "(2013) (TV Short)"
+    },
+    {
+      "id": "tt2062677",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTczMjk5NzkxOV5BMl5BanBnXkFtZTcwNDQyNzU5Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Smurfs: A Christmas Carol",
+      "description": "(2011) (Short)"
+    }
+  ],
+  "errorMessage": ""
+}

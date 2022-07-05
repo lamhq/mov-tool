@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Carrie",
+  "results": [
+    {
+      "id": "tt0074285",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carrie",
+      "description": "(1976)"
+    },
+    {
+      "id": "tt1939659",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carrie",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt0319970",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTJiNzAxZTktZjcxZS00ZTg3LWI0ODItNTFkOWQ1YWZlMDY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carrie",
+      "description": "(2002) (TV Movie)"
+    },
+    {
+      "id": "tt2056366",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYwNjEwMDcyM15BMl5BanBnXkFtZTgwMzIyMDA1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Carrie Diaries",
+      "description": "(2013) (TV Series)"
+    },
+    {
+      "id": "tt0806203",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDNmMDAwMzgtYzA4MC00MWM0LWFkNDMtMmFjNmFhNjRlOTk1XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carriers",
+      "description": "(2009)"
+    },
+    {
+      "id": "tt0144814",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTMwNzMwNjUyNV5BMl5BanBnXkFtZTcwMzk3MTE3NA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Rage: Carrie 2",
+      "description": "(1999)"
+    },
+    {
+      "id": "tt2989524",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjMxMTQ2ODgwMF5BMl5BanBnXkFtZTgwNjQyODY2MTI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carrie Pilby",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt0115837",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDE1YWNhN2ItOTc4Mi00NmMzLThlOWQtMTAzYTFjZmE2NmVjXkEyXkFqcGdeQXVyMTI0Nzk5NTQ2._V1_Ratio0.7273_AL_.jpg",
+      "title": "Carried Away",
+      "description": "(1996)"
+    },
+    {
+      "id": "tt0092400",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzk2OWYzNDUtNGE5NC00MDI0LTkyMDktY2RmZjE0NGNmMWE1XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Married... with Children",
+      "description": "(1987) (TV Series)"
+    },
+    {
+      "id": "tt4648786",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_Ratio0.7273_AL_.jpg",
+      "title": "Harriet",
+      "description": "(I) (2019)"
+    }
+  ],
+  "errorMessage": ""
+}

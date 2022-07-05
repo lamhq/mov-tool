@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2560140",
+  "title": "Attack on Titan",
+  "fullTitle": "Attack on Titan (TV Series 2013\u20132023)",
+  "type": "TVSeries",
+  "year": "2013",
+  "totalRating": "9.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "60.3%",
+      "votes": "208018"
+    },
+    {
+      "rating": "9",
+      "percent": "18.2%",
+      "votes": "62811"
+    },
+    {
+      "rating": "8",
+      "percent": "8.9%",
+      "votes": "30514"
+    },
+    {
+      "rating": "7",
+      "percent": "3.6%",
+      "votes": "12275"
+    },
+    {
+      "rating": "6",
+      "percent": "1.4%",
+      "votes": "4871"
+    },
+    {
+      "rating": "5",
+      "percent": "0.7%",
+      "votes": "2482"
+    },
+    {
+      "rating": "4",
+      "percent": "0.4%",
+      "votes": "1354"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "1101"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "1075"
+    },
+    {
+      "rating": "1",
+      "percent": "5.9%",
+      "votes": "20198"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "9.0",
+      "votes": "344699"
+    },
+    "agesUnder18": {
+      "rating": "9.3",
+      "votes": "1079"
+    },
+    "ages18To29": {
+      "rating": "9.1",
+      "votes": "60744"
+    },
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "52280"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "5821"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.9",
+      "votes": "113482"
+    },
+    "agesUnder18": {
+      "rating": "9.3",
+      "votes": "745"
+    },
+    "ages18To29": {
+      "rating": "9.1",
+      "votes": "47623"
+    },
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "44133"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "4759"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "9.0",
+      "votes": "18580"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "211"
+    },
+    "ages18To29": {
+      "rating": "9.1",
+      "votes": "8708"
+    },
+    "ages30To44": {
+      "rating": "8.9",
+      "votes": "6484"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "820"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.6",
+    "votes": "264"
+  },
+  "usUsers": {
+    "rating": "8.7",
+    "votes": "17821"
+  },
+  "nonUSUsers": {
+    "rating": "8.8",
+    "votes": "58198"
+  },
+  "errorMessage": ""
+}

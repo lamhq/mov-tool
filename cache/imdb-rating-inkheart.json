@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0494238",
+  "title": "Inkheart",
+  "fullTitle": "Inkheart (2008)",
+  "type": "Movie",
+  "year": "2008",
+  "totalRating": "6.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.1%",
+      "votes": "4715"
+    },
+    {
+      "rating": "9",
+      "percent": "3.8%",
+      "votes": "2959"
+    },
+    {
+      "rating": "8",
+      "percent": "10.7%",
+      "votes": "8277"
+    },
+    {
+      "rating": "7",
+      "percent": "23.0%",
+      "votes": "17730"
+    },
+    {
+      "rating": "6",
+      "percent": "28.7%",
+      "votes": "22186"
+    },
+    {
+      "rating": "5",
+      "percent": "15.5%",
+      "votes": "11999"
+    },
+    {
+      "rating": "4",
+      "percent": "6.4%",
+      "votes": "4943"
+    },
+    {
+      "rating": "3",
+      "percent": "2.8%",
+      "votes": "2180"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "1092"
+    },
+    {
+      "rating": "1",
+      "percent": "1.5%",
+      "votes": "1129"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.1",
+      "votes": "77210"
+    },
+    "agesUnder18": {
+      "rating": "5.8",
+      "votes": "17"
+    },
+    "ages18To29": {
+      "rating": "6.1",
+      "votes": "12951"
+    },
+    "ages30To44": {
+      "rating": "6.0",
+      "votes": "36679"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "11005"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "43277"
+    },
+    "agesUnder18": {
+      "rating": "5.9",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "5.9",
+      "votes": "7306"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "25611"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "8544"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "19311"
+    },
+    "agesUnder18": {
+      "rating": "5.9",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "5360"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "10679"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "2297"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.7",
+    "votes": "406"
+  },
+  "usUsers": {
+    "rating": "6.1",
+    "votes": "11323"
+  },
+  "nonUSUsers": {
+    "rating": "6.0",
+    "votes": "39864"
+  },
+  "errorMessage": ""
+}

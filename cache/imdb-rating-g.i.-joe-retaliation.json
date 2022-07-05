@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1583421",
+  "title": "G.I. Joe: Retaliation",
+  "fullTitle": "G.I. Joe: Retaliation (2013)",
+  "type": "Movie",
+  "year": "2013",
+  "totalRating": "5.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.0%",
+      "votes": "14540"
+    },
+    {
+      "rating": "9",
+      "percent": "3.2%",
+      "votes": "5804"
+    },
+    {
+      "rating": "8",
+      "percent": "8.4%",
+      "votes": "15166"
+    },
+    {
+      "rating": "7",
+      "percent": "18.3%",
+      "votes": "33044"
+    },
+    {
+      "rating": "6",
+      "percent": "25.6%",
+      "votes": "46343"
+    },
+    {
+      "rating": "5",
+      "percent": "18.0%",
+      "votes": "32475"
+    },
+    {
+      "rating": "4",
+      "percent": "8.6%",
+      "votes": "15626"
+    },
+    {
+      "rating": "3",
+      "percent": "4.4%",
+      "votes": "7929"
+    },
+    {
+      "rating": "2",
+      "percent": "2.4%",
+      "votes": "4412"
+    },
+    {
+      "rating": "1",
+      "percent": "3.0%",
+      "votes": "5475"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "180814"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "30"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "28110"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "86059"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "21836"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "129873"
+    },
+    "agesUnder18": {
+      "rating": "5.9",
+      "votes": "26"
+    },
+    "ages18To29": {
+      "rating": "5.9",
+      "votes": "24468"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "76331"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "18706"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "16237"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "3207"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "8666"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "2774"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.5",
+    "votes": "512"
+  },
+  "usUsers": {
+    "rating": "5.8",
+    "votes": "24520"
+  },
+  "nonUSUsers": {
+    "rating": "5.7",
+    "votes": "78836"
+  },
+  "errorMessage": ""
+}

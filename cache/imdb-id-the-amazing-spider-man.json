@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "The Amazing Spider-Man",
+  "results": [
+    {
+      "id": "tt0948470",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "(2012)"
+    },
+    {
+      "id": "tt0316654",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Spider-Man 2",
+      "description": "(2004) aka \"The Amazing Spider-Man\""
+    },
+    {
+      "id": "tt0976192",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzlkN2NlODMtNDU5OC00NTU3LTlkZWEtOTU4MjA2ZmU0YTViXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Spectacular Spider-Man",
+      "description": "(2008) (TV Series) aka \"The Amazing Spider-Man\""
+    },
+    {
+      "id": "tt1872181",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man 2",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt0076975",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzkwYjA4MzQtODM1ZS00MzQ5LTliYWEtMzc1ZDZlYzU2Y2FkXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "(1977) (TV Series)"
+    },
+    {
+      "id": "tt0061301",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGMwYWM0ODItZWE5MS00NmQ4LTkxZWYtM2M4NWIxZWM5MWE4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "(1967) (TV Series) aka \"The Amazing Spider-Man\""
+    }
+  ],
+  "errorMessage": ""
+}

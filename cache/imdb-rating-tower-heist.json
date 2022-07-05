@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt0471042",
+  "title": "Tower Heist",
+  "fullTitle": "Tower Heist (2011)",
+  "type": "Movie",
+  "year": "2011",
+  "totalRating": "6.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "3.7%",
+      "votes": "5278"
+    },
+    {
+      "rating": "9",
+      "percent": "2.8%",
+      "votes": "3931"
+    },
+    {
+      "rating": "8",
+      "percent": "9.8%",
+      "votes": "13981"
+    },
+    {
+      "rating": "7",
+      "percent": "27.1%",
+      "votes": "38500"
+    },
+    {
+      "rating": "6",
+      "percent": "32.4%",
+      "votes": "45921"
+    },
+    {
+      "rating": "5",
+      "percent": "14.7%",
+      "votes": "20820"
+    },
+    {
+      "rating": "4",
+      "percent": "5.3%",
+      "votes": "7470"
+    },
+    {
+      "rating": "3",
+      "percent": "2.2%",
+      "votes": "3053"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "1450"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "1545"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "141949"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "16"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "20460"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "72151"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "20909"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "101242"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "16809"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "61663"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "17831"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "16550"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "3240"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "9618"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "2758"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "499"
+  },
+  "usUsers": {
+    "rating": "6.2",
+    "votes": "22419"
+  },
+  "nonUSUsers": {
+    "rating": "6.2",
+    "votes": "71745"
+  },
+  "errorMessage": ""
+}

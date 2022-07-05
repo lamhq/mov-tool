@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1439629",
+  "title": "Community",
+  "fullTitle": "Community (TV Series 2009\u20132015)",
+  "type": "TVSeries",
+  "year": "2009",
+  "totalRating": "8.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "31.9%",
+      "votes": "80896"
+    },
+    {
+      "rating": "9",
+      "percent": "27.0%",
+      "votes": "68691"
+    },
+    {
+      "rating": "8",
+      "percent": "21.7%",
+      "votes": "55224"
+    },
+    {
+      "rating": "7",
+      "percent": "10.8%",
+      "votes": "27382"
+    },
+    {
+      "rating": "6",
+      "percent": "3.9%",
+      "votes": "9943"
+    },
+    {
+      "rating": "5",
+      "percent": "1.6%",
+      "votes": "4187"
+    },
+    {
+      "rating": "4",
+      "percent": "0.8%",
+      "votes": "2134"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "1256"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "1021"
+    },
+    {
+      "rating": "1",
+      "percent": "1.3%",
+      "votes": "3224"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "253958"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "125"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "43318"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "106897"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "17418"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "138345"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "79"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "32253"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "81936"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "13488"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "39558"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "26"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "9813"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "23279"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "3555"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.6",
+    "votes": "429"
+  },
+  "usUsers": {
+    "rating": "8.6",
+    "votes": "43710"
+  },
+  "nonUSUsers": {
+    "rating": "8.4",
+    "votes": "88527"
+  },
+  "errorMessage": ""
+}

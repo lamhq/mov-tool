@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2193021",
+  "title": "Arrow",
+  "fullTitle": "Arrow (TV Series 2012\u20132020)",
+  "type": "TVSeries",
+  "year": "2012",
+  "totalRating": "7.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.6%",
+      "votes": "117702"
+    },
+    {
+      "rating": "9",
+      "percent": "16.2%",
+      "votes": "68891"
+    },
+    {
+      "rating": "8",
+      "percent": "19.8%",
+      "votes": "84244"
+    },
+    {
+      "rating": "7",
+      "percent": "15.7%",
+      "votes": "66981"
+    },
+    {
+      "rating": "6",
+      "percent": "8.7%",
+      "votes": "37076"
+    },
+    {
+      "rating": "5",
+      "percent": "4.5%",
+      "votes": "19130"
+    },
+    {
+      "rating": "4",
+      "percent": "2.3%",
+      "votes": "9623"
+    },
+    {
+      "rating": "3",
+      "percent": "1.4%",
+      "votes": "6000"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "4354"
+    },
+    {
+      "rating": "1",
+      "percent": "2.8%",
+      "votes": "11875"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "425876"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "150"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "87689"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "139258"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "34338"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "229973"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "104"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "68031"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "107745"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "25104"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "62524"
+    },
+    "agesUnder18": {
+      "rating": "5.6",
+      "votes": "22"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "17607"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "29244"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "8461"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.0",
+    "votes": "454"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "40020"
+  },
+  "nonUSUsers": {
+    "rating": "7.3",
+    "votes": "128247"
+  },
+  "errorMessage": ""
+}

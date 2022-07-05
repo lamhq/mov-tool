@@ -1,0 +1,49 @@
+{
+  "searchType": "Title",
+  "expression": "How to Train Your Dragon",
+  "results": [
+    {
+      "id": "tt0892769",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon",
+      "description": "(2010)"
+    },
+    {
+      "id": "tt2386490",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt1646971",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon 2",
+      "description": "(2014)"
+    },
+    {
+      "id": "tt11112140",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTlkZjM1MDctZTZlOC00NDQwLTg3ZGEtNTJhMWQ2YWIxNGViXkEyXkFqcGdeQXVyMjQ5MjYwNDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon: Homecoming",
+      "description": "(2019) (TV Short)"
+    },
+    {
+      "id": "tt11409576",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDhjZWY0ZTMtOGY0Yy00ZWY2LTg1MzMtNjE0YzhjZmUyY2Y2XkEyXkFqcGdeQXVyMTEwNTU2NzM3._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon: Snoggletog Log",
+      "description": "(2019) (Short)"
+    },
+    {
+      "id": "tt7639966",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzY1M2RjZGEtMGI5NS00YmJjLWFiN2MtMDgxYTk1ODNkNzljXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_Ratio0.7273_AL_.jpg",
+      "title": "How to Train Your Dragon: Viking-Sized Cast",
+      "description": "(2010) (Video)"
+    }
+  ],
+  "errorMessage": ""
+}

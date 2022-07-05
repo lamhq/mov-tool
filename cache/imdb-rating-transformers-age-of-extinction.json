@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2109248",
+  "title": "Transformers: Age of Extinction",
+  "fullTitle": "Transformers: Age of Extinction (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "5.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.7%",
+      "votes": "26979"
+    },
+    {
+      "rating": "9",
+      "percent": "4.2%",
+      "votes": "13092"
+    },
+    {
+      "rating": "8",
+      "percent": "9.4%",
+      "votes": "29204"
+    },
+    {
+      "rating": "7",
+      "percent": "16.8%",
+      "votes": "52162"
+    },
+    {
+      "rating": "6",
+      "percent": "20.8%",
+      "votes": "64829"
+    },
+    {
+      "rating": "5",
+      "percent": "15.6%",
+      "votes": "48645"
+    },
+    {
+      "rating": "4",
+      "percent": "9.0%",
+      "votes": "28001"
+    },
+    {
+      "rating": "3",
+      "percent": "5.8%",
+      "votes": "18091"
+    },
+    {
+      "rating": "2",
+      "percent": "3.9%",
+      "votes": "12108"
+    },
+    {
+      "rating": "1",
+      "percent": "5.7%",
+      "votes": "17867"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "310978"
+    },
+    "agesUnder18": {
+      "rating": "5.2",
+      "votes": "118"
+    },
+    "ages18To29": {
+      "rating": "5.6",
+      "votes": "54217"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "132143"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "28773"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "208561"
+    },
+    "agesUnder18": {
+      "rating": "5.3",
+      "votes": "99"
+    },
+    "ages18To29": {
+      "rating": "5.6",
+      "votes": "46907"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "115989"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "24767"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "27363"
+    },
+    "agesUnder18": {
+      "rating": "4.0",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.1",
+      "votes": "6426"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "14391"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "3474"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.3",
+    "votes": "589"
+  },
+  "usUsers": {
+    "rating": "5.4",
+    "votes": "34421"
+  },
+  "nonUSUsers": {
+    "rating": "5.5",
+    "votes": "122080"
+  },
+  "errorMessage": ""
+}

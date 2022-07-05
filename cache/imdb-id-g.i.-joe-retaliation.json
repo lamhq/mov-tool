@@ -1,0 +1,21 @@
+{
+  "searchType": "Title",
+  "expression": "G.I. Joe: Retaliation",
+  "results": [
+    {
+      "id": "tt1583421",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "G.I. Joe: Retaliation",
+      "description": "(2013)"
+    },
+    {
+      "id": "tt18740380",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "G.I. Joe Retaliation",
+      "description": "(2021) (Podcast Episode) - MovieFaction Podcast (2015) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}

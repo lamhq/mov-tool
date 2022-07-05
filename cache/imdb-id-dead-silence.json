@@ -1,0 +1,77 @@
+{
+  "searchType": "Title",
+  "expression": "Dead Silence",
+  "results": [
+    {
+      "id": "tt0100814",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_Ratio0.7273_AL_.jpg",
+      "title": "Tremors",
+      "description": "(1990) aka \"Dead Silence\""
+    },
+    {
+      "id": "tt0455760",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dead Silence",
+      "description": "(2007)"
+    },
+    {
+      "id": "tt0118942",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzkwMjcxOTYyOV5BMl5BanBnXkFtZTgwNjU4ODc5ODE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dead Silence",
+      "description": "(1997) (TV Movie)"
+    },
+    {
+      "id": "tt0101674",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjYzNjMwMTExNV5BMl5BanBnXkFtZTcwODkzNDI3Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dead Silence",
+      "description": "(1991) (TV Movie)"
+    },
+    {
+      "id": "tt0286108",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2Y0MWUxOTQtMGEzMy00OTJjLTgzZTMtOTUyNmM0MGU5ODIzXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Silence",
+      "description": "(I) (2002) aka \"Dead Silence\""
+    },
+    {
+      "id": "tt6278694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDQ4NDUwOGEtMTM0ZC00NjkwLTkzM2MtMGZiNTVkZTAxNTBiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dead Silence",
+      "description": "(1989)"
+    },
+    {
+      "id": "tt0138192",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjE2OTc3MTM5MF5BMl5BanBnXkFtZTcwNTg3MTE1MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Wilbur Falls",
+      "description": "(1998) aka \"Dead Silence\""
+    },
+    {
+      "id": "tt11262770",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDcyYWNkOWYtZjAxYS00NWVmLTlkODItMTI1MTlhZGNhNWViXkEyXkFqcGdeQXVyNzE4MDg5NzU@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Implant",
+      "description": "aka \"Dead Silence\""
+    },
+    {
+      "id": "tt5787720",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2E3Mjc4ZGMtZWM3MS00NTVlLTgxZjItMmEzZjkzN2EwMDlmXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dead Silent",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt0163598",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYmQwNWU2OTgtYzk5Yi00ZjMzLTk2M2EtMjkyOWU2YWU1NWZmXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Dead Silence",
+      "description": "(1991)"
+    }
+  ],
+  "errorMessage": ""
+}
