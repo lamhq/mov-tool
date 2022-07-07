@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt9541602",
+  "title": "Extreme Job",
+  "fullTitle": "Extreme Job (2019)",
+  "type": "Movie",
+  "year": "2019",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "9.5%",
+      "votes": "941"
+    },
+    {
+      "rating": "9",
+      "percent": "9.2%",
+      "votes": "920"
+    },
+    {
+      "rating": "8",
+      "percent": "24.5%",
+      "votes": "2434"
+    },
+    {
+      "rating": "7",
+      "percent": "33.4%",
+      "votes": "3320"
+    },
+    {
+      "rating": "6",
+      "percent": "14.6%",
+      "votes": "1454"
+    },
+    {
+      "rating": "5",
+      "percent": "4.5%",
+      "votes": "451"
+    },
+    {
+      "rating": "4",
+      "percent": "1.7%",
+      "votes": "171"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "103"
+    },
+    {
+      "rating": "2",
+      "percent": "0.4%",
+      "votes": "42"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "117"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "9953"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "21"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "1534"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "3329"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "862"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "5124"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "1102"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "2771"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "735"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "1107"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "352"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "480"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "106"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "54"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "617"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "3939"
+  },
+  "errorMessage": ""
+}

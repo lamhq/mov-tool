@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt1534184",
+  "title": "InuYasha: The Final Act",
+  "fullTitle": "InuYasha: The Final Act (TV Series 2009\u20132010)",
+  "type": "TVSeries",
+  "year": "2009",
+  "totalRating": "8.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "38.2%",
+      "votes": "1148"
+    },
+    {
+      "rating": "9",
+      "percent": "23.0%",
+      "votes": "691"
+    },
+    {
+      "rating": "8",
+      "percent": "21.7%",
+      "votes": "652"
+    },
+    {
+      "rating": "7",
+      "percent": "9.3%",
+      "votes": "280"
+    },
+    {
+      "rating": "6",
+      "percent": "3.0%",
+      "votes": "89"
+    },
+    {
+      "rating": "5",
+      "percent": "1.8%",
+      "votes": "53"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "18"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "16"
+    },
+    {
+      "rating": "2",
+      "percent": "0.2%",
+      "votes": "6"
+    },
+    {
+      "rating": "1",
+      "percent": "1.7%",
+      "votes": "52"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "3005"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "681"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "1029"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "131"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "1251"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "407"
+    },
+    "ages30To44": {
+      "rating": "8.2",
+      "votes": "654"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "90"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.8",
+      "votes": "718"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "9.0",
+      "votes": "248"
+    },
+    "ages30To44": {
+      "rating": "8.7",
+      "votes": "356"
+    },
+    "agesOver45": {
+      "rating": "9.1",
+      "votes": "38"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.0",
+    "votes": "35"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "454"
+  },
+  "nonUSUsers": {
+    "rating": "8.3",
+    "votes": "896"
+  },
+  "errorMessage": ""
+}

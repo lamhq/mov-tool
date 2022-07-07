@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt6157626",
+  "title": "Legend of the Demon Cat",
+  "fullTitle": "Legend of the Demon Cat (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "6.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.6%",
+      "votes": "176"
+    },
+    {
+      "rating": "9",
+      "percent": "4.8%",
+      "votes": "128"
+    },
+    {
+      "rating": "8",
+      "percent": "12.7%",
+      "votes": "339"
+    },
+    {
+      "rating": "7",
+      "percent": "23.8%",
+      "votes": "636"
+    },
+    {
+      "rating": "6",
+      "percent": "25.9%",
+      "votes": "693"
+    },
+    {
+      "rating": "5",
+      "percent": "11.9%",
+      "votes": "318"
+    },
+    {
+      "rating": "4",
+      "percent": "6.2%",
+      "votes": "165"
+    },
+    {
+      "rating": "3",
+      "percent": "2.4%",
+      "votes": "63"
+    },
+    {
+      "rating": "2",
+      "percent": "1.9%",
+      "votes": "50"
+    },
+    {
+      "rating": "1",
+      "percent": "4.0%",
+      "votes": "108"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "2676"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "339"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "1006"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "376"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.1",
+      "votes": "1483"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "238"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "813"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "314"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "365"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "93"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "176"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "57"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.5",
+    "votes": "70"
+  },
+  "usUsers": {
+    "rating": "6.0",
+    "votes": "237"
+  },
+  "nonUSUsers": {
+    "rating": "6.1",
+    "votes": "1289"
+  },
+  "errorMessage": ""
+}

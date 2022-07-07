@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5575678",
+  "title": "Love in the Moonlight",
+  "fullTitle": "Love in the Moonlight (TV Series 2016\u20132016)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "25.6%",
+      "votes": "752"
+    },
+    {
+      "rating": "9",
+      "percent": "14.8%",
+      "votes": "435"
+    },
+    {
+      "rating": "8",
+      "percent": "25.6%",
+      "votes": "753"
+    },
+    {
+      "rating": "7",
+      "percent": "18.3%",
+      "votes": "538"
+    },
+    {
+      "rating": "6",
+      "percent": "7.6%",
+      "votes": "223"
+    },
+    {
+      "rating": "5",
+      "percent": "3.5%",
+      "votes": "102"
+    },
+    {
+      "rating": "4",
+      "percent": "1.6%",
+      "votes": "47"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "25"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "16"
+    },
+    {
+      "rating": "1",
+      "percent": "1.5%",
+      "votes": "45"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "2936"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "520"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "577"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "215"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "307"
+    },
+    "agesUnder18": {
+      "rating": "8.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "88"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "121"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "50"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "1183"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "405"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "441"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "160"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.2",
+    "votes": "8"
+  },
+  "usUsers": {
+    "rating": "8.1",
+    "votes": "202"
+  },
+  "nonUSUsers": {
+    "rating": "7.7",
+    "votes": "751"
+  },
+  "errorMessage": ""
+}

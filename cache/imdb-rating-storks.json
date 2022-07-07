@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4624424",
+  "title": "Storks",
+  "fullTitle": "Storks (2016)",
+  "type": "Movie",
+  "year": "2016",
+  "totalRating": "6.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.5%",
+      "votes": "5248"
+    },
+    {
+      "rating": "9",
+      "percent": "7.0%",
+      "votes": "4286"
+    },
+    {
+      "rating": "8",
+      "percent": "17.9%",
+      "votes": "11020"
+    },
+    {
+      "rating": "7",
+      "percent": "30.9%",
+      "votes": "19036"
+    },
+    {
+      "rating": "6",
+      "percent": "20.5%",
+      "votes": "12611"
+    },
+    {
+      "rating": "5",
+      "percent": "8.6%",
+      "votes": "5295"
+    },
+    {
+      "rating": "4",
+      "percent": "3.2%",
+      "votes": "1993"
+    },
+    {
+      "rating": "3",
+      "percent": "1.4%",
+      "votes": "873"
+    },
+    {
+      "rating": "2",
+      "percent": "0.8%",
+      "votes": "467"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "738"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "61567"
+    },
+    "agesUnder18": {
+      "rating": "6.2",
+      "votes": "76"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "10173"
+    },
+    "ages30To44": {
+      "rating": "6.7",
+      "votes": "24263"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "5703"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.7",
+      "votes": "31115"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "51"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "6404"
+    },
+    "ages30To44": {
+      "rating": "6.7",
+      "votes": "17449"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "4569"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "12375"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "19"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "3513"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "6473"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "1031"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.3",
+    "votes": "304"
+  },
+  "usUsers": {
+    "rating": "6.6",
+    "votes": "6586"
+  },
+  "nonUSUsers": {
+    "rating": "6.7",
+    "votes": "24613"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5033998",
+  "title": "Charlie's Angels",
+  "fullTitle": "Charlie's Angels (2019)",
+  "type": "Movie",
+  "year": "2019",
+  "totalRating": "4.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.8%",
+      "votes": "4818"
+    },
+    {
+      "rating": "9",
+      "percent": "2.6%",
+      "votes": "1839"
+    },
+    {
+      "rating": "8",
+      "percent": "6.1%",
+      "votes": "4354"
+    },
+    {
+      "rating": "7",
+      "percent": "11.8%",
+      "votes": "8392"
+    },
+    {
+      "rating": "6",
+      "percent": "17.2%",
+      "votes": "12184"
+    },
+    {
+      "rating": "5",
+      "percent": "16.3%",
+      "votes": "11533"
+    },
+    {
+      "rating": "4",
+      "percent": "10.2%",
+      "votes": "7212"
+    },
+    {
+      "rating": "3",
+      "percent": "7.2%",
+      "votes": "5135"
+    },
+    {
+      "rating": "2",
+      "percent": "5.7%",
+      "votes": "4049"
+    },
+    {
+      "rating": "1",
+      "percent": "16.1%",
+      "votes": "11417"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "4.9",
+      "votes": "70933"
+    },
+    "agesUnder18": {
+      "rating": "4.4",
+      "votes": "94"
+    },
+    "ages18To29": {
+      "rating": "5.1",
+      "votes": "9647"
+    },
+    "ages30To44": {
+      "rating": "4.7",
+      "votes": "23453"
+    },
+    "agesOver45": {
+      "rating": "4.9",
+      "votes": "9263"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "4.6",
+      "votes": "33942"
+    },
+    "agesUnder18": {
+      "rating": "4.1",
+      "votes": "53"
+    },
+    "ages18To29": {
+      "rating": "4.7",
+      "votes": "5589"
+    },
+    "ages30To44": {
+      "rating": "4.5",
+      "votes": "17260"
+    },
+    "agesOver45": {
+      "rating": "4.8",
+      "votes": "7598"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "11946"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "34"
+    },
+    "ages18To29": {
+      "rating": "5.9",
+      "votes": "3528"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "5583"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "1429"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.4",
+    "votes": "329"
+  },
+  "usUsers": {
+    "rating": "4.8",
+    "votes": "8331"
+  },
+  "nonUSUsers": {
+    "rating": "4.8",
+    "votes": "25201"
+  },
+  "errorMessage": ""
+}

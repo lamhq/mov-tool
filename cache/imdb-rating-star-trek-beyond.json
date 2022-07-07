@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2660888",
+  "title": "Star Trek Beyond",
+  "fullTitle": "Star Trek Beyond (2016)",
+  "type": "Movie",
+  "year": "2016",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.7%",
+      "votes": "16346"
+    },
+    {
+      "rating": "9",
+      "percent": "8.3%",
+      "votes": "20218"
+    },
+    {
+      "rating": "8",
+      "percent": "24.1%",
+      "votes": "58770"
+    },
+    {
+      "rating": "7",
+      "percent": "33.7%",
+      "votes": "81947"
+    },
+    {
+      "rating": "6",
+      "percent": "16.6%",
+      "votes": "40297"
+    },
+    {
+      "rating": "5",
+      "percent": "5.8%",
+      "votes": "13994"
+    },
+    {
+      "rating": "4",
+      "percent": "2.1%",
+      "votes": "5204"
+    },
+    {
+      "rating": "3",
+      "percent": "1.1%",
+      "votes": "2606"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "1410"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "2569"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "243361"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "56"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "28827"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "99735"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "37223"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "155166"
+    },
+    "agesUnder18": {
+      "rating": "6.9",
+      "votes": "44"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "23527"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "86003"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "32092"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "23840"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "4697"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "12220"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "4450"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.8",
+    "votes": "651"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "35789"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "98004"
+  },
+  "errorMessage": ""
+}

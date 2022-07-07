@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt8467296",
+  "title": "Love Island Australia",
+  "fullTitle": "Love Island Australia (TV Series 2018\u20132022)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "5.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "15.8%",
+      "votes": "96"
+    },
+    {
+      "rating": "9",
+      "percent": "6.6%",
+      "votes": "40"
+    },
+    {
+      "rating": "8",
+      "percent": "10.4%",
+      "votes": "63"
+    },
+    {
+      "rating": "7",
+      "percent": "14.6%",
+      "votes": "89"
+    },
+    {
+      "rating": "6",
+      "percent": "12.2%",
+      "votes": "74"
+    },
+    {
+      "rating": "5",
+      "percent": "8.4%",
+      "votes": "51"
+    },
+    {
+      "rating": "4",
+      "percent": "3.8%",
+      "votes": "23"
+    },
+    {
+      "rating": "3",
+      "percent": "3.8%",
+      "votes": "23"
+    },
+    {
+      "rating": "2",
+      "percent": "2.5%",
+      "votes": "15"
+    },
+    {
+      "rating": "1",
+      "percent": "22.0%",
+      "votes": "134"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.3",
+      "votes": "608"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "96"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "167"
+    },
+    "agesOver45": {
+      "rating": "5.2",
+      "votes": "70"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "4.8",
+      "votes": "176"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "3.7",
+      "votes": "31"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "81"
+    },
+    "agesOver45": {
+      "rating": "4.4",
+      "votes": "38"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "188"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "62"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "77"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "30"
+    }
+  },
+  "top1000Voters": {
+    "rating": "2.8",
+    "votes": "12"
+  },
+  "usUsers": {
+    "rating": "5.7",
+    "votes": "82"
+  },
+  "nonUSUsers": {
+    "rating": "5.0",
+    "votes": "173"
+  },
+  "errorMessage": ""
+}

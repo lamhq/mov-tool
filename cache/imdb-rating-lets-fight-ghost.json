@@ -1,0 +1,128 @@
+{
+  "imDbId": "tt14168868",
+  "title": "Let's Fight Ghost",
+  "fullTitle": "Let's Fight Ghost (TV Series 2021\u2013 )",
+  "type": "TVSeries",
+  "year": "2021",
+  "totalRating": "7.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "34.7%",
+      "votes": "34"
+    },
+    {
+      "rating": "9",
+      "percent": "14.3%",
+      "votes": "14"
+    },
+    {
+      "rating": "8",
+      "percent": "12.2%",
+      "votes": "12"
+    },
+    {
+      "rating": "7",
+      "percent": "10.2%",
+      "votes": "10"
+    },
+    {
+      "rating": "6",
+      "percent": "6.1%",
+      "votes": "6"
+    },
+    {
+      "rating": "5",
+      "percent": "1.0%",
+      "votes": "1"
+    },
+    {
+      "rating": "4",
+      "percent": "7.1%",
+      "votes": "7"
+    },
+    {
+      "rating": "3",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "2",
+      "percent": "3.1%",
+      "votes": "3"
+    },
+    {
+      "rating": "1",
+      "percent": "11.2%",
+      "votes": "11"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "98"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "3.0",
+      "votes": "10"
+    },
+    "ages30To44": {
+      "rating": "8.1",
+      "votes": "21"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "17"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "22"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "1.5",
+      "votes": "2"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "9"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "10"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "26"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "8"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "10"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "7"
+    }
+  },
+  "top1000Voters": null,
+  "usUsers": {
+    "rating": "6.7",
+    "votes": "8"
+  },
+  "nonUSUsers": {
+    "rating": "7.1",
+    "votes": "23"
+  },
+  "errorMessage": ""
+}

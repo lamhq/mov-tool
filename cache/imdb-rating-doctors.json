@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt6015808",
+  "title": "Doctor Doctor",
+  "fullTitle": "Doctor Doctor (TV Series 2016\u20132021)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "7.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "26.1%",
+      "votes": "775"
+    },
+    {
+      "rating": "9",
+      "percent": "18.4%",
+      "votes": "547"
+    },
+    {
+      "rating": "8",
+      "percent": "28.5%",
+      "votes": "847"
+    },
+    {
+      "rating": "7",
+      "percent": "15.0%",
+      "votes": "447"
+    },
+    {
+      "rating": "6",
+      "percent": "4.7%",
+      "votes": "141"
+    },
+    {
+      "rating": "5",
+      "percent": "2.1%",
+      "votes": "61"
+    },
+    {
+      "rating": "4",
+      "percent": "0.9%",
+      "votes": "27"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "27"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "29"
+    },
+    {
+      "rating": "1",
+      "percent": "2.4%",
+      "votes": "72"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "2973"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "129"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "559"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "1014"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "842"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "73"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "243"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "433"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "1028"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "56"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "301"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "549"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.5",
+    "votes": "41"
+  },
+  "usUsers": {
+    "rating": "7.9",
+    "votes": "503"
+  },
+  "nonUSUsers": {
+    "rating": "7.4",
+    "votes": "859"
+  },
+  "errorMessage": ""
+}

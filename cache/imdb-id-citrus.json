@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Citrus 2018",
+  "results": [
+    {
+      "id": "tt7521578",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2I3MDkzMjMtZTQxNi00YjQ0LWE3ZWQtNGU3NTk4ODEyNTBmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Citrus",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

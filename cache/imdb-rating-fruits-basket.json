@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt9304350",
+  "title": "Fruits Basket",
+  "fullTitle": "Fruits Basket (TV Series 2019\u20132021)",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "8.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "47.4%",
+      "votes": "2707"
+    },
+    {
+      "rating": "9",
+      "percent": "21.3%",
+      "votes": "1219"
+    },
+    {
+      "rating": "8",
+      "percent": "15.5%",
+      "votes": "886"
+    },
+    {
+      "rating": "7",
+      "percent": "6.7%",
+      "votes": "385"
+    },
+    {
+      "rating": "6",
+      "percent": "2.5%",
+      "votes": "144"
+    },
+    {
+      "rating": "5",
+      "percent": "1.5%",
+      "votes": "88"
+    },
+    {
+      "rating": "4",
+      "percent": "0.8%",
+      "votes": "44"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "25"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "28"
+    },
+    {
+      "rating": "1",
+      "percent": "3.2%",
+      "votes": "185"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "5711"
+    },
+    "agesUnder18": {
+      "rating": "8.2",
+      "votes": "27"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "913"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "806"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "125"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "967"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "436"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "328"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "63"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.9",
+      "votes": "1111"
+    },
+    "agesUnder18": {
+      "rating": "9.3",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "8.9",
+      "votes": "421"
+    },
+    "ages30To44": {
+      "rating": "9.0",
+      "votes": "439"
+    },
+    "agesOver45": {
+      "rating": "8.6",
+      "votes": "57"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.3",
+    "votes": "32"
+  },
+  "usUsers": {
+    "rating": "8.7",
+    "votes": "494"
+  },
+  "nonUSUsers": {
+    "rating": "8.3",
+    "votes": "839"
+  },
+  "errorMessage": ""
+}

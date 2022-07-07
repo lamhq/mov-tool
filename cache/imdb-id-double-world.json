@@ -1,0 +1,14 @@
+{
+  "searchType": "Movie",
+  "expression": "Double World 2020",
+  "results": [
+    {
+      "id": "tt10508838",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmUxMWVhMDEtNTI5ZS00NjNjLWIzY2ItYTFiYThhYWNmYWY3XkEyXkFqcGdeQXVyOTE4ODkzMzA@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Double World",
+      "description": "(2020)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,28 @@
+{
+  "searchType": "Series",
+  "expression": "My Love from the Star 2013",
+  "results": [
+    {
+      "id": "tt19264816",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "My Love from the Star",
+      "description": "(2022) (TV Series)"
+    },
+    {
+      "id": "tt6932632",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjcwMzBkNDQtN2M5Ni00M2Y1LThiN2QtODZiYWRiYzQ2OTRiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio1.0000_AL_.jpg",
+      "title": "My Love from the Star",
+      "description": "(2017) (TV Series)"
+    },
+    {
+      "id": "tt3469052",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTA2MTZhMmQtN2VmOC00NTc4LWE2ZWQtNzc5ZDk5YWE4NDdlXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_Ratio0.7273_AL_.jpg",
+      "title": "My Love from Another Star",
+      "description": "(2013) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

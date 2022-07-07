@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt12343534",
+  "title": "Jujutsu Kaisen",
+  "fullTitle": "Jujutsu Kaisen (TV Series 2020\u2013 )",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "8.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "38.8%",
+      "votes": "19550"
+    },
+    {
+      "rating": "9",
+      "percent": "27.0%",
+      "votes": "13606"
+    },
+    {
+      "rating": "8",
+      "percent": "20.4%",
+      "votes": "10302"
+    },
+    {
+      "rating": "7",
+      "percent": "7.4%",
+      "votes": "3717"
+    },
+    {
+      "rating": "6",
+      "percent": "2.2%",
+      "votes": "1109"
+    },
+    {
+      "rating": "5",
+      "percent": "0.9%",
+      "votes": "476"
+    },
+    {
+      "rating": "4",
+      "percent": "0.5%",
+      "votes": "230"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "158"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "135"
+    },
+    {
+      "rating": "1",
+      "percent": "2.2%",
+      "votes": "1095"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "50378"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "247"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "7673"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "4555"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "476"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "12361"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "176"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "6018"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3777"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "377"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.7",
+      "votes": "2093"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "40"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "1040"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "600"
+    },
+    "agesOver45": {
+      "rating": "8.5",
+      "votes": "81"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.3",
+    "votes": "101"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "2044"
+  },
+  "nonUSUsers": {
+    "rating": "8.4",
+    "votes": "6460"
+  },
+  "errorMessage": ""
+}

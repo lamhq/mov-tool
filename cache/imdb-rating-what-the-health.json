@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5541848",
+  "title": "What the Health",
+  "fullTitle": "What the Health (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "7.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "48.5%",
+      "votes": "14128"
+    },
+    {
+      "rating": "9",
+      "percent": "10.4%",
+      "votes": "3032"
+    },
+    {
+      "rating": "8",
+      "percent": "13.0%",
+      "votes": "3788"
+    },
+    {
+      "rating": "7",
+      "percent": "9.5%",
+      "votes": "2776"
+    },
+    {
+      "rating": "6",
+      "percent": "4.7%",
+      "votes": "1365"
+    },
+    {
+      "rating": "5",
+      "percent": "2.6%",
+      "votes": "751"
+    },
+    {
+      "rating": "4",
+      "percent": "1.6%",
+      "votes": "475"
+    },
+    {
+      "rating": "3",
+      "percent": "1.4%",
+      "votes": "412"
+    },
+    {
+      "rating": "2",
+      "percent": "1.5%",
+      "votes": "427"
+    },
+    {
+      "rating": "1",
+      "percent": "6.8%",
+      "votes": "1994"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "29148"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "4613"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "11150"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "4322"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "11341"
+    },
+    "agesUnder18": {
+      "rating": "5.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "1995"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "6149"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "1907"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "10967"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "2514"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "4817"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "2349"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "106"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "7246"
+  },
+  "nonUSUsers": {
+    "rating": "7.1",
+    "votes": "9787"
+  },
+  "errorMessage": ""
+}

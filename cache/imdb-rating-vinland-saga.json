@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt10233448",
+  "title": "Vinland Saga",
+  "fullTitle": "Vinland Saga (TV Series 2019\u2013 )",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "8.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "40.3%",
+      "votes": "12611"
+    },
+    {
+      "rating": "9",
+      "percent": "31.4%",
+      "votes": "9835"
+    },
+    {
+      "rating": "8",
+      "percent": "17.2%",
+      "votes": "5398"
+    },
+    {
+      "rating": "7",
+      "percent": "5.7%",
+      "votes": "1769"
+    },
+    {
+      "rating": "6",
+      "percent": "1.8%",
+      "votes": "573"
+    },
+    {
+      "rating": "5",
+      "percent": "0.8%",
+      "votes": "242"
+    },
+    {
+      "rating": "4",
+      "percent": "0.4%",
+      "votes": "131"
+    },
+    {
+      "rating": "3",
+      "percent": "0.3%",
+      "votes": "82"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "88"
+    },
+    {
+      "rating": "1",
+      "percent": "1.8%",
+      "votes": "578"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.8",
+      "votes": "31307"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "123"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "5606"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "3899"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "438"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "10519"
+    },
+    "agesUnder18": {
+      "rating": "9.1",
+      "votes": "96"
+    },
+    "ages18To29": {
+      "rating": "8.8",
+      "votes": "4813"
+    },
+    "ages30To44": {
+      "rating": "8.5",
+      "votes": "3519"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "375"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "684"
+    },
+    "agesUnder18": {
+      "rating": "6.6",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "316"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "233"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "43"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.6",
+    "votes": "114"
+  },
+  "usUsers": {
+    "rating": "8.6",
+    "votes": "1454"
+  },
+  "nonUSUsers": {
+    "rating": "8.5",
+    "votes": "5498"
+  },
+  "errorMessage": ""
+}

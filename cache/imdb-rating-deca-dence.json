@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt12443322",
+  "title": "Deca-Dence",
+  "fullTitle": "Deca-Dence (TV Series 2020\u20132020)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "7.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "13.7%",
+      "votes": "162"
+    },
+    {
+      "rating": "9",
+      "percent": "9.5%",
+      "votes": "112"
+    },
+    {
+      "rating": "8",
+      "percent": "22.6%",
+      "votes": "267"
+    },
+    {
+      "rating": "7",
+      "percent": "26.1%",
+      "votes": "308"
+    },
+    {
+      "rating": "6",
+      "percent": "14.9%",
+      "votes": "176"
+    },
+    {
+      "rating": "5",
+      "percent": "6.4%",
+      "votes": "75"
+    },
+    {
+      "rating": "4",
+      "percent": "2.6%",
+      "votes": "31"
+    },
+    {
+      "rating": "3",
+      "percent": "1.2%",
+      "votes": "14"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "12"
+    },
+    {
+      "rating": "1",
+      "percent": "1.9%",
+      "votes": "22"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "1179"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "241"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "279"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "48"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "562"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "206"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "252"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "43"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "59"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "20"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "25"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "5"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.7",
+    "votes": "21"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "96"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "343"
+  },
+  "errorMessage": ""
+}

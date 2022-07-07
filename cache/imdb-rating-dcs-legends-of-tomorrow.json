@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4532368",
+  "title": "DC's Legends of Tomorrow",
+  "fullTitle": "DC's Legends of Tomorrow (TV Series 2016\u20132022)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "6.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "19.1%",
+      "votes": "19634"
+    },
+    {
+      "rating": "9",
+      "percent": "9.1%",
+      "votes": "9351"
+    },
+    {
+      "rating": "8",
+      "percent": "17.7%",
+      "votes": "18282"
+    },
+    {
+      "rating": "7",
+      "percent": "20.4%",
+      "votes": "21028"
+    },
+    {
+      "rating": "6",
+      "percent": "13.1%",
+      "votes": "13452"
+    },
+    {
+      "rating": "5",
+      "percent": "7.6%",
+      "votes": "7777"
+    },
+    {
+      "rating": "4",
+      "percent": "4.0%",
+      "votes": "4144"
+    },
+    {
+      "rating": "3",
+      "percent": "2.5%",
+      "votes": "2596"
+    },
+    {
+      "rating": "2",
+      "percent": "1.9%",
+      "votes": "1947"
+    },
+    {
+      "rating": "1",
+      "percent": "4.7%",
+      "votes": "4793"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.7",
+      "votes": "103004"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "85"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "17571"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "28234"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "10666"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "51566"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "62"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "13803"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "22135"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "8236"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "12637"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "3212"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "5497"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "2211"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "302"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "11759"
+  },
+  "nonUSUsers": {
+    "rating": "6.5",
+    "votes": "27791"
+  },
+  "errorMessage": ""
+}

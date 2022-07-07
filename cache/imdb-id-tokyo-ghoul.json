@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Tokyo Ghoul 2018",
+  "results": [
+    {
+      "id": "tt8213522",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Tokyo Ghoul: re",
+      "description": "(2018) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

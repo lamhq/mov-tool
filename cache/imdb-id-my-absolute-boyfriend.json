@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "My Absolute Boyfriend 2019",
+  "results": [
+    {
+      "id": "tt10183478",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjc4MmU0ZWMtOTZiMC00YzhiLWE4ZGUtYzEwNjY5N2NlZGFkXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_Ratio0.6800_AL_.jpg",
+      "title": "My Absolute Boyfriend",
+      "description": "(2019)"
+    }
+  ],
+  "errorMessage": ""
+}

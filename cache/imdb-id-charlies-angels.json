@@ -1,0 +1,14 @@
+{
+  "searchType": "Movie",
+  "expression": "Charlie's Angels 2019",
+  "results": [
+    {
+      "id": "tt5033998",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Charlie's Angels",
+      "description": "(2019)"
+    }
+  ],
+  "errorMessage": ""
+}

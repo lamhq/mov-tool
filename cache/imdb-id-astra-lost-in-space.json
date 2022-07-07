@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Astra Lost in Space 2019",
+  "results": [
+    {
+      "id": "tt10483250",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTVkZjdmNjAtZmYwMi00YTk2LWI2NGMtMjUxOGI3NTQyZWFhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_Ratio0.6800_AL_.jpg",
+      "title": "Astra Lost in Space",
+      "description": "(2019)"
+    }
+  ],
+  "errorMessage": ""
+}

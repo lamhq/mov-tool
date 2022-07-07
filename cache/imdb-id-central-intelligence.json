@@ -1,0 +1,14 @@
+{
+  "searchType": "Movie",
+  "expression": "Central Intelligence 2016",
+  "results": [
+    {
+      "id": "tt1489889",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Central Intelligence",
+      "description": "(2016)"
+    }
+  ],
+  "errorMessage": ""
+}

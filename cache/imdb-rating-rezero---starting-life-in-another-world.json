@@ -1,0 +1,134 @@
+{
+  "imDbId": "tt13906272",
+  "title": "Re:ZERO -Starting Life in Another World- Season 2",
+  "fullTitle": "Re:ZERO -Starting Life in Another World- Season 2 (TV Series 2020\u20132020)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "8.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "49.2%",
+      "votes": "123"
+    },
+    {
+      "rating": "9",
+      "percent": "15.6%",
+      "votes": "39"
+    },
+    {
+      "rating": "8",
+      "percent": "19.2%",
+      "votes": "48"
+    },
+    {
+      "rating": "7",
+      "percent": "7.6%",
+      "votes": "19"
+    },
+    {
+      "rating": "6",
+      "percent": "1.2%",
+      "votes": "3"
+    },
+    {
+      "rating": "5",
+      "percent": "2.0%",
+      "votes": "5"
+    },
+    {
+      "rating": "4",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "1"
+    },
+    {
+      "rating": "2",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "1",
+      "percent": "4.8%",
+      "votes": "12"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "250"
+    },
+    "agesUnder18": {
+      "rating": "9.8",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "24"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "15"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "3"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "51"
+    },
+    "agesUnder18": {
+      "rating": "9.8",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "20"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "14"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "3"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "3"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "2"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "1"
+    },
+    "agesOver45": null
+  },
+  "top1000Voters": {
+    "rating": "4.0",
+    "votes": "2"
+  },
+  "usUsers": {
+    "rating": "8.4",
+    "votes": "6"
+  },
+  "nonUSUsers": {
+    "rating": "6.9",
+    "votes": "22"
+  },
+  "errorMessage": ""
+}

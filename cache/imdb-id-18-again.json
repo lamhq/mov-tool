@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "18 Again 2020",
+  "results": [
+    {
+      "id": "tt12846096",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2JhYjMyN2YtM2FjMC00YjI1LWE4M2EtNmY2MjI0ZGZmY2M4XkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "18 Again",
+      "description": "(2020) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

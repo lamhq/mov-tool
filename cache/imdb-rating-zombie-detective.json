@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt12937604",
+  "title": "Zombie Detective",
+  "fullTitle": "Zombie Detective (TV Series 2020\u20132020)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "26.1%",
+      "votes": "192"
+    },
+    {
+      "rating": "9",
+      "percent": "12.1%",
+      "votes": "89"
+    },
+    {
+      "rating": "8",
+      "percent": "23.6%",
+      "votes": "174"
+    },
+    {
+      "rating": "7",
+      "percent": "20.0%",
+      "votes": "147"
+    },
+    {
+      "rating": "6",
+      "percent": "9.8%",
+      "votes": "72"
+    },
+    {
+      "rating": "5",
+      "percent": "3.1%",
+      "votes": "23"
+    },
+    {
+      "rating": "4",
+      "percent": "1.6%",
+      "votes": "12"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "5"
+    },
+    {
+      "rating": "2",
+      "percent": "0.8%",
+      "votes": "6"
+    },
+    {
+      "rating": "1",
+      "percent": "2.2%",
+      "votes": "16"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "736"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "84"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "148"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "63"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "195"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "50"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "86"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "31"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "136"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "30"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "55"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "27"
+    }
+  },
+  "top1000Voters": {
+    "rating": "2.0",
+    "votes": "2"
+  },
+  "usUsers": {
+    "rating": "7.6",
+    "votes": "43"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "182"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2637276",
+  "title": "Ted 2",
+  "fullTitle": "Ted 2 (2015)",
+  "type": "Movie",
+  "year": "2015",
+  "totalRating": "6.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.7%",
+      "votes": "11487"
+    },
+    {
+      "rating": "9",
+      "percent": "4.2%",
+      "votes": "8508"
+    },
+    {
+      "rating": "8",
+      "percent": "12.1%",
+      "votes": "24521"
+    },
+    {
+      "rating": "7",
+      "percent": "26.6%",
+      "votes": "54153"
+    },
+    {
+      "rating": "6",
+      "percent": "27.3%",
+      "votes": "55418"
+    },
+    {
+      "rating": "5",
+      "percent": "13.2%",
+      "votes": "26801"
+    },
+    {
+      "rating": "4",
+      "percent": "5.4%",
+      "votes": "10880"
+    },
+    {
+      "rating": "3",
+      "percent": "2.5%",
+      "votes": "5070"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "2780"
+    },
+    {
+      "rating": "1",
+      "percent": "1.8%",
+      "votes": "3606"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "203224"
+    },
+    "agesUnder18": {
+      "rating": "6.6",
+      "votes": "117"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "40645"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "77695"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "14976"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "124948"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "89"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "33676"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "67042"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "13245"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "18447"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "5771"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "9415"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "1467"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "505"
+  },
+  "usUsers": {
+    "rating": "6.3",
+    "votes": "20829"
+  },
+  "nonUSUsers": {
+    "rating": "6.2",
+    "votes": "81723"
+  },
+  "errorMessage": ""
+}

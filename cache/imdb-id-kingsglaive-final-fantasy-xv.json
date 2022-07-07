@@ -1,0 +1,21 @@
+{
+  "searchType": "Movie",
+  "expression": "Kingsglaive: Final Fantasy XV 2016",
+  "results": [
+    {
+      "id": "tt5595168",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Kingsglaive: Final Fantasy XV",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt6280994",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTFiMDlhZjctNjliNy00ODRjLThlNDQtNmI2OWI5M2RkNzM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTU0NDgwMzA@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Kingsglaive: Final Fantasy XV - Battle Scene",
+      "description": "(2016)"
+    }
+  ],
+  "errorMessage": ""
+}

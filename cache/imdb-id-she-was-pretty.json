@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "She was pretty 2015",
+  "results": [
+    {
+      "id": "tt5045900",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmM5YTc5MmEtMzRjNi00NWVlLTkyMmItNTRhMjViY2JlNzE0XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_Ratio0.6800_AL_.jpg",
+      "title": "She Was Pretty",
+      "description": "(2015)"
+    }
+  ],
+  "errorMessage": ""
+}

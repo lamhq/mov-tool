@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1648190",
+  "title": "The Dark Tower",
+  "fullTitle": "The Dark Tower (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "5.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "3.8%",
+      "votes": "5206"
+    },
+    {
+      "rating": "9",
+      "percent": "2.4%",
+      "votes": "3288"
+    },
+    {
+      "rating": "8",
+      "percent": "7.2%",
+      "votes": "9887"
+    },
+    {
+      "rating": "7",
+      "percent": "18.1%",
+      "votes": "24891"
+    },
+    {
+      "rating": "6",
+      "percent": "27.0%",
+      "votes": "37068"
+    },
+    {
+      "rating": "5",
+      "percent": "20.2%",
+      "votes": "27764"
+    },
+    {
+      "rating": "4",
+      "percent": "9.8%",
+      "votes": "13519"
+    },
+    {
+      "rating": "3",
+      "percent": "5.2%",
+      "votes": "7188"
+    },
+    {
+      "rating": "2",
+      "percent": "2.9%",
+      "votes": "3927"
+    },
+    {
+      "rating": "1",
+      "percent": "3.4%",
+      "votes": "4703"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.6",
+      "votes": "137441"
+    },
+    "agesUnder18": {
+      "rating": "5.3",
+      "votes": "34"
+    },
+    "ages18To29": {
+      "rating": "5.6",
+      "votes": "16377"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "57587"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "19552"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.5",
+      "votes": "85787"
+    },
+    "agesUnder18": {
+      "rating": "4.9",
+      "votes": "26"
+    },
+    "ages18To29": {
+      "rating": "5.5",
+      "votes": "13122"
+    },
+    "ages30To44": {
+      "rating": "5.5",
+      "votes": "48321"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "16535"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.9",
+      "votes": "15485"
+    },
+    "agesUnder18": {
+      "rating": "6.4",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "5.8",
+      "votes": "2844"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "8362"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "2639"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.2",
+    "votes": "503"
+  },
+  "usUsers": {
+    "rating": "5.6",
+    "votes": "14845"
+  },
+  "nonUSUsers": {
+    "rating": "5.5",
+    "votes": "60143"
+  },
+  "errorMessage": ""
+}

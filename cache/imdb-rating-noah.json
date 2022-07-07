@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1959490",
+  "title": "Noah",
+  "fullTitle": "Noah (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "totalRating": "5.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "4.8%",
+      "votes": "12111"
+    },
+    {
+      "rating": "9",
+      "percent": "3.3%",
+      "votes": "8464"
+    },
+    {
+      "rating": "8",
+      "percent": "9.3%",
+      "votes": "23536"
+    },
+    {
+      "rating": "7",
+      "percent": "18.7%",
+      "votes": "47395"
+    },
+    {
+      "rating": "6",
+      "percent": "23.2%",
+      "votes": "58714"
+    },
+    {
+      "rating": "5",
+      "percent": "16.6%",
+      "votes": "42130"
+    },
+    {
+      "rating": "4",
+      "percent": "8.7%",
+      "votes": "22009"
+    },
+    {
+      "rating": "3",
+      "percent": "5.0%",
+      "votes": "12723"
+    },
+    {
+      "rating": "2",
+      "percent": "3.4%",
+      "votes": "8672"
+    },
+    {
+      "rating": "1",
+      "percent": "7.0%",
+      "votes": "17652"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "253406"
+    },
+    "agesUnder18": {
+      "rating": "5.3",
+      "votes": "45"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "38402"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "117750"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "32917"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "167301"
+    },
+    "agesUnder18": {
+      "rating": "5.7",
+      "votes": "33"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "29745"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "97648"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "27485"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "34242"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "7982"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "18484"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "4824"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.6",
+    "votes": "580"
+  },
+  "usUsers": {
+    "rating": "5.7",
+    "votes": "29570"
+  },
+  "nonUSUsers": {
+    "rating": "5.8",
+    "votes": "116340"
+  },
+  "errorMessage": ""
+}

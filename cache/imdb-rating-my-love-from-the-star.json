@@ -1,0 +1,116 @@
+{
+  "imDbId": "tt19264816",
+  "title": "My Love from the Star",
+  "fullTitle": "My Love from the Star (TV Series 2022\u2013 )",
+  "type": "TVSeries",
+  "year": "2022",
+  "totalRating": "7.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "14.3%",
+      "votes": "1"
+    },
+    {
+      "rating": "9",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "8",
+      "percent": "28.6%",
+      "votes": "2"
+    },
+    {
+      "rating": "7",
+      "percent": "14.3%",
+      "votes": "1"
+    },
+    {
+      "rating": "6",
+      "percent": "28.6%",
+      "votes": "2"
+    },
+    {
+      "rating": "5",
+      "percent": "14.3%",
+      "votes": "1"
+    },
+    {
+      "rating": "4",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "3",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "2",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "1",
+      "percent": "0%",
+      "votes": "0"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "7"
+    },
+    "agesUnder18": null,
+    "ages18To29": null,
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "3"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.0",
+      "votes": "3"
+    },
+    "agesUnder18": null,
+    "ages18To29": null,
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "agesOver45": {
+      "rating": "6.5",
+      "votes": "2"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.0",
+      "votes": "1"
+    },
+    "agesUnder18": null,
+    "ages18To29": null,
+    "ages30To44": null,
+    "agesOver45": {
+      "rating": "5.0",
+      "votes": "1"
+    }
+  },
+  "top1000Voters": null,
+  "usUsers": {
+    "rating": "6.5",
+    "votes": "2"
+  },
+  "nonUSUsers": {
+    "rating": "6.5",
+    "votes": "2"
+  },
+  "errorMessage": ""
+}

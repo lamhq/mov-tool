@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt12846096",
+  "title": "18 Again",
+  "fullTitle": "18 Again (TV Series 2020\u20132020)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "8.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "33.8%",
+      "votes": "576"
+    },
+    {
+      "rating": "9",
+      "percent": "22.0%",
+      "votes": "375"
+    },
+    {
+      "rating": "8",
+      "percent": "24.3%",
+      "votes": "413"
+    },
+    {
+      "rating": "7",
+      "percent": "11.9%",
+      "votes": "202"
+    },
+    {
+      "rating": "6",
+      "percent": "2.8%",
+      "votes": "48"
+    },
+    {
+      "rating": "5",
+      "percent": "2.4%",
+      "votes": "41"
+    },
+    {
+      "rating": "4",
+      "percent": "0.9%",
+      "votes": "16"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "6"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "8"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "18"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.2",
+      "votes": "1703"
+    },
+    "agesUnder18": {
+      "rating": "8.9",
+      "votes": "5"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "274"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "243"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "54"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "342"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "8.4",
+      "votes": "131"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "129"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "37"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "295"
+    },
+    "agesUnder18": {
+      "rating": "8.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "119"
+    },
+    "ages30To44": {
+      "rating": "8.1",
+      "votes": "105"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "13"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "3"
+  },
+  "usUsers": {
+    "rating": "7.9",
+    "votes": "63"
+  },
+  "nonUSUsers": {
+    "rating": "8.0",
+    "votes": "339"
+  },
+  "errorMessage": ""
+}

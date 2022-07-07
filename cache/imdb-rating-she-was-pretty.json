@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5045900",
+  "title": "She Was Pretty",
+  "fullTitle": "She Was Pretty (TV Series 2015\u20132015)",
+  "type": "TVSeries",
+  "year": "2015",
+  "totalRating": "7.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "19.2%",
+      "votes": "914"
+    },
+    {
+      "rating": "9",
+      "percent": "15.4%",
+      "votes": "736"
+    },
+    {
+      "rating": "8",
+      "percent": "25.6%",
+      "votes": "1221"
+    },
+    {
+      "rating": "7",
+      "percent": "21.5%",
+      "votes": "1024"
+    },
+    {
+      "rating": "6",
+      "percent": "10.3%",
+      "votes": "492"
+    },
+    {
+      "rating": "5",
+      "percent": "4.2%",
+      "votes": "198"
+    },
+    {
+      "rating": "4",
+      "percent": "1.6%",
+      "votes": "75"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "26"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "24"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "57"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "4767"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "952"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "1000"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "260"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "556"
+    },
+    "agesUnder18": {
+      "rating": "4.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "175"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "229"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "70"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "1953"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "718"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "745"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "181"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.3",
+    "votes": "13"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "313"
+  },
+  "nonUSUsers": {
+    "rating": "7.5",
+    "votes": "1269"
+  },
+  "errorMessage": ""
+}

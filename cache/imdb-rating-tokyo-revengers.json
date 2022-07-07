@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt13196080",
+  "title": "Tokyo Revengers",
+  "fullTitle": "Tokyo Revengers (TV Series 2021\u2013 )",
+  "type": "TVSeries",
+  "year": "2021",
+  "totalRating": "8.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "39.0%",
+      "votes": "5431"
+    },
+    {
+      "rating": "9",
+      "percent": "20.2%",
+      "votes": "2814"
+    },
+    {
+      "rating": "8",
+      "percent": "19.3%",
+      "votes": "2688"
+    },
+    {
+      "rating": "7",
+      "percent": "9.9%",
+      "votes": "1372"
+    },
+    {
+      "rating": "6",
+      "percent": "4.2%",
+      "votes": "584"
+    },
+    {
+      "rating": "5",
+      "percent": "1.8%",
+      "votes": "253"
+    },
+    {
+      "rating": "4",
+      "percent": "1.0%",
+      "votes": "136"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "96"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "73"
+    },
+    {
+      "rating": "1",
+      "percent": "3.4%",
+      "votes": "480"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "13927"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "99"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "1813"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "996"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "116"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "2859"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "74"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "1412"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "824"
+    },
+    "agesOver45": {
+      "rating": "6.9",
+      "votes": "96"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.2",
+      "votes": "491"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "256"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "124"
+    },
+    "agesOver45": {
+      "rating": "8.8",
+      "votes": "13"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "42"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "418"
+  },
+  "nonUSUsers": {
+    "rating": "7.8",
+    "votes": "1527"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,14 @@
+{
+  "searchType": "Movie",
+  "expression": "What the Health 2017",
+  "results": [
+    {
+      "id": "tt5541848",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYWU3ZTk1ZDgtNTFlOC00MGRjLWFiZmQtYmI0Y2JjMmI5YTBkXkEyXkFqcGdeQXVyNzI5MjI4MTc@._V1_Ratio0.7600_AL_.jpg",
+      "title": "What the Health",
+      "description": "(2017)"
+    }
+  ],
+  "errorMessage": ""
+}

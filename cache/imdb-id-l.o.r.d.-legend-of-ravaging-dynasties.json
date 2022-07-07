@@ -1,0 +1,21 @@
+{
+  "searchType": "Movie",
+  "expression": "L.O.R.D.: Legend of Ravaging Dynasties 2016",
+  "results": [
+    {
+      "id": "tt10701926",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTdjOTVmNWMtOTJhOC00MzBkLTgwN2UtNzY2Y2RkYWRhYzlkXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "L.O.R.D: Legend of Ravaging Dynasties 2",
+      "description": "(2020)"
+    },
+    {
+      "id": "tt4819576",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmZhNmU3ZDEtNGM3Ni00NGY2LWFjODItZTZjMDg4NDY2N2Y4XkEyXkFqcGdeQXVyMzI2NzE3MDc@._V1_Ratio0.7273_AL_.jpg",
+      "title": "L.O.R.D: Legend of Ravaging Dynasties",
+      "description": "(2016)"
+    }
+  ],
+  "errorMessage": ""
+}

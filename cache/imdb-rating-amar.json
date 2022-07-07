@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt5479616",
+  "title": "Amar",
+  "fullTitle": "Amar (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "5.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "4.3%",
+      "votes": "190"
+    },
+    {
+      "rating": "9",
+      "percent": "2.1%",
+      "votes": "95"
+    },
+    {
+      "rating": "8",
+      "percent": "5.6%",
+      "votes": "250"
+    },
+    {
+      "rating": "7",
+      "percent": "13.0%",
+      "votes": "580"
+    },
+    {
+      "rating": "6",
+      "percent": "21.3%",
+      "votes": "951"
+    },
+    {
+      "rating": "5",
+      "percent": "21.9%",
+      "votes": "974"
+    },
+    {
+      "rating": "4",
+      "percent": "13.7%",
+      "votes": "612"
+    },
+    {
+      "rating": "3",
+      "percent": "7.3%",
+      "votes": "326"
+    },
+    {
+      "rating": "2",
+      "percent": "4.3%",
+      "votes": "192"
+    },
+    {
+      "rating": "1",
+      "percent": "6.4%",
+      "votes": "286"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.1",
+      "votes": "4456"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.1",
+      "votes": "817"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "1515"
+    },
+    "agesOver45": {
+      "rating": "5.2",
+      "votes": "541"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.1",
+      "votes": "1925"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.0",
+      "votes": "348"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "966"
+    },
+    "agesOver45": {
+      "rating": "5.2",
+      "votes": "449"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.1",
+      "votes": "1134"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.0",
+      "votes": "425"
+    },
+    "ages30To44": {
+      "rating": "5.3",
+      "votes": "514"
+    },
+    "agesOver45": {
+      "rating": "5.0",
+      "votes": "83"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.5",
+    "votes": "54"
+  },
+  "usUsers": {
+    "rating": "5.5",
+    "votes": "298"
+  },
+  "nonUSUsers": {
+    "rating": "5.1",
+    "votes": "1974"
+  },
+  "errorMessage": ""
+}

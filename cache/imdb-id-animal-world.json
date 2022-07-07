@@ -1,0 +1,28 @@
+{
+  "searchType": "Movie",
+  "expression": "Animal World 2018",
+  "results": [
+    {
+      "id": "tt7946836",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjhjY2E3MzMtZDBmMC00YmJlLWFkMjEtZTZhYjYyNWIyZDVlXkEyXkFqcGdeQXVyODk5NDYzNzM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Animal World",
+      "description": "(2018)"
+    },
+    {
+      "id": "tt9257932",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTQ1NzY0MDUtMjE3OC00NzcyLWIyZWUtYjBiN2FmMzYzZWM4XkEyXkFqcGdeQXVyNjkzMTEwMDY@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Animal World",
+      "description": "(2018)"
+    },
+    {
+      "id": "tt8657714",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Save the Animals, Save the World: Crocodiles",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

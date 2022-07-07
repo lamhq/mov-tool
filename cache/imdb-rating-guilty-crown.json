@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2122656",
+  "title": "Guilty Crown",
+  "fullTitle": "Guilty Crown (TV Series 2011\u20132012)",
+  "type": "TVSeries",
+  "year": "2011",
+  "totalRating": "7.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "17.0%",
+      "votes": "842"
+    },
+    {
+      "rating": "9",
+      "percent": "12.1%",
+      "votes": "597"
+    },
+    {
+      "rating": "8",
+      "percent": "21.9%",
+      "votes": "1082"
+    },
+    {
+      "rating": "7",
+      "percent": "21.6%",
+      "votes": "1069"
+    },
+    {
+      "rating": "6",
+      "percent": "11.3%",
+      "votes": "557"
+    },
+    {
+      "rating": "5",
+      "percent": "6.1%",
+      "votes": "302"
+    },
+    {
+      "rating": "4",
+      "percent": "3.6%",
+      "votes": "179"
+    },
+    {
+      "rating": "3",
+      "percent": "2.2%",
+      "votes": "111"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "71"
+    },
+    {
+      "rating": "1",
+      "percent": "2.8%",
+      "votes": "141"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "4951"
+    },
+    "agesUnder18": {
+      "rating": "7.2",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "1323"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "1213"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "149"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "2485"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "1071"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "1018"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "121"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "470"
+    },
+    "agesUnder18": {
+      "rating": "2.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "212"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "180"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "26"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.6",
+    "votes": "36"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "433"
+  },
+  "nonUSUsers": {
+    "rating": "7.0",
+    "votes": "1563"
+  },
+  "errorMessage": ""
+}

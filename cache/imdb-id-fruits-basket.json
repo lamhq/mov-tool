@@ -1,0 +1,28 @@
+{
+  "searchType": "Series",
+  "expression": "Fruits Basket 2021",
+  "results": [
+    {
+      "id": "tt9304350",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTYyYmFkMGMtN2YwNi00MDVjLWFmNWUtMTRjYWNhZmY4NGI0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Fruits Basket",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt0328738",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDVkMzZmMjgtMzM0Yi00ZjBmLWE2MzgtYzBiYjEyNmYzODIzXkEyXkFqcGdeQXVyNzI1MDI1NDU@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Fruits Basket",
+      "description": "(2001) (TV Series)"
+    },
+    {
+      "id": "tt11909596",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Fruits Basket Abridged",
+      "description": "(2010) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,70 @@
+{
+  "searchType": "Movie",
+  "expression": "Ted 2 2015",
+  "results": [
+    {
+      "id": "tt2637276",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2",
+      "description": "(2015)"
+    },
+    {
+      "id": "tt8884166",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2: Deleted Scenes",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt13380200",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2 Bonus Disc: The New Girl",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt8884170",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2: Gag Reel",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt13380216",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2 Bonus Disc: What it Means to be Human",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt4813660",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "A New Breed: Ted Kotcheff Remembers Billy Two Hats",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt13380204",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2 Bonus Disc: Wedding of the Century",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt13380222",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2 Bonus Disc: A Day in the Life of a Stuffy",
+      "description": "(2015 Video)"
+    },
+    {
+      "id": "tt13380218",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Ted 2 Bonus Disc: Where Do All the Teds Come From",
+      "description": "(2015 Video)"
+    }
+  ],
+  "errorMessage": ""
+}

@@ -10,7 +10,9 @@ Script to automate personal tasks
 - [x] rename Rating to Imdb Rating
 - [x] add Netflix Link column
 - [x] filter movie by Type, Netflix Original
-- [ ] refactor code of updateMovieDb: move Rating logic out
+- [x] refactor code of updateMovieDb: move Rating logic out
+- [x] add column imdb id
+- [x] update movie rating
 - [ ] find last day to watch
 - [ ] add Imdb Link column
 - [ ] find and download imdb rating database

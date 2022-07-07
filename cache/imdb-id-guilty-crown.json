@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Guilty Crown 2011",
+  "results": [
+    {
+      "id": "tt2122656",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjE5NmU2NTEtNTRjNS00MWM0LWJkNTctM2RmNTRkMjA5OGYyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Guilty Crown",
+      "description": "(2011\u20132012)"
+    }
+  ],
+  "errorMessage": ""
+}

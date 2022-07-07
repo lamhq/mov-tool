@@ -1,0 +1,21 @@
+{
+  "searchType": "Movie",
+  "expression": "The Invisible Man 2020",
+  "results": [
+    {
+      "id": "tt1051906",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6800_AL_.jpg",
+      "title": "The Invisible Man",
+      "description": "(I) (2020)"
+    },
+    {
+      "id": "tt12477640",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzkzMzc3ODctNDI3Yi00MzVmLWEwOWQtNjc0MmQwYjVkODRjXkEyXkFqcGdeQXVyMjYyODAxNjI@._V1_Ratio0.6800_AL_.jpg",
+      "title": "The Invisible Man",
+      "description": "(II) (2020)"
+    }
+  ],
+  "errorMessage": ""
+}

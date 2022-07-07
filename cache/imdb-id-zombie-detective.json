@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Zombie Detective 2020",
+  "results": [
+    {
+      "id": "tt12937604",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGRkODMzNTktODk5Ny00M2RkLWJjODYtMmM4MGEwYWEwMDMxXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Zombie Detective",
+      "description": "(2020)"
+    }
+  ],
+  "errorMessage": ""
+}

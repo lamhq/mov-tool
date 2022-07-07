@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt6055498",
+  "title": "Love O2O",
+  "fullTitle": "Love O2O (TV Series 2016\u2013 )",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "7.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "38.2%",
+      "votes": "955"
+    },
+    {
+      "rating": "9",
+      "percent": "16.8%",
+      "votes": "421"
+    },
+    {
+      "rating": "8",
+      "percent": "18.6%",
+      "votes": "464"
+    },
+    {
+      "rating": "7",
+      "percent": "11.0%",
+      "votes": "274"
+    },
+    {
+      "rating": "6",
+      "percent": "5.8%",
+      "votes": "146"
+    },
+    {
+      "rating": "5",
+      "percent": "2.8%",
+      "votes": "71"
+    },
+    {
+      "rating": "4",
+      "percent": "1.8%",
+      "votes": "45"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "25"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "26"
+    },
+    {
+      "rating": "1",
+      "percent": "2.9%",
+      "votes": "72"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "2499"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "360"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "444"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "167"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "253"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "90"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "92"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "34"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "855"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "246"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "329"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "124"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.5",
+    "votes": "6"
+  },
+  "usUsers": {
+    "rating": "7.8",
+    "votes": "233"
+  },
+  "nonUSUsers": {
+    "rating": "7.5",
+    "votes": "466"
+  },
+  "errorMessage": ""
+}

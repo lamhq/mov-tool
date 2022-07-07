@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt6050174",
+  "title": "Assassination Classroom: Koro-sensei Q!",
+  "fullTitle": "Assassination Classroom: Koro-sensei Q! (TV Series 2016\u20132017)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "6.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "21.2%",
+      "votes": "51"
+    },
+    {
+      "rating": "9",
+      "percent": "5.8%",
+      "votes": "14"
+    },
+    {
+      "rating": "8",
+      "percent": "12.9%",
+      "votes": "31"
+    },
+    {
+      "rating": "7",
+      "percent": "20.3%",
+      "votes": "49"
+    },
+    {
+      "rating": "6",
+      "percent": "14.5%",
+      "votes": "35"
+    },
+    {
+      "rating": "5",
+      "percent": "7.1%",
+      "votes": "17"
+    },
+    {
+      "rating": "4",
+      "percent": "5.8%",
+      "votes": "14"
+    },
+    {
+      "rating": "3",
+      "percent": "2.9%",
+      "votes": "7"
+    },
+    {
+      "rating": "2",
+      "percent": "1.2%",
+      "votes": "3"
+    },
+    {
+      "rating": "1",
+      "percent": "8.3%",
+      "votes": "20"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.6",
+      "votes": "241"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "48"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "53"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "7"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "100"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "40"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "41"
+    },
+    "agesOver45": {
+      "rating": "5.0",
+      "votes": "4"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "29"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "6"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "11"
+    },
+    "agesOver45": {
+      "rating": "5.5",
+      "votes": "3"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.9",
+    "votes": "9"
+  },
+  "usUsers": {
+    "rating": "6.8",
+    "votes": "22"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "66"
+  },
+  "errorMessage": ""
+}

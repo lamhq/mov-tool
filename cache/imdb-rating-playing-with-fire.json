@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt9134216",
+  "title": "Playing with Fire",
+  "fullTitle": "Playing with Fire (2019)",
+  "type": "Movie",
+  "year": "2019",
+  "totalRating": "5.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "7.2%",
+      "votes": "1053"
+    },
+    {
+      "rating": "9",
+      "percent": "2.7%",
+      "votes": "389"
+    },
+    {
+      "rating": "8",
+      "percent": "6.4%",
+      "votes": "938"
+    },
+    {
+      "rating": "7",
+      "percent": "12.3%",
+      "votes": "1796"
+    },
+    {
+      "rating": "6",
+      "percent": "19.7%",
+      "votes": "2868"
+    },
+    {
+      "rating": "5",
+      "percent": "20.2%",
+      "votes": "2938"
+    },
+    {
+      "rating": "4",
+      "percent": "11.8%",
+      "votes": "1719"
+    },
+    {
+      "rating": "3",
+      "percent": "7.2%",
+      "votes": "1056"
+    },
+    {
+      "rating": "2",
+      "percent": "5.2%",
+      "votes": "762"
+    },
+    {
+      "rating": "1",
+      "percent": "7.2%",
+      "votes": "1049"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.1",
+      "votes": "14568"
+    },
+    "agesUnder18": {
+      "rating": "5.8",
+      "votes": "24"
+    },
+    "ages18To29": {
+      "rating": "5.0",
+      "votes": "1707"
+    },
+    "ages30To44": {
+      "rating": "5.0",
+      "votes": "5114"
+    },
+    "agesOver45": {
+      "rating": "5.1",
+      "votes": "2113"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.0",
+      "votes": "7798"
+    },
+    "agesUnder18": {
+      "rating": "7.3",
+      "votes": "15"
+    },
+    "ages18To29": {
+      "rating": "4.9",
+      "votes": "1264"
+    },
+    "ages30To44": {
+      "rating": "4.9",
+      "votes": "4078"
+    },
+    "agesOver45": {
+      "rating": "5.0",
+      "votes": "1677"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "5.4",
+      "votes": "1912"
+    },
+    "agesUnder18": {
+      "rating": "4.1",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "5.3",
+      "votes": "338"
+    },
+    "ages30To44": {
+      "rating": "5.2",
+      "votes": "916"
+    },
+    "agesOver45": {
+      "rating": "5.8",
+      "votes": "389"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.5",
+    "votes": "176"
+  },
+  "usUsers": {
+    "rating": "5.1",
+    "votes": "2261"
+  },
+  "nonUSUsers": {
+    "rating": "4.9",
+    "votes": "4893"
+  },
+  "errorMessage": ""
+}

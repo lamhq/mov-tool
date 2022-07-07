@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "VINLAND SAGA 2019",
+  "results": [
+    {
+      "id": "tt10233448",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMWE4OWE0NmMtYjlmOC00NGE1LWJiNDItNDgxNzVjYzViMGQ3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Vinland Saga",
+      "description": "(2019\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

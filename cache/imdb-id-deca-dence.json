@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Deca-Dence 2020",
+  "results": [
+    {
+      "id": "tt12443322",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZDA3ZjQ5YjYtODkxNC00OTE3LTg5YjctYzk1NzJhMjAyZmFiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Deca-Dence",
+      "description": "(2020)"
+    }
+  ],
+  "errorMessage": ""
+}

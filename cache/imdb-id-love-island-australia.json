@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Love Island Australia 2021",
+  "results": [
+    {
+      "id": "tt8467296",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmUyNGEzMmUtZGNiMS00MDg5LWE4MGUtNjdhNGI4Zjc0YjljXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Love Island Australia",
+      "description": "(2018) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

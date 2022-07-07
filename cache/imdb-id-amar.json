@@ -1,0 +1,56 @@
+{
+  "searchType": "Movie",
+  "expression": "Amar 2017",
+  "results": [
+    {
+      "id": "tt5479616",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTIxZDRmYTgtYzU3YS00MTgwLTg2MTktMTM1ODcyNWQzMjM3XkEyXkFqcGdeQXVyMzY2NTg0NTA@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Amar",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt6514010",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2U5NjM3MzktZmM2Zi00N2EzLTllNTUtMjFhMmQ3YTg1ZTZmXkEyXkFqcGdeQXVyNzI0NzQyNTk@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Long Live Brij Mohan",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt7998046",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjEwOTNmYmQtZTJiNS00NzA2LTk4NmItZDJhMjExODMwOWZhXkEyXkFqcGdeQXVyODM0ODQ5NDM@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Amar Aponjon",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt9168212",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmZjZTM5MmEtYmY4Ni00MmNkLTlhZmEtODcwYjBmYjkwMDVkXkEyXkFqcGdeQXVyOTY5NDU3MjI@._V1_Ratio1.0000_AL_.jpg",
+      "title": "Amar y Vivir",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt6521112",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNWExMjUyY2EtOWNhYy00YTc0LWE3MTctMDc0YmU4NDg1ZTFlXkEyXkFqcGdeQXVyNDE3ODQwNTI@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Memento Amare",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt7997314",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDVmYzdhOWMtNTFhYi00YTVlLWJlNzctZDFlOWQ5NTRhZDUyXkEyXkFqcGdeQXVyODUyMzcyNDg@._V1_Ratio0.8800_AL_.jpg",
+      "title": "Sem Amar",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt12445348",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjI5YjI5YmQtYzk0Ni00ZTE4LWI0MWItYjA1MzNmNzE0YjExXkEyXkFqcGdeQXVyNzQ5NjQ4NDA@._V1_Ratio0.7600_AL_.jpg",
+      "title": "Amor, amar y caf\u00e9",
+      "description": "(2017)"
+    }
+  ],
+  "errorMessage": ""
+}

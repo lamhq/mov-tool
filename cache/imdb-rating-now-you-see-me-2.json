@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt3110958",
+  "title": "Now You See Me 2",
+  "fullTitle": "Now You See Me 2 (2016)",
+  "type": "Movie",
+  "year": "2016",
+  "totalRating": "6.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.4%",
+      "votes": "18063"
+    },
+    {
+      "rating": "9",
+      "percent": "5.6%",
+      "votes": "15735"
+    },
+    {
+      "rating": "8",
+      "percent": "14.5%",
+      "votes": "40635"
+    },
+    {
+      "rating": "7",
+      "percent": "29.4%",
+      "votes": "82658"
+    },
+    {
+      "rating": "6",
+      "percent": "24.6%",
+      "votes": "69022"
+    },
+    {
+      "rating": "5",
+      "percent": "10.8%",
+      "votes": "30212"
+    },
+    {
+      "rating": "4",
+      "percent": "4.4%",
+      "votes": "12483"
+    },
+    {
+      "rating": "3",
+      "percent": "2.0%",
+      "votes": "5615"
+    },
+    {
+      "rating": "2",
+      "percent": "1.1%",
+      "votes": "3010"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "3462"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "280895"
+    },
+    "agesUnder18": {
+      "rating": "6.9",
+      "votes": "195"
+    },
+    "ages18To29": {
+      "rating": "6.7",
+      "votes": "55102"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "94901"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "21071"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "147690"
+    },
+    "agesUnder18": {
+      "rating": "6.8",
+      "votes": "134"
+    },
+    "ages18To29": {
+      "rating": "6.6",
+      "votes": "39266"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "75678"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "17554"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "39184"
+    },
+    "agesUnder18": {
+      "rating": "6.9",
+      "votes": "38"
+    },
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "13846"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "17567"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "3058"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.9",
+    "votes": "553"
+  },
+  "usUsers": {
+    "rating": "6.3",
+    "votes": "21827"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "108707"
+  },
+  "errorMessage": ""
+}

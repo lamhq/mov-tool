@@ -1,0 +1,134 @@
+{
+  "imDbId": "tt11569628",
+  "title": "Find Yourself",
+  "fullTitle": "Find Yourself (TV Series 2020\u2013 )",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "7.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "22.3%",
+      "votes": "45"
+    },
+    {
+      "rating": "9",
+      "percent": "17.3%",
+      "votes": "35"
+    },
+    {
+      "rating": "8",
+      "percent": "25.2%",
+      "votes": "51"
+    },
+    {
+      "rating": "7",
+      "percent": "14.4%",
+      "votes": "29"
+    },
+    {
+      "rating": "6",
+      "percent": "9.9%",
+      "votes": "20"
+    },
+    {
+      "rating": "5",
+      "percent": "4.5%",
+      "votes": "9"
+    },
+    {
+      "rating": "4",
+      "percent": "1.0%",
+      "votes": "2"
+    },
+    {
+      "rating": "3",
+      "percent": "2.5%",
+      "votes": "5"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "2"
+    },
+    {
+      "rating": "1",
+      "percent": "2.0%",
+      "votes": "4"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "202"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "24"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "33"
+    },
+    "agesOver45": {
+      "rating": "8.3",
+      "votes": "27"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "25"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "10"
+    },
+    "ages30To44": {
+      "rating": "6.0",
+      "votes": "6"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "8"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "65"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "13"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "25"
+    },
+    "agesOver45": {
+      "rating": "8.6",
+      "votes": "17"
+    }
+  },
+  "top1000Voters": null,
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "20"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "44"
+  },
+  "errorMessage": ""
+}

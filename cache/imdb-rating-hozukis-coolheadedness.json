@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt3306838",
+  "title": "Hozuki's Coolheadedness",
+  "fullTitle": "Hozuki's Coolheadedness (TV Series 2014\u2013 )",
+  "type": "TVSeries",
+  "year": "2014",
+  "totalRating": "7.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "15.5%",
+      "votes": "39"
+    },
+    {
+      "rating": "9",
+      "percent": "9.1%",
+      "votes": "23"
+    },
+    {
+      "rating": "8",
+      "percent": "27.8%",
+      "votes": "70"
+    },
+    {
+      "rating": "7",
+      "percent": "22.6%",
+      "votes": "57"
+    },
+    {
+      "rating": "6",
+      "percent": "11.5%",
+      "votes": "29"
+    },
+    {
+      "rating": "5",
+      "percent": "6.7%",
+      "votes": "17"
+    },
+    {
+      "rating": "4",
+      "percent": "2.4%",
+      "votes": "6"
+    },
+    {
+      "rating": "3",
+      "percent": "0.4%",
+      "votes": "1"
+    },
+    {
+      "rating": "2",
+      "percent": "1.6%",
+      "votes": "4"
+    },
+    {
+      "rating": "1",
+      "percent": "2.4%",
+      "votes": "6"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "252"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "45"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "85"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "14"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "96"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "23"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "56"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "12"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "58"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "18"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "28"
+    },
+    "agesOver45": {
+      "rating": "8.5",
+      "votes": "2"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "12"
+  },
+  "usUsers": {
+    "rating": "7.1",
+    "votes": "26"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "90"
+  },
+  "errorMessage": ""
+}

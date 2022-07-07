@@ -1,0 +1,56 @@
+{
+  "searchType": "Movie",
+  "expression": "Playing with Fire 2019",
+  "results": [
+    {
+      "id": "tt9134216",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTg4YjQyMDAtZWFiYi00OTMzLWJiYTgtMzRiNWMzMTAzMDQ0XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Playing with Fire",
+      "description": "(I) (2019)"
+    },
+    {
+      "id": "tt11483514",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMzA4Nzk4YjgtN2QyMS00NGZiLWEyM2MtZjAxNzQ4YjdlYzc3XkEyXkFqcGdeQXVyMjY2OTU0MTg@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Marvel Rising: Playing with Fire",
+      "description": "(2019 TV Short)"
+    },
+    {
+      "id": "tt8941986",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmFhZTcwNGMtYzQxYS00MmJjLWE2NDYtZTQ2YjRjMDljNTQxXkEyXkFqcGdeQXVyMTQxNzE3ODA3._V1_Ratio0.6800_AL_.jpg",
+      "title": "Playing with FIRE: The Documentary",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt6335714",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMWI5ZmE5MTUtNGJhMS00ODZiLWFjNmUtOGM3YjI2M2IxZmY3XkEyXkFqcGdeQXVyNjg3NTY3OQ@@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Carlos Almaraz: Playing with Fire",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt10055918",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2QyYTU4NDQtMjQxOS00MGE1LTgzNTUtMmM0YTI5NmI5MWQ1XkEyXkFqcGdeQXVyMjAzMDEyMzg@._V1_Ratio0.6800_AL_.jpg",
+      "title": "To Play with Fire",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt11011614",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2E2ZWU2NWQtYWRlZC00YmZlLWFiYjYtNTEwYmVhZTJkMDkzXkEyXkFqcGdeQXVyNTQ2MDE2MDU@._V1_Ratio0.6800_AL_.jpg",
+      "title": "The Wild!: Playing with Fire",
+      "description": "(2019)"
+    },
+    {
+      "id": "tt10637832",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGM1NzM2OTktYjJmOS00YzI5LWIzMDEtNjVjODZhYjQxNmVlXkEyXkFqcGdeQXVyNzUzOTAxODE@._V1_Ratio2.4800_AL_.jpg",
+      "title": "Playing with Fire",
+      "description": "(III) (2019)"
+    }
+  ],
+  "errorMessage": ""
+}

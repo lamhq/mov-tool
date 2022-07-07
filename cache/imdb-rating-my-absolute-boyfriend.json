@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt10183478",
+  "title": "My Absolute Boyfriend",
+  "fullTitle": "My Absolute Boyfriend (TV Series 2019\u20132019)",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "7.1",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "21.8%",
+      "votes": "65"
+    },
+    {
+      "rating": "9",
+      "percent": "8.4%",
+      "votes": "25"
+    },
+    {
+      "rating": "8",
+      "percent": "16.8%",
+      "votes": "50"
+    },
+    {
+      "rating": "7",
+      "percent": "22.5%",
+      "votes": "67"
+    },
+    {
+      "rating": "6",
+      "percent": "13.8%",
+      "votes": "41"
+    },
+    {
+      "rating": "5",
+      "percent": "8.1%",
+      "votes": "24"
+    },
+    {
+      "rating": "4",
+      "percent": "4.0%",
+      "votes": "12"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "3"
+    },
+    {
+      "rating": "2",
+      "percent": "2.0%",
+      "votes": "6"
+    },
+    {
+      "rating": "1",
+      "percent": "1.7%",
+      "votes": "5"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.1",
+      "votes": "298"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "33"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "67"
+    },
+    "agesOver45": {
+      "rating": "7.4",
+      "votes": "40"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "40"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "8"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "14"
+    },
+    "agesOver45": {
+      "rating": "6.8",
+      "votes": "11"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "111"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "19"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "51"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "26"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "1"
+  },
+  "usUsers": {
+    "rating": "8.3",
+    "votes": "30"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "78"
+  },
+  "errorMessage": ""
+}

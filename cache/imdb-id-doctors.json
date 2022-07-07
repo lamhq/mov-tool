@@ -1,0 +1,126 @@
+{
+  "searchType": "Series",
+  "expression": "Doctors 2016",
+  "results": [
+    {
+      "id": "tt6015808",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2M1MWRiNjYtNmZlYS00MzBjLThhOGEtMjBkMDBkZDRkMTI3XkEyXkFqcGdeQXVyMTkwMDQxNDY@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Doctor Doctor",
+      "description": "(2016\u20132021)"
+    },
+    {
+      "id": "tt6157190",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYmMyMTRjNzktODQwYS00YzUxLThiMWEtY2UwNWE5Y2E3NDcxXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Dr. Romantic",
+      "description": "(2016\u20132020)"
+    },
+    {
+      "id": "tt4938084",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjEyNDA2NzM2Nl5BMl5BanBnXkFtZTgwODUzOTE4ODE@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Doctor Thorne",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt5764332",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTlkMjFiYjAtNGUxOC00MGUwLThmODEtYTllYTViNGEwOTI2XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Dakteoseu",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt10173872",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2FjZmYzMzktZjMxZS00ZjAzLTljZGItNTdmOWViYWM5NWJjXkEyXkFqcGdeQXVyMTAyNTExMDg2._V1_Ratio1.7600_AL_.jpg",
+      "title": "Doctor Who: The Cravat Doctor Adventures (2016)",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt5525064",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2E4YzQ5YzctYmI3MS00Y2I0LWFjZTctNWExZWU2OTQ1Yzg3XkEyXkFqcGdeQXVyNjU3NTI2MjY@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Doctor Who Guardian",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt6681866",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMWQ5YTIyMDMtNDdlYi00MDdlLWI4MTQtMDMwZDlmZjhkMjliXkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Doctor on Call",
+      "description": "(2016\u20132017)"
+    },
+    {
+      "id": "tt7992650",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNmMxYWY5YmYtOWY2OS00YWI3LWJlMDQtMDg1ZTgxNTM5MDk1XkEyXkFqcGdeQXVyODMxMDMwODM@._V1_Ratio1.4000_AL_.jpg",
+      "title": "The Doctor Who Gave Up Drugs",
+      "description": "(2016\u20132018)"
+    },
+    {
+      "id": "tt5722276",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZGRjNzUwZDctN2RkYS00ZDZlLTg2NjAtZGI4OGRmYjBjMGQwXkEyXkFqcGdeQXVyNjc0Mjk5OTI@._V1_Ratio1.7600_AL_.jpg",
+      "title": "The Doctor & Her Tardis",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt5426000",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BODk2ZTJjMWEtMWFmZi00MjIyLTg0NTAtMzUxMTljOWQ3Mjc4XkEyXkFqcGdeQXVyMjI0MDI5Mg@@._V1_Ratio1.2000_AL_.jpg",
+      "title": "Doctor Car",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt11281198",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYjlmYTUyZmQtODFhNy00MTc1LTk3NTgtY2NmM2M0MDQzYjFkXkEyXkFqcGdeQXVyMzg0MTkyODQ@._V1_Ratio2.3600_AL_.jpg",
+      "title": "Flying Doctors: Virunga",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt5959348",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzVmYjQ3YjItNDY5OC00NGY5LWJkOWEtOTc3NmEwMWNkNzZiXkEyXkFqcGdeQXVyMTQxMTE5ODU@._V1_Ratio2.2800_AL_.jpg",
+      "title": "Never Seen a Doctor",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt11487072",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTg0YzcyYTEtZWIzMC00ODNlLTkzN2EtYmEyNTU1ZWM3MzA2XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_Ratio1.7600_AL_.jpg",
+      "title": "Blind Wave: Doctor Who Reaction",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt5494846",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTdlYzljNjItMWNkZS00NzIxLWJhN2ItMjA3YzE5YjNjMTU4XkEyXkFqcGdeQXVyMjY0MDY4Mjk@._V1_Ratio1.8800_AL_.jpg",
+      "title": "Doctor Ch\u00f4sahan: Iry\u00f4 Jiko no Yami wo Abake",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt5780468",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Deck Doctor",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt13174624",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmQ0YmE5YzAtMzkwNC00MTZhLTllMjgtYjFlNDMxYjIwYjVmXkEyXkFqcGdeQXVyNDc3OTU3OTA@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Doctor Who Fan Animation",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt8081674",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Doctor Who: The Trilbee Doctor Adventures",
+      "description": "(2016\u20132017)"
+    }
+  ],
+  "errorMessage": ""
+}

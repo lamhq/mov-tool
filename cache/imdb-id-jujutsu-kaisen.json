@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Jujutsu Kaisen 2020",
+  "results": [
+    {
+      "id": "tt12343534",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Jujutsu Kaisen",
+      "description": "(2020\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

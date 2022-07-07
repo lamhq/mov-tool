@@ -1,0 +1,42 @@
+{
+  "searchType": "Movie",
+  "expression": "12 Strong 2018",
+  "results": [
+    {
+      "id": "tt20748244",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Finishing 2018 Strong",
+      "description": "(2018) (Podcast Episode) - Ask Frank Kern (2018) (Podcast Series)"
+    },
+    {
+      "id": "tt19641694",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Shane Strong - 21 May 2018",
+      "description": "(2018) (Podcast Episode) - The Story with Jimmy Colefax (2017) (Podcast Series)"
+    },
+    {
+      "id": "tt1413492",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "12 Strong",
+      "description": "(2018)"
+    },
+    {
+      "id": "tt8415526",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "12 Strong: The Making of an Impossible Mission",
+      "description": "(2018) (Video)"
+    },
+    {
+      "id": "tt18764196",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Ep. 107 - 12 Oscars Strong",
+      "description": "(2018) (Podcast Episode) - Media Boat Podcast (2016) (Podcast Series)"
+    }
+  ],
+  "errorMessage": ""
+}
