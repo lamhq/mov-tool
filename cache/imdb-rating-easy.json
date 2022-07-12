@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt10671282",
+  "title": "High School Prodigies Have It Easy Even in Another World!",
+  "fullTitle": "High School Prodigies Have It Easy Even in Another World! (TV Series 2019\u2013 )",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "6.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "15.4%",
+      "votes": "113"
+    },
+    {
+      "rating": "9",
+      "percent": "4.5%",
+      "votes": "33"
+    },
+    {
+      "rating": "8",
+      "percent": "13.6%",
+      "votes": "100"
+    },
+    {
+      "rating": "7",
+      "percent": "23.4%",
+      "votes": "172"
+    },
+    {
+      "rating": "6",
+      "percent": "17.8%",
+      "votes": "131"
+    },
+    {
+      "rating": "5",
+      "percent": "9.4%",
+      "votes": "69"
+    },
+    {
+      "rating": "4",
+      "percent": "5.0%",
+      "votes": "37"
+    },
+    {
+      "rating": "3",
+      "percent": "4.1%",
+      "votes": "30"
+    },
+    {
+      "rating": "2",
+      "percent": "2.2%",
+      "votes": "16"
+    },
+    {
+      "rating": "1",
+      "percent": "4.6%",
+      "votes": "34"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.2",
+      "votes": "735"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.8",
+      "votes": "115"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "132"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "37"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "289"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "98"
+    },
+    "ages30To44": {
+      "rating": "6.0",
+      "votes": "118"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "35"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "25"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "11"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "9"
+    },
+    "agesOver45": {
+      "rating": "1.0",
+      "votes": "2"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.4",
+    "votes": "14"
+  },
+  "usUsers": {
+    "rating": "5.7",
+    "votes": "75"
+  },
+  "nonUSUsers": {
+    "rating": "5.9",
+    "votes": "155"
+  },
+  "errorMessage": ""
+}

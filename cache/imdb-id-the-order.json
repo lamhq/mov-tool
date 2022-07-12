@@ -1,0 +1,21 @@
+{
+  "searchType": "Series",
+  "expression": "The Order 2020",
+  "results": [
+    {
+      "id": "tt11676106",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTczMzdhYTYtNmIyNi00NDUyLWFiMTctODUzNjQxZjhkNzYxXkEyXkFqcGdeQXVyMTk5NDYxNDk@._V1_Ratio0.7600_AL_.jpg",
+      "title": "The Paley Center Salutes Law & Order: SVU",
+      "description": "(2020 TV Special)"
+    },
+    {
+      "id": "tt13399592",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYWI0ZWRiYjItODA1Mi00NjdjLWE5OTMtZDNhMmFjNGRjZDNjXkEyXkFqcGdeQXVyNDkyODgyMjE@._V1_Ratio1.7600_AL_.jpg",
+      "title": "The Paley Center Presents Law & Order: Before They Were Stars",
+      "description": "(2020 TV Special)"
+    }
+  ],
+  "errorMessage": ""
+}

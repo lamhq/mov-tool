@@ -1,0 +1,28 @@
+{
+  "searchType": "Series",
+  "expression": "Roman Empire 2019",
+  "results": [
+    {
+      "id": "tt6233538",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2UxYmY0NDktYTk2Mi00ZjI4LWJhYTAtYTEzMzYyNGU3ZTEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjMyMTk1OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Roman Empire",
+      "description": "(2016) (TV Series)"
+    },
+    {
+      "id": "tt14311118",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Roman Empire",
+      "description": "(II) (TV Series)"
+    },
+    {
+      "id": "tt14202428",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "The Roman Empire",
+      "description": "(I) (in development) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

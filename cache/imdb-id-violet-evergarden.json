@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Violet Evergarden 2018",
+  "results": [
+    {
+      "id": "tt7078180",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzJiYjYxNTItYTZlNi00MDU0LTgxNTYtNmQ2ZmFjNThiNGYxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Violet Evergarden",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

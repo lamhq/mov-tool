@@ -1,0 +1,49 @@
+{
+  "searchType": "Series",
+  "expression": "Tomorrow 2022",
+  "results": [
+    {
+      "id": "tt18926162",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWU5YWI4MzAtNjUwYi00MmFhLWI4MzItOWE5OWZmMjAxMGZmXkEyXkFqcGdeQXVyNDg3OTE3MzU@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Tomorrow",
+      "description": "(2022\u2013 )"
+    },
+    {
+      "id": "tt14596212",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Hello Tomorrow!",
+      "description": "(2022\u2013 )"
+    },
+    {
+      "id": "tt4814980",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTBmYzk3ZGUtMjJkNi00MDQwLTlhMzEtNTFmNTcyN2ZmN2FjXkEyXkFqcGdeQXVyNDQzODg2MQ@@._V1_Ratio0.6800_AL_.jpg",
+      "title": "We Were Tomorrow",
+      "description": "(2022\u2013 )"
+    },
+    {
+      "id": "tt19718972",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Tomorrow, I'll Be Someone's Girlfriend",
+      "description": "(2022\u2013 )"
+    },
+    {
+      "id": "tt15700830",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Christmas Tomorrow",
+      "description": "(2022\u2013 )"
+    },
+    {
+      "id": "tt20115396",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "CROW HILL: Tomorrow Never Ends",
+      "description": "(2022\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

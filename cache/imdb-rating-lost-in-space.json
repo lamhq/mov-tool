@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5232792",
+  "title": "Lost in Space",
+  "fullTitle": "Lost in Space (TV Series 2018\u20132021)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "7.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "20.3%",
+      "votes": "19797"
+    },
+    {
+      "rating": "9",
+      "percent": "15.1%",
+      "votes": "14659"
+    },
+    {
+      "rating": "8",
+      "percent": "25.0%",
+      "votes": "24295"
+    },
+    {
+      "rating": "7",
+      "percent": "18.1%",
+      "votes": "17645"
+    },
+    {
+      "rating": "6",
+      "percent": "8.0%",
+      "votes": "7822"
+    },
+    {
+      "rating": "5",
+      "percent": "4.4%",
+      "votes": "4277"
+    },
+    {
+      "rating": "4",
+      "percent": "2.6%",
+      "votes": "2502"
+    },
+    {
+      "rating": "3",
+      "percent": "2.0%",
+      "votes": "1981"
+    },
+    {
+      "rating": "2",
+      "percent": "1.5%",
+      "votes": "1501"
+    },
+    {
+      "rating": "1",
+      "percent": "2.9%",
+      "votes": "2817"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "97296"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "57"
+    },
+    "ages18To29": {
+      "rating": "7.4",
+      "votes": "7394"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "28356"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "20009"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "52026"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "42"
+    },
+    "ages18To29": {
+      "rating": "7.3",
+      "votes": "5693"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "22979"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "16130"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "10966"
+    },
+    "agesUnder18": {
+      "rating": "5.0",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "1373"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "4729"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "3371"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.7",
+    "votes": "256"
+  },
+  "usUsers": {
+    "rating": "7.4",
+    "votes": "13683"
+  },
+  "nonUSUsers": {
+    "rating": "7.0",
+    "votes": "28750"
+  },
+  "errorMessage": ""
+}

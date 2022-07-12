@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Our Planet 2019",
+  "results": [
+    {
+      "id": "tt9253866",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmM2OWEyN2EtZWY2NS00ZDA3LWFlNTAtNzUzMGQwZWVlZmE4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Our Planet",
+      "description": "(2019)"
+    }
+  ],
+  "errorMessage": ""
+}

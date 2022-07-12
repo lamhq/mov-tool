@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt6905542",
+  "title": "The Dark Crystal: Age of Resistance",
+  "fullTitle": "The Dark Crystal: Age of Resistance (TV Series 2019\u20132019)",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "8.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "34.5%",
+      "votes": "8373"
+    },
+    {
+      "rating": "9",
+      "percent": "27.5%",
+      "votes": "6684"
+    },
+    {
+      "rating": "8",
+      "percent": "18.7%",
+      "votes": "4547"
+    },
+    {
+      "rating": "7",
+      "percent": "8.4%",
+      "votes": "2031"
+    },
+    {
+      "rating": "6",
+      "percent": "3.6%",
+      "votes": "864"
+    },
+    {
+      "rating": "5",
+      "percent": "2.1%",
+      "votes": "519"
+    },
+    {
+      "rating": "4",
+      "percent": "1.0%",
+      "votes": "250"
+    },
+    {
+      "rating": "3",
+      "percent": "0.9%",
+      "votes": "226"
+    },
+    {
+      "rating": "2",
+      "percent": "0.8%",
+      "votes": "197"
+    },
+    {
+      "rating": "1",
+      "percent": "2.4%",
+      "votes": "571"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "24262"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "2533"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "9242"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "3154"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "13186"
+    },
+    "agesUnder18": {
+      "rating": "8.2",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "1945"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "7326"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "2496"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "3147"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "8.7",
+      "votes": "486"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "1687"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "581"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.2",
+    "votes": "180"
+  },
+  "usUsers": {
+    "rating": "8.5",
+    "votes": "3347"
+  },
+  "nonUSUsers": {
+    "rating": "8.3",
+    "votes": "8296"
+  },
+  "errorMessage": ""
+}

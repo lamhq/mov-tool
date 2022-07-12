@@ -1,0 +1,128 @@
+{
+  "imDbId": "tt14357532",
+  "title": "The Titans That Built America",
+  "fullTitle": "The Titans That Built America (TV Series 2021\u2013 )",
+  "type": "TVSeries",
+  "year": "2021",
+  "totalRating": "8.0",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "30.2%",
+      "votes": "62"
+    },
+    {
+      "rating": "9",
+      "percent": "20.5%",
+      "votes": "42"
+    },
+    {
+      "rating": "8",
+      "percent": "22.9%",
+      "votes": "47"
+    },
+    {
+      "rating": "7",
+      "percent": "14.6%",
+      "votes": "30"
+    },
+    {
+      "rating": "6",
+      "percent": "3.4%",
+      "votes": "7"
+    },
+    {
+      "rating": "5",
+      "percent": "0.5%",
+      "votes": "1"
+    },
+    {
+      "rating": "4",
+      "percent": "2.0%",
+      "votes": "4"
+    },
+    {
+      "rating": "3",
+      "percent": "0.5%",
+      "votes": "1"
+    },
+    {
+      "rating": "2",
+      "percent": "2.4%",
+      "votes": "5"
+    },
+    {
+      "rating": "1",
+      "percent": "2.9%",
+      "votes": "6"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "205"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "9"
+    },
+    "ages30To44": {
+      "rating": "7.7",
+      "votes": "60"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "55"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "112"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "7"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "53"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "45"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "13"
+    },
+    "agesUnder18": null,
+    "ages18To29": null,
+    "ages30To44": {
+      "rating": "8.8",
+      "votes": "5"
+    },
+    "agesOver45": {
+      "rating": "6.4",
+      "votes": "8"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.5",
+    "votes": "10"
+  },
+  "usUsers": {
+    "rating": "8.0",
+    "votes": "60"
+  },
+  "nonUSUsers": {
+    "rating": "7.7",
+    "votes": "44"
+  },
+  "errorMessage": ""
+}

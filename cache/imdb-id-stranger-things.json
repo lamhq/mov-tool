@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Stranger Things 2022",
+  "results": [
+    {
+      "id": "tt21222712",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNjE3ZjIxZTUtYzE0ZC00M2ZiLWE0MjAtZDViZGMyNjE5NjVkXkEyXkFqcGdeQXVyMjU5NDU0Mjc@._V1_Ratio0.8000_AL_.jpg",
+      "title": "Geeked Week Unlocked: Stranger Things",
+      "description": "(2022)"
+    }
+  ],
+  "errorMessage": ""
+}

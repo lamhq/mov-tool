@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt6660498",
+  "title": "Devilman: Crybaby",
+  "fullTitle": "Devilman: Crybaby (TV Series 2018\u20132018)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "7.6",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "16.6%",
+      "votes": "3136"
+    },
+    {
+      "rating": "9",
+      "percent": "18.7%",
+      "votes": "3536"
+    },
+    {
+      "rating": "8",
+      "percent": "26.9%",
+      "votes": "5088"
+    },
+    {
+      "rating": "7",
+      "percent": "18.6%",
+      "votes": "3513"
+    },
+    {
+      "rating": "6",
+      "percent": "8.5%",
+      "votes": "1603"
+    },
+    {
+      "rating": "5",
+      "percent": "3.7%",
+      "votes": "698"
+    },
+    {
+      "rating": "4",
+      "percent": "2.3%",
+      "votes": "438"
+    },
+    {
+      "rating": "3",
+      "percent": "1.4%",
+      "votes": "262"
+    },
+    {
+      "rating": "2",
+      "percent": "1.2%",
+      "votes": "231"
+    },
+    {
+      "rating": "1",
+      "percent": "2.1%",
+      "votes": "392"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "18897"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "42"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "4095"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "3856"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "494"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "8149"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "31"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "3189"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "3334"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "427"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "1388"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "7"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "710"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "423"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "51"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.3",
+    "votes": "79"
+  },
+  "usUsers": {
+    "rating": "7.3",
+    "votes": "1528"
+  },
+  "nonUSUsers": {
+    "rating": "7.4",
+    "votes": "4926"
+  },
+  "errorMessage": ""
+}

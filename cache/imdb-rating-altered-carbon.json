@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2261227",
+  "title": "Altered Carbon",
+  "fullTitle": "Altered Carbon (TV Series 2018\u20132020)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "7.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "21.1%",
+      "votes": "34327"
+    },
+    {
+      "rating": "9",
+      "percent": "24.9%",
+      "votes": "40397"
+    },
+    {
+      "rating": "8",
+      "percent": "26.6%",
+      "votes": "43147"
+    },
+    {
+      "rating": "7",
+      "percent": "14.6%",
+      "votes": "23641"
+    },
+    {
+      "rating": "6",
+      "percent": "6.1%",
+      "votes": "9839"
+    },
+    {
+      "rating": "5",
+      "percent": "2.8%",
+      "votes": "4595"
+    },
+    {
+      "rating": "4",
+      "percent": "1.3%",
+      "votes": "2075"
+    },
+    {
+      "rating": "3",
+      "percent": "0.8%",
+      "votes": "1334"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "1035"
+    },
+    {
+      "rating": "1",
+      "percent": "1.2%",
+      "votes": "1985"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "162375"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "32"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "19919"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "57561"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "20115"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "91157"
+    },
+    "agesUnder18": {
+      "rating": "8.2",
+      "votes": "22"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "15897"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "47173"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "16469"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "17870"
+    },
+    "agesUnder18": {
+      "rating": "6.2",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "8.1",
+      "votes": "3278"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "9163"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "3127"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.1",
+    "votes": "308"
+  },
+  "usUsers": {
+    "rating": "8.0",
+    "votes": "16275"
+  },
+  "nonUSUsers": {
+    "rating": "7.8",
+    "votes": "57801"
+  },
+  "errorMessage": ""
+}

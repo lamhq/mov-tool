@@ -1,0 +1,35 @@
+{
+  "searchType": "Series",
+  "expression": "Lost in Space 2021",
+  "results": [
+    {
+      "id": "tt5232792",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTY5YjQwYmEtOWJiNy00NDBmLTgxM2YtMmVkMmI0NzE1N2FjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Lost in Space",
+      "description": "(2018) (TV Series)"
+    },
+    {
+      "id": "tt0058824",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMjE2OTczMDI2M15BMl5BanBnXkFtZTcwMTA5MDgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Lost in Space",
+      "description": "(1965) (TV Series)"
+    },
+    {
+      "id": "tt10483250",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTVkZjdmNjAtZmYwMi00YTk2LWI2NGMtMjUxOGI3NTQyZWFhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_Ratio0.7273_AL_.jpg",
+      "title": "Astra Lost in Space",
+      "description": "(2019) (TV Series)"
+    },
+    {
+      "id": "tt15653614",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Lost in Space",
+      "description": "(1998) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

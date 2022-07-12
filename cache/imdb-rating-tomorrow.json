@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt18926162",
+  "title": "Tomorrow",
+  "fullTitle": "Tomorrow (TV Series 2022\u2013 )",
+  "type": "TVSeries",
+  "year": "2022",
+  "totalRating": "7.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "31.1%",
+      "votes": "2420"
+    },
+    {
+      "rating": "9",
+      "percent": "3.6%",
+      "votes": "283"
+    },
+    {
+      "rating": "8",
+      "percent": "3.5%",
+      "votes": "275"
+    },
+    {
+      "rating": "7",
+      "percent": "1.8%",
+      "votes": "142"
+    },
+    {
+      "rating": "6",
+      "percent": "1.0%",
+      "votes": "76"
+    },
+    {
+      "rating": "5",
+      "percent": "0.4%",
+      "votes": "34"
+    },
+    {
+      "rating": "4",
+      "percent": "0.4%",
+      "votes": "33"
+    },
+    {
+      "rating": "3",
+      "percent": "0.2%",
+      "votes": "13"
+    },
+    {
+      "rating": "2",
+      "percent": "0.3%",
+      "votes": "20"
+    },
+    {
+      "rating": "1",
+      "percent": "57.6%",
+      "votes": "4475"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "7771"
+    },
+    "agesUnder18": {
+      "rating": "4.9",
+      "votes": "14"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "441"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "401"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "193"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "293"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "64"
+    },
+    "ages30To44": {
+      "rating": "7.0",
+      "votes": "112"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "74"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "890"
+    },
+    "agesUnder18": {
+      "rating": "3.8",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "364"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "280"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "116"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.1",
+    "votes": "8"
+  },
+  "usUsers": {
+    "rating": "7.0",
+    "votes": "124"
+  },
+  "nonUSUsers": {
+    "rating": "7.5",
+    "votes": "376"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt11676106",
+  "title": "The Paley Center Salutes Law & Order: SVU",
+  "fullTitle": "The Paley Center Salutes Law & Order: SVU (2020)",
+  "type": "Movie",
+  "year": "2020",
+  "totalRating": "8.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "53.1%",
+      "votes": "26"
+    },
+    {
+      "rating": "9",
+      "percent": "10.2%",
+      "votes": "5"
+    },
+    {
+      "rating": "8",
+      "percent": "16.3%",
+      "votes": "8"
+    },
+    {
+      "rating": "7",
+      "percent": "4.1%",
+      "votes": "2"
+    },
+    {
+      "rating": "6",
+      "percent": "6.1%",
+      "votes": "3"
+    },
+    {
+      "rating": "5",
+      "percent": "4.1%",
+      "votes": "2"
+    },
+    {
+      "rating": "4",
+      "percent": "2.0%",
+      "votes": "1"
+    },
+    {
+      "rating": "3",
+      "percent": "0%",
+      "votes": "0"
+    },
+    {
+      "rating": "2",
+      "percent": "2.0%",
+      "votes": "1"
+    },
+    {
+      "rating": "1",
+      "percent": "2.0%",
+      "votes": "1"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.5",
+      "votes": "49"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "5"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "5"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "12"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "10"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.0",
+      "votes": "1"
+    },
+    "ages30To44": {
+      "rating": "8.0",
+      "votes": "2"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "6"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "9.0",
+      "votes": "15"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "9.2",
+      "votes": "4"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3"
+    },
+    "agesOver45": {
+      "rating": "9.4",
+      "votes": "6"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.8",
+    "votes": "5"
+  },
+  "usUsers": {
+    "rating": "7.8",
+    "votes": "13"
+  },
+  "nonUSUsers": {
+    "rating": "8.0",
+    "votes": "6"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt7569592",
+  "title": "Chilling Adventures of Sabrina",
+  "fullTitle": "Chilling Adventures of Sabrina (TV Series 2018\u20132020)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "20.3%",
+      "votes": "18334"
+    },
+    {
+      "rating": "9",
+      "percent": "14.4%",
+      "votes": "13029"
+    },
+    {
+      "rating": "8",
+      "percent": "24.6%",
+      "votes": "22270"
+    },
+    {
+      "rating": "7",
+      "percent": "18.9%",
+      "votes": "17136"
+    },
+    {
+      "rating": "6",
+      "percent": "9.1%",
+      "votes": "8204"
+    },
+    {
+      "rating": "5",
+      "percent": "4.5%",
+      "votes": "4026"
+    },
+    {
+      "rating": "4",
+      "percent": "2.2%",
+      "votes": "2019"
+    },
+    {
+      "rating": "3",
+      "percent": "1.5%",
+      "votes": "1355"
+    },
+    {
+      "rating": "2",
+      "percent": "1.2%",
+      "votes": "1086"
+    },
+    {
+      "rating": "1",
+      "percent": "3.3%",
+      "votes": "2998"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "90457"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "102"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "15294"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "25812"
+    },
+    "agesOver45": {
+      "rating": "7.3",
+      "votes": "6853"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "29576"
+    },
+    "agesUnder18": {
+      "rating": "7.6",
+      "votes": "37"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "7085"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "13866"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "4416"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.6",
+      "votes": "23107"
+    },
+    "agesUnder18": {
+      "rating": "6.3",
+      "votes": "46"
+    },
+    "ages18To29": {
+      "rating": "7.7",
+      "votes": "6730"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "10905"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "2187"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.7",
+    "votes": "229"
+  },
+  "usUsers": {
+    "rating": "7.5",
+    "votes": "10704"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "24018"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,21 @@
+{
+  "searchType": "Series",
+  "expression": "Komi Can't Communicate 2021",
+  "results": [
+    {
+      "id": "tt14626352",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmQzNTdjYjctYzM5OS00ZjFmLWJjYmYtZDYwZGYyYjkwODRhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_Ratio0.6800_AL_.jpg",
+      "title": "Komi Can't Communicate",
+      "description": "(2021\u2013 )"
+    },
+    {
+      "id": "tt15100806",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGQwZjhlMDMtYzliMy00MjlkLTgyNGQtNzFhY2UyNDBiMjIxXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6800_AL_.jpg",
+      "title": "Komi Can't Communicate",
+      "description": "(2021\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

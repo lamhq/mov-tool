@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Money Heist 2021",
+  "results": [
+    {
+      "id": "tt15384346",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BM2JkMmNhY2MtMTM3MS00YzRmLTkyZGQtZGM4NTE3M2Y4N2M0XkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_Ratio0.7200_AL_.jpg",
+      "title": "Money Heist: From Tokyo to Berlin",
+      "description": "(2021)"
+    }
+  ],
+  "errorMessage": ""
+}

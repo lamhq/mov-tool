@@ -36,7 +36,8 @@ def updateMovieDb():
 def updateMovieRating():
   # https://www.imdb.com/title/tt1959490/
   df = loadMovieList()
-  df2 = df[df['Imdb Rating'].isnull() & (df['Movie Type']!='Movie') & (df['Netflix Original']==False)]
+  # df2 = df[df['Imdb Rating'].isnull() & (df['Movie Type']=='Movie') & (df['Netflix Original']==False)]
+  df2 = df[df['Imdb Rating'].isnull()]
   for index, mov in df2.iterrows():
     try:
       getImdbRating(mov)
@@ -179,4 +180,4 @@ def setCache(key, value):
   json.dump(value, out_file, indent = 2)
   out_file.close()
 
-updateMovieRating()
+# updateMovieRating()

@@ -1,0 +1,35 @@
+{
+  "searchType": "Series",
+  "expression": "Scream 2016",
+  "results": [
+    {
+      "id": "tt5497394",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNzUwZGE3ZWMtYWI3Yi00YWZmLTgwYTAtNGIwYmZkZjhkMGQ2XkEyXkFqcGdeQXVyMjIxNjkyMDU@._V1_Ratio0.8000_AL_.jpg",
+      "title": "Scream Queen Stream",
+      "description": "(2016\u2013 )"
+    },
+    {
+      "id": "tt7914790",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BN2MwNjhhYzYtMjhmYS00OTYwLWJiODQtYmU2N2Y5ZDFhMWU1XkEyXkFqcGdeQXVyMjU3ODE2MzM@._V1_Ratio1.7600_AL_.jpg",
+      "title": "Scream After Dark",
+      "description": "(2016)"
+    },
+    {
+      "id": "tt6643796",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTUwMTE2ZmQtMmRjYS00MTkwLWE2OWEtMjA1MDBjOGUwYWE4XkEyXkFqcGdeQXVyNjY2ODkyMDk@._V1_Ratio1.0000_AL_.jpg",
+      "title": "MTV Scream Live Stream Promo",
+      "description": "(2016 TV Short)"
+    },
+    {
+      "id": "tt6176290",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZmUxNTk2YWUtOWE5YS00YmNiLThmZDMtYTBhZWEyNjRkZmJkXkEyXkFqcGdeQXVyMjMxNjE3NzI@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Silent Scream: Horror Anthology",
+      "description": "(2016\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

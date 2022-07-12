@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Devilman Crybaby 2018",
+  "results": [
+    {
+      "id": "tt6660498",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZjYxMGRlZDAtYTU5Ny00NzhmLTgzYzgtNjNjNTZiZDQ5ZjU0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Devilman: Crybaby",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

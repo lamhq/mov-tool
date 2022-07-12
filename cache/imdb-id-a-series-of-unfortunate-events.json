@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "A Series of Unfortunate Events 2019",
+  "results": [
+    {
+      "id": "tt4834206",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTYzMjA3OTgxOV5BMl5BanBnXkFtZTgwMjAwMDU5NjM@._V1_Ratio0.7273_AL_.jpg",
+      "title": "A Series of Unfortunate Events",
+      "description": "(2017) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

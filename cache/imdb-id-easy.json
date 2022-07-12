@@ -1,0 +1,49 @@
+{
+  "searchType": "Series",
+  "expression": "Easy 2019",
+  "results": [
+    {
+      "id": "tt10671282",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNDBkZTJjYmEtYTViOS00ZGE1LWIxNGQtNTE5M2E3ZGNkOTVkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "High School Prodigies Have It Easy Even in Another World!",
+      "description": "(2019\u2013 )"
+    },
+    {
+      "id": "tt12850082",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOGMxYTQ1ZTMtNDAzZC00ZjI1LTgyYWItNzg1NzQ1ZjUwOTM0XkEyXkFqcGdeQXVyNzQ5NDU5MTM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "Life Is Easy",
+      "description": "(2019\u2013 )"
+    },
+    {
+      "id": "tt10879022",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BNTZlNDMzNmQtZTUyNS00ZWE3LWFmYzAtMzI5MDk2YTA5ZGYzXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_Ratio0.6800_AL_.jpg",
+      "title": "Selling the Big Easy",
+      "description": "(2019\u2013 )"
+    },
+    {
+      "id": "tt11481230",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzBhZjUyNTMtZWNiNi00NTg5LThmMWUtOTlhNjI2MGUwMGZlXkEyXkFqcGdeQXVyOTA0OTU3MTg@._V1_Ratio1.4800_AL_.jpg",
+      "title": "Sex Ed Made Easy",
+      "description": "(2019\u2013 )"
+    },
+    {
+      "id": "tt10918228",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZTYyZWJhMTgtNTNlMS00YWU3LTg5YjEtNjIxNmJjMjJlODJiXkEyXkFqcGdeQXVyMjMzNDA0MjA@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Baking It Easy",
+      "description": "(2019\u2013 )"
+    },
+    {
+      "id": "tt10141890",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYzBjOThmZDktMjFhMS00NTFlLThjNTgtODViYTk4NzU5NTc4XkEyXkFqcGdeQXVyMTAxMzM5NDgw._V1_Ratio0.6800_AL_.jpg",
+      "title": "Speakin' Chinese So Easy!",
+      "description": "(2019\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

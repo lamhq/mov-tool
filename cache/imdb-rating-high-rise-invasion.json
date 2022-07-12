@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt13352232",
+  "title": "High-Rise Invasion",
+  "fullTitle": "High-Rise Invasion (TV Series 2021\u2013 )",
+  "type": "TVSeries",
+  "year": "2021",
+  "totalRating": "6.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "17.3%",
+      "votes": "489"
+    },
+    {
+      "rating": "9",
+      "percent": "7.4%",
+      "votes": "208"
+    },
+    {
+      "rating": "8",
+      "percent": "16.1%",
+      "votes": "454"
+    },
+    {
+      "rating": "7",
+      "percent": "22.1%",
+      "votes": "625"
+    },
+    {
+      "rating": "6",
+      "percent": "15.3%",
+      "votes": "434"
+    },
+    {
+      "rating": "5",
+      "percent": "8.3%",
+      "votes": "236"
+    },
+    {
+      "rating": "4",
+      "percent": "5.4%",
+      "votes": "152"
+    },
+    {
+      "rating": "3",
+      "percent": "2.6%",
+      "votes": "74"
+    },
+    {
+      "rating": "2",
+      "percent": "2.2%",
+      "votes": "63"
+    },
+    {
+      "rating": "1",
+      "percent": "3.3%",
+      "votes": "93"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.5",
+      "votes": "2828"
+    },
+    "agesUnder18": {
+      "rating": "8.1",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "381"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "560"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "127"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "974"
+    },
+    "agesUnder18": {
+      "rating": "7.4",
+      "votes": "6"
+    },
+    "ages18To29": {
+      "rating": "6.3",
+      "votes": "264"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "458"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "111"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "225"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "3"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "88"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "89"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "12"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.2",
+    "votes": "27"
+  },
+  "usUsers": {
+    "rating": "6.2",
+    "votes": "227"
+  },
+  "nonUSUsers": {
+    "rating": "6.3",
+    "votes": "596"
+  },
+  "errorMessage": ""
+}

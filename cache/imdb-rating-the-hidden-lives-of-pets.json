@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt20560384",
+  "title": "The Hidden Lives of Pets",
+  "fullTitle": "The Hidden Lives of Pets (TV Series 2022\u2013 )",
+  "type": "TVSeries",
+  "year": "2022",
+  "totalRating": "7.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "18.1%",
+      "votes": "60"
+    },
+    {
+      "rating": "9",
+      "percent": "10.2%",
+      "votes": "34"
+    },
+    {
+      "rating": "8",
+      "percent": "25.6%",
+      "votes": "85"
+    },
+    {
+      "rating": "7",
+      "percent": "24.1%",
+      "votes": "80"
+    },
+    {
+      "rating": "6",
+      "percent": "12.7%",
+      "votes": "42"
+    },
+    {
+      "rating": "5",
+      "percent": "3.6%",
+      "votes": "12"
+    },
+    {
+      "rating": "4",
+      "percent": "0.6%",
+      "votes": "2"
+    },
+    {
+      "rating": "3",
+      "percent": "1.5%",
+      "votes": "5"
+    },
+    {
+      "rating": "2",
+      "percent": "0.6%",
+      "votes": "2"
+    },
+    {
+      "rating": "1",
+      "percent": "3.0%",
+      "votes": "10"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.4",
+      "votes": "332"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.9",
+      "votes": "32"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "105"
+    },
+    "agesOver45": {
+      "rating": "7.7",
+      "votes": "62"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "140"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.7",
+      "votes": "19"
+    },
+    "ages30To44": {
+      "rating": "7.2",
+      "votes": "69"
+    },
+    "agesOver45": {
+      "rating": "7.6",
+      "votes": "37"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "80"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.1",
+      "votes": "12"
+    },
+    "ages30To44": {
+      "rating": "7.5",
+      "votes": "33"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "24"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.9",
+    "votes": "8"
+  },
+  "usUsers": {
+    "rating": "7.7",
+    "votes": "47"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "109"
+  },
+  "errorMessage": ""
+}

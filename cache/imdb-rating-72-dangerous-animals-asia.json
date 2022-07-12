@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt8728268",
+  "title": "72 Dangerous Animals - Asia",
+  "fullTitle": "72 Dangerous Animals - Asia (TV Series 2018\u2013 )",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "6.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "6.7%",
+      "votes": "36"
+    },
+    {
+      "rating": "9",
+      "percent": "4.5%",
+      "votes": "24"
+    },
+    {
+      "rating": "8",
+      "percent": "13.2%",
+      "votes": "71"
+    },
+    {
+      "rating": "7",
+      "percent": "30.8%",
+      "votes": "165"
+    },
+    {
+      "rating": "6",
+      "percent": "23.7%",
+      "votes": "127"
+    },
+    {
+      "rating": "5",
+      "percent": "10.3%",
+      "votes": "55"
+    },
+    {
+      "rating": "4",
+      "percent": "3.5%",
+      "votes": "19"
+    },
+    {
+      "rating": "3",
+      "percent": "1.7%",
+      "votes": "9"
+    },
+    {
+      "rating": "2",
+      "percent": "1.5%",
+      "votes": "8"
+    },
+    {
+      "rating": "1",
+      "percent": "4.1%",
+      "votes": "22"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "536"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "85"
+    },
+    "ages30To44": {
+      "rating": "6.6",
+      "votes": "198"
+    },
+    "agesOver45": {
+      "rating": "6.0",
+      "votes": "55"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "293"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "6.1",
+      "votes": "61"
+    },
+    "ages30To44": {
+      "rating": "6.5",
+      "votes": "155"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "46"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "72"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "21"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "41"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "7"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.6",
+    "votes": "20"
+  },
+  "usUsers": {
+    "rating": "6.4",
+    "votes": "57"
+  },
+  "nonUSUsers": {
+    "rating": "6.4",
+    "votes": "222"
+  },
+  "errorMessage": ""
+}

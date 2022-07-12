@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Dirk Gently's Holistic Detective Agency 2018",
+  "results": [
+    {
+      "id": "tt4047038",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1_Ratio0.7273_AL_.jpg",
+      "title": "Dirk Gently's Holistic Detective Agency",
+      "description": "(2016) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

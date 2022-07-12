@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Angry Birds: Summer Madness 2022",
+  "results": [
+    {
+      "id": "tt12027896",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BZWVhZTE4MGMtNTBjNS00Nzc5LThhMDQtODNmYzE4ZWJjMGJlXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_Ratio0.6800_AL_.jpg",
+      "title": "Angry Birds: Summer Madness",
+      "description": "(2022\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

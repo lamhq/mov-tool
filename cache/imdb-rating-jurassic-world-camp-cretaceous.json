@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt10436228",
+  "title": "Jurassic World: Camp Cretaceous",
+  "fullTitle": "Jurassic World: Camp Cretaceous (TV Series 2020\u20132022)",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "7.5",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.3%",
+      "votes": "2043"
+    },
+    {
+      "rating": "9",
+      "percent": "13.5%",
+      "votes": "1014"
+    },
+    {
+      "rating": "8",
+      "percent": "25.4%",
+      "votes": "1901"
+    },
+    {
+      "rating": "7",
+      "percent": "17.8%",
+      "votes": "1330"
+    },
+    {
+      "rating": "6",
+      "percent": "7.0%",
+      "votes": "525"
+    },
+    {
+      "rating": "5",
+      "percent": "2.8%",
+      "votes": "207"
+    },
+    {
+      "rating": "4",
+      "percent": "1.5%",
+      "votes": "114"
+    },
+    {
+      "rating": "3",
+      "percent": "1.0%",
+      "votes": "74"
+    },
+    {
+      "rating": "2",
+      "percent": "1.0%",
+      "votes": "73"
+    },
+    {
+      "rating": "1",
+      "percent": "2.8%",
+      "votes": "209"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "7490"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "21"
+    },
+    "ages18To29": {
+      "rating": "7.6",
+      "votes": "717"
+    },
+    "ages30To44": {
+      "rating": "7.4",
+      "votes": "2221"
+    },
+    "agesOver45": {
+      "rating": "7.1",
+      "votes": "609"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.3",
+      "votes": "3148"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "7.5",
+      "votes": "569"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "1751"
+    },
+    "agesOver45": {
+      "rating": "7.0",
+      "votes": "460"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.0",
+      "votes": "819"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "119"
+    },
+    "ages30To44": {
+      "rating": "7.9",
+      "votes": "431"
+    },
+    "agesOver45": {
+      "rating": "8.0",
+      "votes": "136"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "69"
+  },
+  "usUsers": {
+    "rating": "7.5",
+    "votes": "885"
+  },
+  "nonUSUsers": {
+    "rating": "7.2",
+    "votes": "1902"
+  },
+  "errorMessage": ""
+}

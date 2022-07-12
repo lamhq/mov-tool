@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "SPRIGGAN 2022",
+  "results": [
+    {
+      "id": "tt10011306",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMmQ0OWQyZjUtMmM5ZS00NjAyLWE1YmEtZThjMTlkNjgzMWJkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6800_AL_.jpg",
+      "title": "Spriggan",
+      "description": "(2022\u2013 )"
+    }
+  ],
+  "errorMessage": ""
+}

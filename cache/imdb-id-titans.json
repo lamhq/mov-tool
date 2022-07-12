@@ -1,0 +1,42 @@
+{
+  "searchType": "Series",
+  "expression": "Titans 2021",
+  "results": [
+    {
+      "id": "tt14357532",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYTJlODQ5MDQtMjAyNi00NGVlLTlkMzctMmMwZWJmNWFmNTQzXkEyXkFqcGdeQXVyMjk2MzQ1MQ@@._V1_Ratio1.7600_AL_.jpg",
+      "title": "The Titans That Built America",
+      "description": "(2021\u2013 )"
+    },
+    {
+      "id": "tt16102738",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Space Titans: Musk, Bezos Branson",
+      "description": "(2021 TV Special)"
+    },
+    {
+      "id": "tt15156102",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMGQwMTg4NGEtN2NiYS00MWY2LTlhOWUtYTk0ZjAwOGFjNDc4XkEyXkFqcGdeQXVyMTExMTAxNjA2._V1_Ratio0.6800_AL_.jpg",
+      "title": "Blind Wave: Teen Titans Reaction",
+      "description": "(2021\u2013 )"
+    },
+    {
+      "id": "tt15223050",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BOTA4MTcyZWYtYWQ1Ny00MzQxLWI1OTktMTRlOWZlMGE2ZDc0XkEyXkFqcGdeQXVyMTM1NTE3NDA5._V1_Ratio0.6800_AL_.jpg",
+      "title": "Building Titans",
+      "description": "(2021)"
+    },
+    {
+      "id": "tt14747014",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMDg5NzA3ZTctMzg2OS00MGFkLWEzNTUtYzBiYWRmYTY4MmU1XkEyXkFqcGdeQXVyNTI1Mjc2NTg@._V1_Ratio1.3200_AL_.jpg",
+      "title": "GameOn Titans",
+      "description": "(2021)"
+    }
+  ],
+  "errorMessage": ""
+}

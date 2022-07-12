@@ -1,0 +1,21 @@
+{
+  "searchType": "Movie",
+  "expression": "Sahara 2017",
+  "results": [
+    {
+      "id": "tt4466894",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_Ratio0.7200_AL_.jpg",
+      "title": "Sahara",
+      "description": "(2017)"
+    },
+    {
+      "id": "tt8102936",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "title": "Mera Sahara (My Recourse)",
+      "description": "(2017)"
+    }
+  ],
+  "errorMessage": ""
+}

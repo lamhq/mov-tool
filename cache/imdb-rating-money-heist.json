@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt15384346",
+  "title": "Money Heist: From Tokyo to Berlin",
+  "fullTitle": "Money Heist: From Tokyo to Berlin (TV Series 2021\u20132021)",
+  "type": "TVSeries",
+  "year": "2021",
+  "totalRating": "7.7",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.4%",
+      "votes": "233"
+    },
+    {
+      "rating": "9",
+      "percent": "12.0%",
+      "votes": "102"
+    },
+    {
+      "rating": "8",
+      "percent": "25.5%",
+      "votes": "217"
+    },
+    {
+      "rating": "7",
+      "percent": "20.3%",
+      "votes": "173"
+    },
+    {
+      "rating": "6",
+      "percent": "7.3%",
+      "votes": "62"
+    },
+    {
+      "rating": "5",
+      "percent": "2.6%",
+      "votes": "22"
+    },
+    {
+      "rating": "4",
+      "percent": "0.9%",
+      "votes": "8"
+    },
+    {
+      "rating": "3",
+      "percent": "0.1%",
+      "votes": "1"
+    },
+    {
+      "rating": "2",
+      "percent": "0.9%",
+      "votes": "8"
+    },
+    {
+      "rating": "1",
+      "percent": "2.9%",
+      "votes": "25"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "851"
+    },
+    "agesUnder18": {
+      "rating": "8.5",
+      "votes": "4"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "129"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "203"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "65"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.5",
+      "votes": "325"
+    },
+    "agesUnder18": {
+      "rating": "8.5",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "73"
+    },
+    "ages30To44": {
+      "rating": "7.3",
+      "votes": "159"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "56"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "94"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "39"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "39"
+    },
+    "agesOver45": {
+      "rating": "8.4",
+      "votes": "5"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.9",
+    "votes": "9"
+  },
+  "usUsers": {
+    "rating": "8.0",
+    "votes": "33"
+  },
+  "nonUSUsers": {
+    "rating": "7.5",
+    "votes": "278"
+  },
+  "errorMessage": ""
+}

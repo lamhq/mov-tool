@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "Chilling Adventures of Sabrina 2020",
+  "results": [
+    {
+      "id": "tt7569592",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BYmRiMDhhYzYtYjgwZS00NWY3LWIzYzktMjI4M2UwMjk2M2U0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "title": "Chilling Adventures of Sabrina",
+      "description": "(2018) (TV Series)"
+    }
+  ],
+  "errorMessage": ""
+}

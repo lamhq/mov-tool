@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt6156584",
+  "title": "Snowpiercer",
+  "fullTitle": "Snowpiercer (TV Series 2020\u2013 )",
+  "type": "TVSeries",
+  "year": "2020",
+  "totalRating": "6.9",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "13.3%",
+      "votes": "6986"
+    },
+    {
+      "rating": "9",
+      "percent": "10.1%",
+      "votes": "5278"
+    },
+    {
+      "rating": "8",
+      "percent": "23.2%",
+      "votes": "12166"
+    },
+    {
+      "rating": "7",
+      "percent": "25.2%",
+      "votes": "13234"
+    },
+    {
+      "rating": "6",
+      "percent": "12.6%",
+      "votes": "6597"
+    },
+    {
+      "rating": "5",
+      "percent": "6.1%",
+      "votes": "3202"
+    },
+    {
+      "rating": "4",
+      "percent": "2.9%",
+      "votes": "1504"
+    },
+    {
+      "rating": "3",
+      "percent": "1.9%",
+      "votes": "985"
+    },
+    {
+      "rating": "2",
+      "percent": "1.4%",
+      "votes": "751"
+    },
+    {
+      "rating": "1",
+      "percent": "3.4%",
+      "votes": "1787"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.9",
+      "votes": "52490"
+    },
+    "agesUnder18": {
+      "rating": "6.0",
+      "votes": "36"
+    },
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "5659"
+    },
+    "ages30To44": {
+      "rating": "6.9",
+      "votes": "14956"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "7069"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.8",
+      "votes": "23380"
+    },
+    "agesUnder18": {
+      "rating": "7.1",
+      "votes": "25"
+    },
+    "ages18To29": {
+      "rating": "7.0",
+      "votes": "3935"
+    },
+    "ages30To44": {
+      "rating": "6.8",
+      "votes": "11219"
+    },
+    "agesOver45": {
+      "rating": "6.7",
+      "votes": "5353"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.2",
+      "votes": "6882"
+    },
+    "agesUnder18": {
+      "rating": "3.9",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "7.2",
+      "votes": "1344"
+    },
+    "ages30To44": {
+      "rating": "7.1",
+      "votes": "3215"
+    },
+    "agesOver45": {
+      "rating": "7.2",
+      "votes": "1477"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.4",
+    "votes": "178"
+  },
+  "usUsers": {
+    "rating": "6.9",
+    "votes": "4259"
+  },
+  "nonUSUsers": {
+    "rating": "6.8",
+    "votes": "16385"
+  },
+  "errorMessage": ""
+}

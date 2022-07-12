@@ -1,0 +1,131 @@
+{
+  "imDbId": "tt4607722",
+  "title": "Blame",
+  "fullTitle": "Blame (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "5.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "7.7%",
+      "votes": "226"
+    },
+    {
+      "rating": "9",
+      "percent": "4.1%",
+      "votes": "120"
+    },
+    {
+      "rating": "8",
+      "percent": "9.8%",
+      "votes": "287"
+    },
+    {
+      "rating": "7",
+      "percent": "18.6%",
+      "votes": "542"
+    },
+    {
+      "rating": "6",
+      "percent": "23.1%",
+      "votes": "674"
+    },
+    {
+      "rating": "5",
+      "percent": "17.5%",
+      "votes": "511"
+    },
+    {
+      "rating": "4",
+      "percent": "8.4%",
+      "votes": "246"
+    },
+    {
+      "rating": "3",
+      "percent": "3.5%",
+      "votes": "101"
+    },
+    {
+      "rating": "2",
+      "percent": "2.3%",
+      "votes": "68"
+    },
+    {
+      "rating": "1",
+      "percent": "4.9%",
+      "votes": "144"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "2919"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "467"
+    },
+    "ages30To44": {
+      "rating": "5.9",
+      "votes": "895"
+    },
+    "agesOver45": {
+      "rating": "5.6",
+      "votes": "495"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "1202"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.9",
+      "votes": "168"
+    },
+    "ages30To44": {
+      "rating": "5.8",
+      "votes": "560"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "382"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.0",
+      "votes": "828"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "6.0",
+      "votes": "288"
+    },
+    "ages30To44": {
+      "rating": "6.1",
+      "votes": "316"
+    },
+    "agesOver45": {
+      "rating": "5.7",
+      "votes": "102"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.3",
+    "votes": "92"
+  },
+  "usUsers": {
+    "rating": "6.0",
+    "votes": "623"
+  },
+  "nonUSUsers": {
+    "rating": "5.6",
+    "votes": "908"
+  },
+  "errorMessage": ""
+}

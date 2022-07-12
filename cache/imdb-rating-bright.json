@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt5519340",
+  "title": "Bright",
+  "fullTitle": "Bright (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "totalRating": "6.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "8.1%",
+      "votes": "14968"
+    },
+    {
+      "rating": "9",
+      "percent": "5.8%",
+      "votes": "10750"
+    },
+    {
+      "rating": "8",
+      "percent": "15.3%",
+      "votes": "28361"
+    },
+    {
+      "rating": "7",
+      "percent": "26.1%",
+      "votes": "48433"
+    },
+    {
+      "rating": "6",
+      "percent": "21.6%",
+      "votes": "40165"
+    },
+    {
+      "rating": "5",
+      "percent": "11.0%",
+      "votes": "20409"
+    },
+    {
+      "rating": "4",
+      "percent": "5.3%",
+      "votes": "9879"
+    },
+    {
+      "rating": "3",
+      "percent": "3.1%",
+      "votes": "5757"
+    },
+    {
+      "rating": "2",
+      "percent": "1.8%",
+      "votes": "3313"
+    },
+    {
+      "rating": "1",
+      "percent": "2.1%",
+      "votes": "3878"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "185913"
+    },
+    "agesUnder18": {
+      "rating": "5.4",
+      "votes": "58"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "23667"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "73965"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "21906"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "114265"
+    },
+    "agesUnder18": {
+      "rating": "6.1",
+      "votes": "44"
+    },
+    "ages18To29": {
+      "rating": "6.2",
+      "votes": "19583"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "62909"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "18545"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.4",
+      "votes": "18577"
+    },
+    "agesUnder18": {
+      "rating": "3.8",
+      "votes": "10"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "3386"
+    },
+    "ages30To44": {
+      "rating": "6.4",
+      "votes": "9837"
+    },
+    "agesOver45": {
+      "rating": "6.6",
+      "votes": "2913"
+    }
+  },
+  "top1000Voters": {
+    "rating": "5.8",
+    "votes": "438"
+  },
+  "usUsers": {
+    "rating": "6.4",
+    "votes": "22625"
+  },
+  "nonUSUsers": {
+    "rating": "6.2",
+    "votes": "71424"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt2106651",
+  "title": "Spectral",
+  "fullTitle": "Spectral (2016)",
+  "type": "Movie",
+  "year": "2016",
+  "totalRating": "6.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "5.3%",
+      "votes": "3125"
+    },
+    {
+      "rating": "9",
+      "percent": "4.2%",
+      "votes": "2464"
+    },
+    {
+      "rating": "8",
+      "percent": "13.2%",
+      "votes": "7720"
+    },
+    {
+      "rating": "7",
+      "percent": "28.1%",
+      "votes": "16451"
+    },
+    {
+      "rating": "6",
+      "percent": "27.1%",
+      "votes": "15869"
+    },
+    {
+      "rating": "5",
+      "percent": "12.4%",
+      "votes": "7261"
+    },
+    {
+      "rating": "4",
+      "percent": "4.8%",
+      "votes": "2834"
+    },
+    {
+      "rating": "3",
+      "percent": "2.4%",
+      "votes": "1407"
+    },
+    {
+      "rating": "2",
+      "percent": "1.1%",
+      "votes": "664"
+    },
+    {
+      "rating": "1",
+      "percent": "1.3%",
+      "votes": "738"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "58533"
+    },
+    "agesUnder18": {
+      "rating": "6.5",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "5415"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "25373"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "10209"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "40039"
+    },
+    "agesUnder18": {
+      "rating": "6.7",
+      "votes": "9"
+    },
+    "ages18To29": {
+      "rating": "6.4",
+      "votes": "4782"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "22820"
+    },
+    "agesOver45": {
+      "rating": "6.2",
+      "votes": "9108"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "3890"
+    },
+    "agesUnder18": {
+      "rating": "7.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "6.5",
+      "votes": "500"
+    },
+    "ages30To44": {
+      "rating": "6.3",
+      "votes": "2137"
+    },
+    "agesOver45": {
+      "rating": "6.3",
+      "votes": "882"
+    }
+  },
+  "top1000Voters": {
+    "rating": "6.0",
+    "votes": "270"
+  },
+  "usUsers": {
+    "rating": "6.3",
+    "votes": "6210"
+  },
+  "nonUSUsers": {
+    "rating": "6.2",
+    "votes": "26811"
+  },
+  "errorMessage": ""
+}

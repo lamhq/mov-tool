@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4834206",
+  "title": "A Series of Unfortunate Events",
+  "fullTitle": "A Series of Unfortunate Events (TV Series 2017\u20132019)",
+  "type": "TVSeries",
+  "year": "2017",
+  "totalRating": "7.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "21.7%",
+      "votes": "12875"
+    },
+    {
+      "rating": "9",
+      "percent": "19.1%",
+      "votes": "11337"
+    },
+    {
+      "rating": "8",
+      "percent": "26.6%",
+      "votes": "15824"
+    },
+    {
+      "rating": "7",
+      "percent": "16.1%",
+      "votes": "9577"
+    },
+    {
+      "rating": "6",
+      "percent": "6.9%",
+      "votes": "4081"
+    },
+    {
+      "rating": "5",
+      "percent": "3.5%",
+      "votes": "2069"
+    },
+    {
+      "rating": "4",
+      "percent": "2.0%",
+      "votes": "1173"
+    },
+    {
+      "rating": "3",
+      "percent": "1.2%",
+      "votes": "726"
+    },
+    {
+      "rating": "2",
+      "percent": "0.9%",
+      "votes": "545"
+    },
+    {
+      "rating": "1",
+      "percent": "2.1%",
+      "votes": "1245"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "7.8",
+      "votes": "59452"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "53"
+    },
+    "ages18To29": {
+      "rating": "7.9",
+      "votes": "12449"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "16884"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "4973"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "7.7",
+      "votes": "25493"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "33"
+    },
+    "ages18To29": {
+      "rating": "7.8",
+      "votes": "7669"
+    },
+    "ages30To44": {
+      "rating": "7.6",
+      "votes": "11163"
+    },
+    "agesOver45": {
+      "rating": "7.5",
+      "votes": "3533"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "7.9",
+      "votes": "12586"
+    },
+    "agesUnder18": {
+      "rating": "7.7",
+      "votes": "12"
+    },
+    "ages18To29": {
+      "rating": "8.0",
+      "votes": "4336"
+    },
+    "ages30To44": {
+      "rating": "7.8",
+      "votes": "5338"
+    },
+    "agesOver45": {
+      "rating": "7.8",
+      "votes": "1329"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.0",
+    "votes": "225"
+  },
+  "usUsers": {
+    "rating": "7.9",
+    "votes": "7821"
+  },
+  "nonUSUsers": {
+    "rating": "7.6",
+    "votes": "18113"
+  },
+  "errorMessage": ""
+}

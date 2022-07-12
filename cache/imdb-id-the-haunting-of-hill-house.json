@@ -1,0 +1,14 @@
+{
+  "searchType": "Series",
+  "expression": "The Haunting of Hill House 2018",
+  "results": [
+    {
+      "id": "tt6763664",
+      "resultType": "Title",
+      "image": "https://imdb-api.com/images/original/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_Ratio0.6800_AL_.jpg",
+      "title": "The Haunting of Hill House",
+      "description": "(2018)"
+    }
+  ],
+  "errorMessage": ""
+}

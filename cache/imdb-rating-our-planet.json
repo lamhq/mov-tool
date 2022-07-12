@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt9253866",
+  "title": "Our Planet",
+  "fullTitle": "Our Planet (TV Series 2019\u20132019)",
+  "type": "TVSeries",
+  "year": "2019",
+  "totalRating": "9.3",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "54.3%",
+      "votes": "22697"
+    },
+    {
+      "rating": "9",
+      "percent": "25.8%",
+      "votes": "10776"
+    },
+    {
+      "rating": "8",
+      "percent": "10.4%",
+      "votes": "4370"
+    },
+    {
+      "rating": "7",
+      "percent": "3.0%",
+      "votes": "1250"
+    },
+    {
+      "rating": "6",
+      "percent": "0.9%",
+      "votes": "385"
+    },
+    {
+      "rating": "5",
+      "percent": "0.5%",
+      "votes": "209"
+    },
+    {
+      "rating": "4",
+      "percent": "0.2%",
+      "votes": "93"
+    },
+    {
+      "rating": "3",
+      "percent": "0.2%",
+      "votes": "83"
+    },
+    {
+      "rating": "2",
+      "percent": "0.2%",
+      "votes": "93"
+    },
+    {
+      "rating": "1",
+      "percent": "4.5%",
+      "votes": "1876"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "9.3",
+      "votes": "41832"
+    },
+    "agesUnder18": {
+      "rating": "8.4",
+      "votes": "37"
+    },
+    "ages18To29": {
+      "rating": "9.4",
+      "votes": "8006"
+    },
+    "ages30To44": {
+      "rating": "9.2",
+      "votes": "12737"
+    },
+    "agesOver45": {
+      "rating": "9.1",
+      "votes": "2445"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "9.3",
+      "votes": "21657"
+    },
+    "agesUnder18": {
+      "rating": "9.1",
+      "votes": "25"
+    },
+    "ages18To29": {
+      "rating": "9.4",
+      "votes": "6402"
+    },
+    "ages30To44": {
+      "rating": "9.2",
+      "votes": "10804"
+    },
+    "agesOver45": {
+      "rating": "9.1",
+      "votes": "2021"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "9.5",
+      "votes": "3542"
+    },
+    "agesUnder18": {
+      "rating": "4.8",
+      "votes": "8"
+    },
+    "ages18To29": {
+      "rating": "9.5",
+      "votes": "1164"
+    },
+    "ages30To44": {
+      "rating": "9.5",
+      "votes": "1613"
+    },
+    "agesOver45": {
+      "rating": "9.3",
+      "votes": "359"
+    }
+  },
+  "top1000Voters": {
+    "rating": "8.7",
+    "votes": "195"
+  },
+  "usUsers": {
+    "rating": "9.2",
+    "votes": "2829"
+  },
+  "nonUSUsers": {
+    "rating": "9.2",
+    "votes": "14912"
+  },
+  "errorMessage": ""
+}

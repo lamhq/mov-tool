@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt4047038",
+  "title": "Dirk Gently's Holistic Detective Agency",
+  "fullTitle": "Dirk Gently's Holistic Detective Agency (TV Series 2016\u20132017)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.2",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "27.0%",
+      "votes": "13483"
+    },
+    {
+      "rating": "9",
+      "percent": "27.6%",
+      "votes": "13748"
+    },
+    {
+      "rating": "8",
+      "percent": "25.3%",
+      "votes": "12637"
+    },
+    {
+      "rating": "7",
+      "percent": "11.2%",
+      "votes": "5599"
+    },
+    {
+      "rating": "6",
+      "percent": "4.1%",
+      "votes": "2037"
+    },
+    {
+      "rating": "5",
+      "percent": "1.7%",
+      "votes": "861"
+    },
+    {
+      "rating": "4",
+      "percent": "0.9%",
+      "votes": "441"
+    },
+    {
+      "rating": "3",
+      "percent": "0.6%",
+      "votes": "304"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "236"
+    },
+    {
+      "rating": "1",
+      "percent": "1.1%",
+      "votes": "552"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.2",
+      "votes": "49898"
+    },
+    "agesUnder18": {
+      "rating": "7.9",
+      "votes": "13"
+    },
+    "ages18To29": {
+      "rating": "8.3",
+      "votes": "6232"
+    },
+    "ages30To44": {
+      "rating": "8.2",
+      "votes": "18255"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "6891"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.1",
+      "votes": "25149"
+    },
+    "agesUnder18": {
+      "rating": "8.3",
+      "votes": "11"
+    },
+    "ages18To29": {
+      "rating": "8.2",
+      "votes": "4027"
+    },
+    "ages30To44": {
+      "rating": "8.1",
+      "votes": "13134"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "5369"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "9262"
+    },
+    "agesUnder18": {
+      "rating": "8.0",
+      "votes": "2"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "1978"
+    },
+    "ages30To44": {
+      "rating": "8.4",
+      "votes": "4729"
+    },
+    "agesOver45": {
+      "rating": "8.1",
+      "votes": "1389"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.3",
+    "votes": "204"
+  },
+  "usUsers": {
+    "rating": "8.2",
+    "votes": "4174"
+  },
+  "nonUSUsers": {
+    "rating": "8.1",
+    "votes": "20197"
+  },
+  "errorMessage": ""
+}

@@ -1,0 +1,140 @@
+{
+  "imDbId": "tt1734135",
+  "title": "Trollhunters: Tales of Arcadia",
+  "fullTitle": "Trollhunters: Tales of Arcadia (TV Series 2016\u20132018)",
+  "type": "TVSeries",
+  "year": "2016",
+  "totalRating": "8.4",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "34.2%",
+      "votes": "5687"
+    },
+    {
+      "rating": "9",
+      "percent": "26.6%",
+      "votes": "4419"
+    },
+    {
+      "rating": "8",
+      "percent": "22.1%",
+      "votes": "3680"
+    },
+    {
+      "rating": "7",
+      "percent": "8.4%",
+      "votes": "1393"
+    },
+    {
+      "rating": "6",
+      "percent": "2.7%",
+      "votes": "449"
+    },
+    {
+      "rating": "5",
+      "percent": "1.4%",
+      "votes": "229"
+    },
+    {
+      "rating": "4",
+      "percent": "0.7%",
+      "votes": "115"
+    },
+    {
+      "rating": "3",
+      "percent": "0.7%",
+      "votes": "122"
+    },
+    {
+      "rating": "2",
+      "percent": "0.5%",
+      "votes": "90"
+    },
+    {
+      "rating": "1",
+      "percent": "2.6%",
+      "votes": "431"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "8.4",
+      "votes": "16615"
+    },
+    "agesUnder18": {
+      "rating": "7.5",
+      "votes": "37"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "2289"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "5240"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "1622"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "8.3",
+      "votes": "7778"
+    },
+    "agesUnder18": {
+      "rating": "7.8",
+      "votes": "25"
+    },
+    "ages18To29": {
+      "rating": "8.5",
+      "votes": "1681"
+    },
+    "ages30To44": {
+      "rating": "8.3",
+      "votes": "3947"
+    },
+    "agesOver45": {
+      "rating": "8.2",
+      "votes": "1204"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "8.6",
+      "votes": "2481"
+    },
+    "agesUnder18": {
+      "rating": "6.9",
+      "votes": "9"
+    },
+    "ages18To29": {
+      "rating": "8.6",
+      "votes": "519"
+    },
+    "ages30To44": {
+      "rating": "8.6",
+      "votes": "1218"
+    },
+    "agesOver45": {
+      "rating": "8.5",
+      "votes": "388"
+    }
+  },
+  "top1000Voters": {
+    "rating": "7.1",
+    "votes": "142"
+  },
+  "usUsers": {
+    "rating": "8.4",
+    "votes": "2041"
+  },
+  "nonUSUsers": {
+    "rating": "8.2",
+    "votes": "4961"
+  },
+  "errorMessage": ""
+}

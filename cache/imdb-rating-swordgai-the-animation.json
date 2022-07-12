@@ -1,0 +1,137 @@
+{
+  "imDbId": "tt7415066",
+  "title": "Sword Gai: The Animation",
+  "fullTitle": "Sword Gai: The Animation (TV Series 2018\u20132018)",
+  "type": "TVSeries",
+  "year": "2018",
+  "totalRating": "5.8",
+  "totalRatingVotes": "0",
+  "ratings": [
+    {
+      "rating": "10",
+      "percent": "10.1%",
+      "votes": "93"
+    },
+    {
+      "rating": "9",
+      "percent": "4.3%",
+      "votes": "40"
+    },
+    {
+      "rating": "8",
+      "percent": "10.9%",
+      "votes": "100"
+    },
+    {
+      "rating": "7",
+      "percent": "17.1%",
+      "votes": "157"
+    },
+    {
+      "rating": "6",
+      "percent": "19.2%",
+      "votes": "177"
+    },
+    {
+      "rating": "5",
+      "percent": "16.3%",
+      "votes": "150"
+    },
+    {
+      "rating": "4",
+      "percent": "8.3%",
+      "votes": "76"
+    },
+    {
+      "rating": "3",
+      "percent": "5.3%",
+      "votes": "49"
+    },
+    {
+      "rating": "2",
+      "percent": "3.2%",
+      "votes": "29"
+    },
+    {
+      "rating": "1",
+      "percent": "5.3%",
+      "votes": "49"
+    }
+  ],
+  "demographicAll": {
+    "allAges": {
+      "rating": "5.8",
+      "votes": "920"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "5.7",
+      "votes": "155"
+    },
+    "ages30To44": {
+      "rating": "5.7",
+      "votes": "300"
+    },
+    "agesOver45": {
+      "rating": "6.1",
+      "votes": "64"
+    }
+  },
+  "demographicMales": {
+    "allAges": {
+      "rating": "5.7",
+      "votes": "491"
+    },
+    "agesUnder18": null,
+    "ages18To29": {
+      "rating": "5.8",
+      "votes": "127"
+    },
+    "ages30To44": {
+      "rating": "5.6",
+      "votes": "252"
+    },
+    "agesOver45": {
+      "rating": "5.9",
+      "votes": "51"
+    }
+  },
+  "demographicFemales": {
+    "allAges": {
+      "rating": "6.3",
+      "votes": "95"
+    },
+    "agesUnder18": {
+      "rating": "9.0",
+      "votes": "1"
+    },
+    "ages18To29": {
+      "rating": "5.5",
+      "votes": "24"
+    },
+    "ages30To44": {
+      "rating": "6.2",
+      "votes": "44"
+    },
+    "agesOver45": {
+      "rating": "7.9",
+      "votes": "11"
+    }
+  },
+  "top1000Voters": {
+    "rating": "4.9",
+    "votes": "13"
+  },
+  "usUsers": {
+    "rating": "5.8",
+    "votes": "107"
+  },
+  "nonUSUsers": {
+    "rating": "5.7",
+    "votes": "300"
+  },
+  "errorMessage": ""
+}
