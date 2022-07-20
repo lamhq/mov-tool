@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 import urllib.parse
 import json
 import pandas as pd
@@ -16,16 +17,19 @@ IMDB_API_KEY = 'k_x9atwnz9' # gravitylabs
 def loadMovieList():
   return pd.read_csv(MOV_LST_FILE, index_col='Netflix Id')
 
+
 def saveMovieList(df):
   return df.to_csv(MOV_LST_FILE)
+
 
 def updateMovieDb():
   movRecords = getNetflixMovList()
   if exists(MOV_LST_FILE):
     df = loadMovieList()
     newMovies = [mov for mov in movRecords if mov['Netflix Id'] not in df.index]
-    df = pd.concat([df, pd.DataFrame.from_records(newMovies, index='Netflix Id')])
-    logging.info(f"Adding {len(newMovies)} movies")
+    if newMovies:
+      df = pd.concat([df, pd.DataFrame.from_records(newMovies, index='Netflix Id')])
+      logging.info(f"Adding {len(newMovies)} movies")
   else:
     df = pd.DataFrame.from_records(movRecords, index='Netflix Id')
 
@@ -34,7 +38,6 @@ def updateMovieDb():
 
 
 def updateMovieRating():
-  # https://www.imdb.com/title/tt1959490/
   df = loadMovieList()
   # df2 = df[df['Imdb Rating'].isnull() & (df['Movie Type']=='Movie') & (df['Netflix Original']==False)]
   df2 = df[df['Imdb Rating'].isnull()]
@@ -47,13 +50,38 @@ def updateMovieRating():
   saveMovieList(df)
 
 
+def updateMovieGenres():
+  df = loadMovieList()
+  df2 = df[df['Genres'].isnull() & df['Imdb Id'].notnull()]
+  for index, mov in df2.iterrows():
+    try:
+      getMovieGenres(mov)
+      df.loc[index] = mov
+    except:
+      logging.warning(f"Error when getting genres of {mov['Title']}")
+  saveMovieList(df)
+
+
+def resetMovieData():
+  df = loadMovieList()
+  df2 = df[df['Genres'].isnull()]
+  for index, mov in df2.iterrows():
+    try:
+      mov['Imdb Id'] = ''
+      mov['Imdb Rating'] = ''
+      df.loc[index] = mov
+    except:
+      logging.warning(f"Error when getting genres of {mov['Title']}")
+  saveMovieList(df)
+
+
 def getNetflixMovList():
   cacheKey = 'nflx-mov-list'
   cacheVal = getCache(cacheKey)
   if cacheVal:
     data = cacheVal
   else:
-    url = 'https://www.netflix.com/nq/website/memberapi/v267c6c70/pathEvaluator?avif=false&webp=true&drmSystem=widevine&isVolatileBillboardsEnabled=true&routeAPIRequestsThroughFTL=false&isTop10Supported=true&isTop10KidsSupported=true&hasVideoMerchInBob=true&hasVideoMerchInJaw=true&persoInfoDensity=false&infoDensityToggle=false&contextAwareImages=true&enableMultiLanguageCatalog=false&usePreviewModal=true&falcor_server=0.1.0&withSize=true&materialize=true&original_path=%2Fshakti%2Fv267c6c70%2FpathEvaluator'
+    url = 'https://www.netflix.com/nq/website/memberapi/v4c8c6e50/pathEvaluator?avif=false&webp=true&drmSystem=widevine&isVolatileBillboardsEnabled=true&routeAPIRequestsThroughFTL=false&isTop10Supported=true&isTop10KidsSupported=true&hasVideoMerchInBob=true&hasVideoMerchInJaw=true&persoInfoDensity=false&infoDensityToggle=false&contextAwareImages=true&enableMultiLanguageCatalog=false&usePreviewModal=true&falcor_server=0.1.0&withSize=true&materialize=true&original_path=%2Fshakti%2Fv4c8c6e50%2FpathEvaluator'
     maxItemIndex = 1000
     payload=f'path=%5B%22mylist%22%2C%5B%22id%22%2C%22listId%22%2C%22name%22%2C%22requestId%22%2C%22trackIds%22%5D%5D&path=%5B%22mylist%22%2C%7B%22from%22%3A0%2C%22to%22%3A{maxItemIndex}%7D%2C%5B%22availability%22%2C%22episodeCount%22%2C%22inRemindMeList%22%2C%22itemSummary%22%2C%22queue%22%2C%22summary%22%5D%5D&authURL=1656735386949.ilLXtrHw22MnWNrX3jwMASMQZwQ%3D'
     headers = {
@@ -122,6 +150,17 @@ def getImdbMovId(mov):
   mov['Imdb Id'] = data['results'][0]['id']
 
 
+def getMovieGenres(mov):
+  imdbMovId = mov['Imdb Id']
+  logging.info(f"Getting genre of {mov['Title']} movies")
+  # https://www.imdb.com/title/tt1959490/
+  url = f'https://www.imdb.com/title/{imdbMovId}'
+  response = requests.request("GET", url)
+  soup = BeautifulSoup(response.text, 'html.parser')
+  genres = [genreTag.get_text().strip() for genreTag in soup.find_all(class_='ipc-chip__text')]
+  mov['Genres'] = ','.join(genres)
+
+
 def convertNetflixMoviesToRecords(data):
   # jsonGraph / videos / {80229873}
   videos = data['jsonGraph']['videos']
@@ -179,5 +218,3 @@ def setCache(key, value):
   out_file = open(cacheFile, "w", encoding='utf-8')
   json.dump(value, out_file, indent = 2)
   out_file.close()
-
-# updateMovieRating()
