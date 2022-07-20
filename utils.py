@@ -37,6 +37,9 @@ def updateMovieDb():
   return df
 
 
+def updateImdbInfo():
+  pass
+
 def updateMovieRating():
   df = loadMovieList()
   # df2 = df[df['Imdb Rating'].isnull() & (df['Movie Type']=='Movie') & (df['Netflix Original']==False)]
@@ -62,16 +65,13 @@ def updateMovieGenres():
   saveMovieList(df)
 
 
-def resetMovieData():
+def resetMovieData(ids):
   df = loadMovieList()
-  df2 = df[df['Genres'].isnull()]
-  for index, mov in df2.iterrows():
-    try:
-      mov['Imdb Id'] = ''
-      mov['Imdb Rating'] = ''
-      df.loc[index] = mov
-    except:
-      logging.warning(f"Error when getting genres of {mov['Title']}")
+  for index in ids:
+    mov = df.loc[index]
+    mov['Imdb Id'] = ''
+    mov['Imdb Rating'] = ''
+    df.loc[index] = mov
   saveMovieList(df)
 
 
@@ -140,6 +140,9 @@ def getImdbMovId(mov):
     logging.info(f'Finding movie with title: "{title}"')
     response = requests.request("GET", url)
     data = response.json()
+
+    # TODO: check release year in movie description
+
     if data['errorMessage']:
       raise Exception(f"Get imdb movie id error: {data['errorMessage']}")
     setCache(cacheKey, data)
