@@ -1,18 +1,17 @@
-# Personal Tool
+# Movie Tool
 
-Script to automate personal tasks
+This tool help me find movies to watch on Netflix. With so many options available, it can be difficult to decide what to watch first.
+
+## Prioritization Criteria
+
+- Movies that are about to leave Netflix
+- Movies with the highest rating on IMDB
+- Movies in the genres of comedy, fantasy, romance, and blockbusters
+- Single movies only (not part of a series)
 
 
-## Todo
+## Features
 
-- [x] validate imdb rating score
-- [x] move Rating after Title
-- [x] rename Rating to Imdb Rating
-- [x] add Netflix Link column
-- [x] filter movie by Type, Netflix Original
-- [x] refactor code of updateMovieDb: move Rating logic out
-- [x] add column imdb id
-- [x] update movie rating
-- [ ] find last day to watch
-- [ ] add Imdb Link column
-- [ ] find and download imdb rating database
+- Sync movies from "My List" on Netflix
+- Retrieve the last day to watch a movie
+- Fetch movie rating and genres from IMDB.
