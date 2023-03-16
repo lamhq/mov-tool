@@ -5,6 +5,7 @@ from typing import Optional, List
 import imdb
 import re
 import datetime
+import json
 
 class MovieInfo:
   rating: float
@@ -173,6 +174,23 @@ class HttpNetflixStrategy:
         current_date_time = datetime.date.today()
         expire_date = current_date_time.replace(month=month, day=day)
     return expire_date
+
+  def remove_movie_from_list(self, mov_id):
+    url = 'https://www.netflix.com/api/shakti/mre/playlistop'
+    data = {"operation":"remove",
+      "videoId":mov_id,
+      "trackId":14277281,
+      "skipRootInvalidation":False,
+      "authURL":"1678953577968.uhB2Xa1Ai+g2a7z8LbWA5WTbH1A="
+    }
+    headers = {
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
+      'Cookie': self.cookie
+    }
+    response = requests.request("POST", url, headers=headers, data=json.dumps(data))
+
+    if response.status_code != 200:
+      raise Exception(f'Can not call API, status code: {response.status_code}, error: {response.text}')
 
 # def getImdbMovId(mov):
 #   # https://imdb-api.com/api/
