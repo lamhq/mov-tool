@@ -8,10 +8,12 @@ import datetime
 import json
 
 class MovieInfo:
+  id: str
   rating: float
   genres: List[str]
 
-  def __init__(self, rating: float, genres: List[str]) -> None:
+  def __init__(self, id: str, rating: float, genres: List[str]) -> None:
+    self.id = id
     self.rating = rating
     self.genres = genres
 
@@ -102,8 +104,8 @@ class CinemagoerImdbStrategy:
     mov_id = self.find_movie(title, year)
     movie = self.ia.get_movie(mov_id)
     rating = None if 'rating' not in movie else movie['rating']
-    genres = None if 'genre' not in movie else movie['genre']
-    return  MovieInfo(rating=rating, genres=genres)
+    genres = [] if 'genre' not in movie else movie['genre']
+    return  MovieInfo(id=f'tt{mov_id}', rating=rating, genres=genres)
 
 
 class HttpNetflixStrategy:
