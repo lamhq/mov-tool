@@ -21,40 +21,6 @@ class MovieInfo:
     return f"rating: {self.rating}, genres: {','.join(self.genres)}"
 
 
-class ApiKeyImdbStrategy:
-  api_key: str
-
-  def __init__(self, api_key: str):
-    self.api_key = api_key
-
-  def find_movie(self, title: str, year: Optional[int]) -> Optional[str]:
-    q = urllib.parse.quote(title) + '%20' +str(year)
-    url = f'https://v3.sg.media-imdb.com/suggestion/x/{q}.json?includeVideos=0'
-    response = requests.get(url)
-
-    if response.status_code != 200:
-      raise Exception(f'Can not call API, status code: {response.status_code}, error: {response.text}')
-
-    resp_data = response.json()
-    if len(resp_data['d']) == 0:
-      return None
-
-    movie = resp_data['d'][0]
-    return movie['id'] if movie['y'] == year else None
-
-  def get_movie_info(self, title: str, year: Optional[int]) -> Optional[MovieInfo]:
-    # https://imdb-api.com/api/
-    # https://imdb-api.com/en/API/UserRatings/k_e9n79f4d/tt4574334
-    mov_id = self.find_movie(title, year)
-    url = f'https://imdb-api.com/en/API/UserRatings/{self.api_key}/{mov_id}'
-    response = requests.request("GET", url)
-    data = response.json()
-    if data['errorMessage']:
-      raise Exception(f"Get imdb rating error: {data['errorMessage']}")
-
-    return  MovieInfo(data['totalRating'], [])
-
-
 class HttpImdbStrategy:
 
   def find_movie(self, title: str, year: Optional[int]) -> Optional[str]:
@@ -89,6 +55,7 @@ class HttpImdbStrategy:
     ratingTag = soup.find(class_='gvYTvP')
     rating = None if ratingTag is None else float(ratingTag.get_text().strip())
     return  MovieInfo(rating, genres)
+
 
 class CinemagoerImdbStrategy:
   ia = None
@@ -173,8 +140,8 @@ class HttpNetflixStrategy:
         month_name = match.group(1)
         day = int(match.group(2))
         month = datetime.datetime.strptime(month_name, "%B").month
-        current_date_time = datetime.date.today()
-        expire_date = current_date_time.replace(month=month, day=day)
+        current_date_time = datetime.datetime.now()
+        expire_date = current_date_time.replace(month=month, day=day, hour=0, minute=0, second=0)
     return expire_date
 
   def remove_movie_from_list(self, mov_id):
@@ -193,6 +160,12 @@ class HttpNetflixStrategy:
 
     if response.status_code != 200:
       raise Exception(f'Can not call API, status code: {response.status_code}, error: {response.text}')
+
+
+def get_current_date() ->datetime.datetime:
+  date_obj = datetime.date.today()
+  datetime_obj = datetime.datetime.combine(date_obj, datetime.time.min) # convert date object to datetime object
+  return datetime_obj
 
 # def getImdbMovId(mov):
 #   # https://imdb-api.com/api/
